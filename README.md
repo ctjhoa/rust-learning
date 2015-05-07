@@ -68,7 +68,7 @@ None
 * [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)[ part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
 
 ### Iterators
-* [An alternative introduction to Rust - steveklabnik](http://words.steveklabnik.com/a-new-introduction-to-rust)
+* [A Journey into Iterators - Hoverbear](http://hoverbear.org/2015/05/02/a-journey-into-iterators/)
 
 ### Macros
 * [A Quick Intro to Rust Macros - danielkeep](https://danielkeep.github.io/quick-intro-to-macros.html)
