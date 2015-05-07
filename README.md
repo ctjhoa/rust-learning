@@ -54,7 +54,7 @@ None
 ## Comparison with Other Languages
 * [Ruby](http://www.rustforrubyists.com/) - [Steve Klabnik][]
 * [C++](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
-* [Swift - sealedabstract](http://faq.sealedabstract.com/rust/)
+* [Swift](http://faq.sealedabstract.com/rust/) - sealedabstract
 
 ## Text Editor Bundles
 * [racer](https://github.com/phildawes/racer) - phildawes
