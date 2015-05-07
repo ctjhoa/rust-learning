@@ -65,7 +65,7 @@ None
 * [An alternative introduction to Rust - steveklabnik](http://words.steveklabnik.com/a-new-introduction-to-rust)
 
 ### Monads
-* [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)[part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
+* [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)[ part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
 
 ### Iterators
 * [An alternative introduction to Rust - steveklabnik](http://words.steveklabnik.com/a-new-introduction-to-rust)
