@@ -58,6 +58,8 @@ None
 ## Text Editor Bundles
 * [racer - phildawes](https://github.com/phildawes/racer)
 * [rustfmt - ahmedcharles](https://github.com/ahmedcharles/rustfmt)
+* [rustfmt](https://github.com/pcwalton/rustfmt) - [Patrick Walton][]
+* [rustfmt](https://github.com/ncr/rustfmt) - [Nick Cameron][]
 
 ## Development Tools
 * [rust-clippy](https://github.com/Manishearth/rust-clippy) - [Manish Goregaokar][]
@@ -69,10 +71,11 @@ None
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 
 ### Monads
-* [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)[ part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
+* [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
+* [rust-itertools](https://github.com/bluss/rust-itertools) [bluss][]
 
 ### Macros
 * [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
@@ -141,3 +144,4 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 <!-- Others -->
 [Daniel Keep]: https://github.com/DanielKeep
 [Andrew Hobden]: https://github.com/Hoverbear
+[bluss]: https://github.com/bluss
