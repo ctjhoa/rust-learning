@@ -19,27 +19,27 @@ The official docs is always the best begining, so if you haven't read yet, start
 [Development Tools](#development-tools)
 
 ### Books
-None
+* [official] [Rust book](http://doc.rust-lang.org/nightly/book/)
 
 ### Videos
-* [Stanford Seminar - Aaron Turon of Mozilla](https://www.youtube.com/watch?v=O5vzLKg7y-k)
-* [Intro to the Rust programming language - Alex Crichton of Mozilla](https://www.youtube.com/watch?v=agzf6ftEsLU)
+* [official] [Stanford Seminar - Aaron Turon of Mozilla](https://www.youtube.com/watch?v=O5vzLKg7y-k)
+* [official] [Intro to the Rust programming language - Alex Crichton of Mozilla](https://www.youtube.com/watch?v=agzf6ftEsLU)
 
 ### Rust in pratice
-* [rustbyexample](http://rustbyexample.com/)
+* [official] [rustbyexample](http://rustbyexample.com/)
 * [rosettacode](http://rosettacode.org/wiki/Category:Rust)
 
 ### Courses
 * [aml3 RustTutorial](https://aml3.github.io/RustTutorial/)
 
 ### Best Practices/Style Guides
-* [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
+* [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
 
 ### Code Organisation
 None
 
 ### Testing
-None
+* [Helping Travis catch the rustc train](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/)
 
 ### Comparison with Other Languages
 * [Ruby](http://www.rustforrubyists.com/)
