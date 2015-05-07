@@ -8,7 +8,6 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Table of Contents
 - [Books](#books)
 - [Videos](#videos)
-- [Alternative tutorials](#alternative-tutorials)
 - [Rust in pratice](#rust-in-pratice)
 - [Courses](#courses)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
@@ -27,7 +26,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 
 ## Videos
 * [official] [Stanford Seminar - aturon](https://www.youtube.com/watch?v=O5vzLKg7y-k)
-* [official] [Intro to the Rust programming language - alexcrichton](https://www.youtube.com/watch?v=agzf6ftEsLU)
+* [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
 * [OReilly's Programming in Rust - jimblandy](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/)
 
 ## Rust in pratice
@@ -40,7 +39,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
 
-## Code Organisation
+## Code Organization
 None
 
 ## Testing
@@ -72,3 +71,34 @@ None
 
 ### Macros
 * [A Quick Intro to Rust Macros - danielkeep](https://danielkeep.github.io/quick-intro-to-macros.html)
+
+## People
+
+### Rust Core Team
+* [Alex Crichton][]
+* [Andrew Gallant][]
+* [Carl Lerche][]
+* [Chris Morgan][]
+* [Eduard Burtescu][]
+* [Jakub Bukaj][]
+* [Luqman Aden][]
+* [Seo Sanghyeon][]
+* [Steven Fackler][]
+* [Felix S Klock II][]
+* [Aaron Turon][]
+* [Steve Klabnik][]
+* [Yehuda Katz][]
+
+[Alex Crichton]: https://github.com/alexcrichton
+[Andrew Gallant]: https://github.com/BurntSushi
+[Carl Lerche]: https://github.com/carllerche
+[Chris Morgan]: https://github.com/chris-morgan
+[Eduard Burtescu]: https://github.com/eddyb
+[Jakub Bukaj]: https://github.com/jakub-
+[Luqman Aden]: https://github.com/luqmana
+[Seo Sanghyeon]: https://github.com/sanxiyn
+[Steven Fackler]: https://github.com/sfackler
+[Felix S Klock II]: https://github.com/pnkfelix
+[Aaron Turon]: https://github.com/aturon
+[Steve Klabnik]: https://github.com/steveklabnik
+[Yehuda Katz]: https://github.com/wycats
