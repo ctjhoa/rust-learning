@@ -102,6 +102,7 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Felix S Klock II][]
 * [Jakub Bukaj][]
 * [Jim Blandy][]
+* [Jorge Aparicio][]
 * [Luqman Aden][]
 * [Nick Cameron][]
 * [Seo Sanghyeon][]
@@ -131,6 +132,7 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 [Felix S Klock II]: https://github.com/pnkfelix
 [Jakub Bukaj]: https://github.com/jakub-
 [Jim Blandy]: https://github.com/jimblandy
+[Jorge Aparicio]: https://github.com/japaric
 [Luqman Aden]: https://github.com/luqmana
 [Nick Cameron]: https://github.com/nrc
 [Seo Sanghyeon]: https://github.com/sanxiyn
