@@ -69,3 +69,6 @@ None
 
 ### Iterators
 * [An alternative introduction to Rust - steveklabnik](http://words.steveklabnik.com/a-new-introduction-to-rust)
+
+### Macros
+* [A Quick Intro to Rust Macros - danielkeep](https://danielkeep.github.io/quick-intro-to-macros.html)
