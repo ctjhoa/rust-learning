@@ -47,8 +47,8 @@ None
 * [Helping Travis catch the rustc train - huonw](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/)
 
 ## Comparison with Other Languages
-* [Ruby](http://www.rustforrubyists.com/)
-* [C++ - ](http://aminb.gitbooks.io/rust-for-c/content/)
+* [Ruby - steveklabnik](http://www.rustforrubyists.com/)
+* [C++ - nrc](http://aminb.gitbooks.io/rust-for-c/content/)
 * [Swift - sealedabstract](http://faq.sealedabstract.com/rust/)
 
 ## Text Editor Bundles
