@@ -23,6 +23,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
   - [Macros](#macros)
 - [People](#people)
   - [Rust Core Team](#rust-core-team)
+  - [Rust Gurus](#rust-gurus)
   - [Servo Team](#servo-team)
 
 ## Books
@@ -80,44 +81,56 @@ None
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
 ### Rust Core Team
+* [Aaron Turon][]
 * [Alex Crichton][]
+* [Brian Anderson][]
+* [Huon Wilson][]
+* [Niko Matsakis][]
+* [Patrick Walton][]
+* [Yehuda Katz][]
+* [Steve Klabnik][]
+
+### Rust Gurus
 * [Andrew Gallant][]
 * [Carl Lerche][]
 * [Chris Morgan][]
 * [Eduard Burtescu][]
+* [Felix S Klock II][]
 * [Jakub Bukaj][]
+* [Jim Blandy][]
 * [Luqman Aden][]
+* [Nick Cameron][]
 * [Seo Sanghyeon][]
 * [Steven Fackler][]
-* [Felix S Klock II][]
-* [Aaron Turon][]
-* [Jim Blandy][]
-* [Steve Klabnik][]
-* [Yehuda Katz][]
-* [Nick Cameron][]
 
 ### Servo Team
 * [Josh Matthews][]
 * [Manish Goregaokar][]
-* [Tetsuharu OHZEKI][]
 * [Simon Sapin][]
+* [Tetsuharu OHZEKI][]
 
 <!-- Rust Core Team -->
+[Aaron Turon]: https://github.com/aturon
 [Alex Crichton]: https://github.com/alexcrichton
+[Brian Anderson]: https://github.com/brson
+[Huon Wilson]: https://github.com/huonw
+[Niko Matsakis]: https://github.com/nikomatsakis
+[Patrick Walton]: https://github.com/pcwalton
+[Yehuda Katz]: https://github.com/wycats
+[Steve Klabnik]: https://github.com/steveklabnik
+
+<!-- Rust Gurus -->
 [Andrew Gallant]: https://github.com/BurntSushi
 [Carl Lerche]: https://github.com/carllerche
 [Chris Morgan]: https://github.com/chris-morgan
 [Eduard Burtescu]: https://github.com/eddyb
+[Felix S Klock II]: https://github.com/pnkfelix
 [Jakub Bukaj]: https://github.com/jakub-
+[Jim Blandy]: https://github.com/jimblandy
 [Luqman Aden]: https://github.com/luqmana
+[Nick Cameron]: https://github.com/nrc
 [Seo Sanghyeon]: https://github.com/sanxiyn
 [Steven Fackler]: https://github.com/sfackler
-[Felix S Klock II]: https://github.com/pnkfelix
-[Aaron Turon]: https://github.com/aturon
-[Jim Blandy]: https://github.com/jimblandy
-[Steve Klabnik]: https://github.com/steveklabnik
-[Yehuda Katz]: https://github.com/wycats
-[Nick Cameron]: https://github.com/nrc
 
 <!-- Servo Team -->
 [Josh Matthews]: https://github.com/jdm
