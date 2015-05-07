@@ -20,18 +20,22 @@ The main documentation is always the best begining, so if you haven't read yet, 
   - [Borrowing / Concurrency](#borrowing--concurrency)
   - [Monads](#monads)
   - [Iterators](#iterators)
+  - [Macros](#macros)
+- [People](#people)
+  - [Rust Core Team](#rust-core-team)
+  - [Servo Team](#servo-team)
 
 ## Books
-* [official] [Rust book](http://doc.rust-lang.org/nightly/book/)
+* [official] [The Rust Programming Language book](http://doc.rust-lang.org/nightly/book/)
 
 ## Videos
-* [official] [Stanford Seminar - aturon](https://www.youtube.com/watch?v=O5vzLKg7y-k)
+* [official] [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
 * [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
-* [OReilly's Programming in Rust - jimblandy](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/)
+* [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) [Jim Blandy][]
 
 ## Rust in pratice
-* [official] [rustbyexample - steveklabnik](http://rustbyexample.com/)
-* [rosettacode](http://rosettacode.org/wiki/Category:Rust)
+* [official] [rustbyexample](http://rustbyexample.com/) - [Steve Klabnik][]
+* [rosettacode](http://rosettacode.org/wiki/Category:Rust) - [Andrew Hobden][]
 
 ## Courses
 * [RustTutorial - aml3](https://aml3.github.io/RustTutorial/)
@@ -46,8 +50,8 @@ None
 * [Helping Travis catch the rustc train - huonw](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/)
 
 ## Comparison with Other Languages
-* [Ruby - steveklabnik](http://www.rustforrubyists.com/)
-* [C++ - nrc](http://aminb.gitbooks.io/rust-for-c/content/)
+* [Ruby](http://www.rustforrubyists.com/) - [Steve Klabnik][]
+* [C++](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
 * [Swift - sealedabstract](http://faq.sealedabstract.com/rust/)
 
 ## Text Editor Bundles
@@ -55,24 +59,25 @@ None
 * [rustfmt - ahmedcharles](https://github.com/ahmedcharles/rustfmt)
 
 ## Development Tools
-* [rust-clippy - Manishearth](https://github.com/Manishearth/rust-clippy)
+* [rust-clippy](https://github.com/Manishearth/rust-clippy) - [Manish Goregaokar][]
 
 ## Language stuff
 
 ### Borrowing / Concurrency
-* [official] [Fearless Concurrency with Rust - aturon](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
-* [An alternative introduction to Rust - steveklabnik](http://words.steveklabnik.com/a-new-introduction-to-rust)
+* [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
+* [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 
 ### Monads
 * [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html)[ part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
 
 ### Iterators
-* [A Journey into Iterators - Hoverbear](http://hoverbear.org/2015/05/02/a-journey-into-iterators/)
+* [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
 
 ### Macros
-* [A Quick Intro to Rust Macros - danielkeep](https://danielkeep.github.io/quick-intro-to-macros.html)
+* [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
 
 ## People
+You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
 ### Rust Core Team
 * [Alex Crichton][]
@@ -86,9 +91,18 @@ None
 * [Steven Fackler][]
 * [Felix S Klock II][]
 * [Aaron Turon][]
+* [Jim Blandy][]
 * [Steve Klabnik][]
 * [Yehuda Katz][]
+* [Nick Cameron][]
 
+### Servo Team
+* [Josh Matthews][]
+* [Manish Goregaokar][]
+* [Tetsuharu OHZEKI][]
+* [Simon Sapin][]
+
+<!-- Rust Core Team -->
 [Alex Crichton]: https://github.com/alexcrichton
 [Andrew Gallant]: https://github.com/BurntSushi
 [Carl Lerche]: https://github.com/carllerche
@@ -100,5 +114,17 @@ None
 [Steven Fackler]: https://github.com/sfackler
 [Felix S Klock II]: https://github.com/pnkfelix
 [Aaron Turon]: https://github.com/aturon
+[Jim Blandy]: https://github.com/jimblandy
 [Steve Klabnik]: https://github.com/steveklabnik
 [Yehuda Katz]: https://github.com/wycats
+[Nick Cameron]: https://github.com/nrc
+
+<!-- Servo Team -->
+[Josh Matthews]: https://github.com/jdm
+[Manish Goregaokar]: https://github.com/Manishearth
+[Tetsuharu OHZEKI]: https://github.com/saneyuki
+[Simon Sapin]: https://github.com/SimonSapin
+
+<!-- Others -->
+[Daniel Keep]: https://github.com/DanielKeep
+[Andrew Hobden]: https://github.com/Hoverbear
