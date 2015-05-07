@@ -37,9 +37,10 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Rust in pratice
 * [official] [rustbyexample](http://rustbyexample.com/) - [Steve Klabnik][]
 * [rosettacode](http://rosettacode.org/wiki/Category:Rust) - [Andrew Hobden][]
+* [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 
 ## Courses
-* [RustTutorial - aml3](https://aml3.github.io/RustTutorial/)
+* [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
@@ -48,7 +49,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 None
 
 ## Testing
-* [Helping Travis catch the rustc train - huonw](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/)
+* [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) [part 2]() - [Huon Wilson][]
 
 ## Comparison with Other Languages
 * [Ruby](http://www.rustforrubyists.com/) - [Steve Klabnik][]
@@ -56,8 +57,8 @@ None
 * [Swift - sealedabstract](http://faq.sealedabstract.com/rust/)
 
 ## Text Editor Bundles
-* [racer - phildawes](https://github.com/phildawes/racer)
-* [rustfmt - ahmedcharles](https://github.com/ahmedcharles/rustfmt)
+* [racer](https://github.com/phildawes/racer) - phildawes
+* [rustfmt](https://github.com/ahmedcharles/rustfmt) - ahmedcharles
 * [rustfmt](https://github.com/pcwalton/rustfmt) - [Patrick Walton][]
 * [rustfmt](https://github.com/ncr/rustfmt) - [Nick Cameron][]
 
@@ -71,7 +72,7 @@ None
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 
 ### Monads
-* [Option Type - 8thlight part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html)
+* [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
