@@ -80,7 +80,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Peeking inside Trait Objects](http://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)
 * [The Sized Trait](http://huonw.github.io/blog/2015/01/the-sized-trait/)
 * [Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)
-* [Where Self Meets Sized: Revisting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
+* [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [RFC 255](https://github.com/rust-lang/rfcs/blob/master/text/0255-object-safety.md)
 * [RFC 546](https://github.com/rust-lang/rfcs/blob/master/text/0546-Self-not-sized-by-default.md)
 
