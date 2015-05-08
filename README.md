@@ -143,4 +143,3 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 [Daniel Keep]: https://github.com/DanielKeep
 [Andrew Hobden]: https://github.com/Hoverbear
 [bluss]: https://github.com/bluss
-[Jorge Aparicio]: https://github.com/japaric/
