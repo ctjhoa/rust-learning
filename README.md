@@ -67,6 +67,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Monads
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
+* [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/)
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
