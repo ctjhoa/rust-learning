@@ -14,8 +14,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 - [Code Organization](#code-organization)
 - [Testing](#testing)
 - [Comparison with Other Languages](#comparison-with-other-languages)
-- [Text Editor Bundles](#text-editor-bundles)
-- [Development Tools](#development-tools)
+- [Applications / Libraries / Tools](#applications--libraries--tools)
 - [Language stuff](#language-stuff)
   - [Borrowing / Concurrency](#borrowing--concurrency)
   - [Monads](#monads)
@@ -58,16 +57,6 @@ None
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
-<!--
-## Text Editor Bundles
-* [racer](https://github.com/phildawes/racer) - phildawes
-* [rustfmt](https://github.com/ahmedcharles/rustfmt) - ahmedcharles
-* [rustfmt](https://github.com/pcwalton/rustfmt) - [Patrick Walton][]
-* [rustfmt](https://github.com/ncr/rustfmt) - [Nick Cameron][]
-
-## Development Tools
-* [rust-clippy](https://github.com/Manishearth/rust-clippy) - [Manish Goregaokar][]
--->
 
 ## Language stuff
 
