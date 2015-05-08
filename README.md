@@ -47,8 +47,9 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Code Organization
 None
 
-## Testing
+## CI, Testing
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2]() - [Huon Wilson][]
+* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) | [Andrew Hobden]()
 
 ## Comparison with Other Languages
 * [Ruby](http://www.rustforrubyists.com/) - [Steve Klabnik][]
