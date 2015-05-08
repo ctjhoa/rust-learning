@@ -56,6 +56,9 @@ None
 * [C++](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
 * [Swift](http://faq.sealedabstract.com/rust/) - sealedabstract
 
+## Applications / Libraries / Tools
+See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
+<!--
 ## Text Editor Bundles
 * [racer](https://github.com/phildawes/racer) - phildawes
 * [rustfmt](https://github.com/ahmedcharles/rustfmt) - ahmedcharles
@@ -64,6 +67,7 @@ None
 
 ## Development Tools
 * [rust-clippy](https://github.com/Manishearth/rust-clippy) - [Manish Goregaokar][]
+-->
 
 ## Language stuff
 
