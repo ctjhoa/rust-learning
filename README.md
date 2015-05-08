@@ -76,6 +76,20 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Macros
 * [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
 
+### Trait object safety
+* [Peeking inside Trait Objects](http://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/)
+* [The Sized Trait](http://huonw.github.io/blog/2015/01/the-sized-trait/)
+* [Object Safety](http://huonw.github.io/blog/2015/01/object-safety/)
+* [Where Self Meets Sized: Revisting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
+* [RFC 255](https://github.com/rust-lang/rfcs/blob/master/text/0255-object-safety.md)
+* [RFC 546](https://github.com/rust-lang/rfcs/blob/master/text/0546-Self-not-sized-by-default.md)
+
+### UFCS
+* [RFC 132](https://github.com/rust-lang/rfcs/blob/master/text/0132-ufcs.md)
+
+### Associated items
+* [RFC 195](https://github.com/rust-lang/rfcs/blob/master/text/0195-associated-items.md)
+
 ## People
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
