@@ -34,7 +34,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 * [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
 
 ## Rust in pratice
-* [official] [rustbyexample](http://rustbyexample.com/) - [Steve Klabnik][]
+* [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
 * [rosettacode](http://rosettacode.org/wiki/Category:Rust) - [Andrew Hobden][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 
@@ -143,3 +143,4 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 [Daniel Keep]: https://github.com/DanielKeep
 [Andrew Hobden]: https://github.com/Hoverbear
 [bluss]: https://github.com/bluss
+[Jorge Aparicio]: https://github.com/japaric/
