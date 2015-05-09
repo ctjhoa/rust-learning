@@ -11,6 +11,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 - [Rust in pratice](#rust-in-pratice)
 - [Courses](#courses)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
+- [RFCs](#rfcs)
 - [Code Organization](#code-organization)
 - [CI / Testing](#ci--testing)
 - [Comparison with Other Languages](#comparison-with-other-languages)
@@ -44,6 +45,9 @@ The main documentation is always the best begining, so if you haven't read yet, 
 
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
+
+## RFCs
+See [Rust RFCs](https://github.com/rust-lang/rfcs)
 
 ## Code Organization
 None
