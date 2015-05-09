@@ -12,7 +12,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 - [Courses](#courses)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
 - [Code Organization](#code-organization)
-- [Testing](#testing)
+- [CI / Testing](#ci--testing)
 - [Comparison with Other Languages](#comparison-with-other-languages)
 - [Applications / Libraries / Tools](#applications--libraries--tools)
 - [Language stuff](#language-stuff)
@@ -48,7 +48,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Code Organization
 None
 
-## CI, Testing
+## CI / Testing
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2]() - [Huon Wilson][]
 * [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) | [Andrew Hobden]()
 
