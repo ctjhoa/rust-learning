@@ -35,7 +35,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 
 ## Rust in pratice
 * [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
-* [rosettacode](http://rosettacode.org/wiki/Category:Rust) - [Andrew Hobden][]
+* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 
 ## Courses
