@@ -19,6 +19,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
   - [Borrowing / Concurrency](#borrowing--concurrency)
   - [Monads](#monads)
   - [Iterators](#iterators)
+  - [Closures](#closures)
   - [Macros](#macros)
 - [People](#people)
   - [Rust Core Team](#rust-core-team)
@@ -72,6 +73,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
 * [rust-itertools](https://github.com/bluss/rust-itertools) - [bluss][]
+
+### Closures
+* [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
 
 ### Macros
 * [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
