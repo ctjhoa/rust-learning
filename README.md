@@ -36,8 +36,8 @@ The main documentation is always the best begining, so if you haven't read yet, 
 
 ## Videos
 * [official] [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
-* [old] [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
 * [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
+* [old] [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
 
 ## Rust in pratice
 * [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
