@@ -5,6 +5,10 @@ A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel fr
 ## Introduction
 The main documentation is always the best begining, so if you haven't read yet, start by reading [Rust docs](http://www.rust-lang.org/). You also have a [ebook version](https://github.com/mkaito/rustdocs_ebook) of the doc.
 
+*Tags meanings*
+* [official] Something made by a mozilla worker in a mozilla context
+* [old] Concepts are still useful but code could not compile.
+
 ## Table of Contents
 - [Books](#books)
 - [Videos](#videos)
