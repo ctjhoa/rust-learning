@@ -72,7 +72,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Monads
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
-* [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden]()
+* [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden]()
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
@@ -82,7 +82,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
 
 ### Macros
-* [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
+* [old] [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
 
 ## People
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
