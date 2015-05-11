@@ -98,26 +98,26 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 ### Rust Core Team \*
 * [Aaron Turon][]
 * [Alex Crichton][]
-* [Brian Anderson][]
-* [Huon Wilson][]
+* [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
+* [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
 * [Niko Matsakis][] - [blog](http://smallcultfollowing.com/babysteps/)
-* [Patrick Walton][]
-* [Yehuda Katz][]
-* [Steve Klabnik][]
+* [Patrick Walton][] - [blog](https://pcwalton.github.io/)
+* [Yehuda Katz][] - [blog](http://yehudakatz.com/)
+* [Steve Klabnik][] - [blog](http://words.steveklabnik.com/)
 
 \* *See this [note](https://github.com/rust-lang/rust-wiki-backup/blob/master/Note-core-team.md)*
 
 ### Rust Gurus \*
-* [Andrew Gallant][]
+* [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
 * [Carl Lerche][]
-* [Chris Morgan][]
+* [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
 * [Eduard Burtescu][]
-* [Felix S Klock II][]
+* [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Jakub Bukaj][]
 * [Jim Blandy][]
 * [Jorge Aparicio][]
 * [Luqman Aden][]
-* [Nick Cameron][]
+* [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
 * [Seo Sanghyeon][]
 * [Steven Fackler][]
 
