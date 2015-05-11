@@ -22,10 +22,10 @@ The main documentation is always the best begining, so if you haven't read yet, 
 - [Applications / Libraries / Tools](#applications--libraries--tools)
 - [Language stuff](#language-stuff)
   - [Borrowing / Concurrency](#borrowing--concurrency)
-  - [Monads](#monads)
-  - [Iterators](#iterators)
   - [Closures](#closures)
+  - [Iterators](#iterators)
   - [Macros](#macros)
+  - [Monads](#monads)
 - [People](#people)
   - [Rust Core Team](#rust-core-team)
   - [Rust Gurus](#rust-gurus)
@@ -74,19 +74,19 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 
-### Monads
-* [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
-* [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden]()
+### Closures
+* [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
 * [rust-itertools](https://github.com/bluss/rust-itertools) - [bluss][]
 
-### Closures
-* [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
-
 ### Macros
 * [old] [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
+
+### Monads
+* [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
+* [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden]()
 
 ## People
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
