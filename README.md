@@ -23,6 +23,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 - [Language stuff](#language-stuff)
   - [Borrowing / Concurrency](#borrowing--concurrency)
   - [Closures](#closures)
+  - [Enums](#enums)
   - [Iterators](#iterators)
   - [Macros](#macros)
   - [Monads](#monads)
@@ -76,6 +77,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Closures
 * [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
+
+### Enums
+* [Virtual Structs Part 1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/) - [Niko Matsakis][]
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
