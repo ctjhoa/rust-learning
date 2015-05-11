@@ -65,6 +65,7 @@ None
 * [Ruby](http://www.rustforrubyists.com/) - [Steve Klabnik][]
 * [C++](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
 * [Swift](http://faq.sealedabstract.com/rust/) - sealedabstract
+* [Nim](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - arthurtw
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
