@@ -36,6 +36,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [official] [The Rust Programming Language book](http://doc.rust-lang.org/nightly/book/)
 
 ## Videos
+You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
 * [official] [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
 * [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
 * [old] [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
