@@ -47,6 +47,9 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Courses
 * [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
+## Blogs
+* [smallcultfollowing](http://smallcultfollowing.com/babysteps/) - nikomatsakis
+
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
 
