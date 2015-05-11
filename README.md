@@ -47,9 +47,6 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Courses
 * [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
-## Blogs
-* [smallcultfollowing](http://smallcultfollowing.com/babysteps/) - nikomatsakis
-
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
 
@@ -99,7 +96,7 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Alex Crichton][]
 * [Brian Anderson][]
 * [Huon Wilson][]
-* [Niko Matsakis][]
+* [Niko Matsakis][] - [blog](http://smallcultfollowing.com/babysteps/)
 * [Patrick Walton][]
 * [Yehuda Katz][]
 * [Steve Klabnik][]
