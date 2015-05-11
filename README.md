@@ -12,7 +12,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 ## Table of Contents
 - [Books](#books)
 - [Videos](#videos)
-- [Rust in pratice](#rust-in-pratice)
+- [Rust in practice](#rust-in-practice)
 - [Courses](#courses)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
 - [RFCs](#rfcs)
@@ -39,7 +39,7 @@ The main documentation is always the best begining, so if you haven't read yet, 
 * [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
 * [old] [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
 
-## Rust in pratice
+## Rust in practice
 * [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
 * [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
