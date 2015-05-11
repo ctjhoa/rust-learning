@@ -91,7 +91,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ## People
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-### Rust Core Team
+### Rust Core Team \*
 * [Aaron Turon][]
 * [Alex Crichton][]
 * [Brian Anderson][]
@@ -101,7 +101,9 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Yehuda Katz][]
 * [Steve Klabnik][]
 
-### Rust Gurus
+\* *See this [note](https://github.com/rust-lang/rust-wiki-backup/blob/master/Note-core-team.md)*
+
+### Rust Gurus \*
 * [Andrew Gallant][]
 * [Carl Lerche][]
 * [Chris Morgan][]
@@ -114,6 +116,8 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Nick Cameron][]
 * [Seo Sanghyeon][]
 * [Steven Fackler][]
+
+\* *Rustaceans who work or has worked for Mozilla*
 
 ### Servo Team
 * [Josh Matthews][]
