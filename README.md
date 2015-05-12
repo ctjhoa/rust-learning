@@ -21,12 +21,12 @@ The main documentation is always the best beginning, so if you haven't read yet,
 - [Comparison with Other Languages](#comparison-with-other-languages)
 - [Applications / Libraries / Tools](#applications--libraries--tools)
 - [Language stuff](#language-stuff)
-  - [Borrowing / Concurrency](#borrowing--concurrency)
   - [Closures](#closures)
   - [Enums](#enums)
   - [Iterators](#iterators)
   - [Macros](#macros)
   - [Monads](#monads)
+  - [Ownership / Concurrency](#ownership--concurrency)
 - [People](#people)
   - [Rust Core Team](#rust-core-team)
   - [Rust Gurus](#rust-gurus)
@@ -73,10 +73,6 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ## Language stuff
 
-### Borrowing / Concurrency
-* [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
-* [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
-
 ### Closures
 * [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
 
@@ -92,6 +88,11 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Monads
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
 * [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden]()
+
+### Ownership / Concurrency
+* [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
+* [draft] [Rust ownership, the hard way](http://chrismorgan.info/blog/rust-ownership-the-hard-way.html) - [Chris Morgan][]
+* [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 
 ## People
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
