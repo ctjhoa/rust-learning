@@ -49,7 +49,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 
 ## Courses
-* [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
+* [old] [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
