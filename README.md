@@ -175,7 +175,6 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 
 <!-- Famous Rustaceans -->
 [Andrew Hobden]: https://github.com/Hoverbear
-[bluss]: https://github.com/bluss
 [Christoph Burgdorf]: https://github.com/cburgdorf
 
 <!-- Others -->
