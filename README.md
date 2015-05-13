@@ -61,14 +61,15 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 None
 
 ## CI / Testing
-* [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2]() - [Huon Wilson][]
-* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) | [Andrew Hobden]()
+* [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
+* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) | [Andrew Hobden][]
 
 ## Comparison with Other Languages
-* [Ruby](http://www.rustforrubyists.com/) - [Steve Klabnik][]
-* [C++](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
-* [Swift](http://faq.sealedabstract.com/rust/) - sealedabstract
-* [Nim](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - arthurtw
+* [Rust for Rubyists](http://www.rustforrubyists.com/) - [Steve Klabnik][]
+* [Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
+* [A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract
+* [A Quick Comparison of Nim vs. Rust](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - arthurtw
+* [Rust's Ownership model for JavaScript developers](http://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html) - [Christoph Burgdorf][]
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
@@ -137,6 +138,11 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Simon Sapin][]
 * [Tetsuharu OHZEKI][]
 
+### Famous Rustaceans
+* [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
+* [bluss][]
+* [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
+
 <!-- Rust Core Team -->
 [Aaron Turon]: https://github.com/aturon
 [Alex Crichton]: https://github.com/alexcrichton
@@ -167,7 +173,10 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 [Tetsuharu OHZEKI]: https://github.com/saneyuki
 [Simon Sapin]: https://github.com/SimonSapin
 
-<!-- Others -->
-[Daniel Keep]: https://github.com/DanielKeep
+<!-- Famous Rustaceans -->
 [Andrew Hobden]: https://github.com/Hoverbear
 [bluss]: https://github.com/bluss
+[Christoph Burgdorf]: https://github.com/cburgdorf
+
+<!-- Others -->
+[Daniel Keep]: https://github.com/DanielKeep
