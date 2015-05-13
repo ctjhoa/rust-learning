@@ -140,7 +140,6 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 
 ### Famous Rustaceans
 * [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
-* [bluss][]
 * [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
 
 <!-- Rust Core Team -->
