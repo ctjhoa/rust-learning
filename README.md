@@ -32,6 +32,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
   - [Rust Core Team](#rust-core-team)
   - [Rust Gurus](#rust-gurus)
   - [Servo Team](#servo-team)
+  - [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
 
 ## Books
 * [official] [The Rust Programming Language book](http://doc.rust-lang.org/nightly/book/)
@@ -138,7 +139,7 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Simon Sapin][]
 * [Tetsuharu OHZEKI][]
 
-### Famous Rustaceans
+### Famous Rustacean Bloggers
 * [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
 * [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
 
@@ -172,7 +173,7 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 [Tetsuharu OHZEKI]: https://github.com/saneyuki
 [Simon Sapin]: https://github.com/SimonSapin
 
-<!-- Famous Rustaceans -->
+<!-- Famous Rustacean Bloggers -->
 [Andrew Hobden]: https://github.com/Hoverbear
 [Christoph Burgdorf]: https://github.com/cburgdorf
 
