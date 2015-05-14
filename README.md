@@ -71,6 +71,7 @@ None
 * [A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract
 * [A Quick Comparison of Nim vs. Rust](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - arthurtw
 * [Rust's Ownership model for JavaScript developers](http://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html) - [Christoph Burgdorf][]
+* [Fizzbuzz: Rust vs Python](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
