@@ -118,7 +118,7 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 
 \* *See this [note](https://github.com/rust-lang/rust-wiki-backup/blob/master/Note-core-team.md)*
 
-### Rust Gurus \*
+### Rust Gurus
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
 * [Carl Lerche][]
 * [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
@@ -131,8 +131,6 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 * [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
 * [Seo Sanghyeon][]
 * [Steven Fackler][]
-
-\* *Rustaceans who work or has worked for Mozilla*
 
 ### Servo Team
 * [Josh Matthews][]
