@@ -54,6 +54,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Best Practices/Style Guides
 * [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
+* [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 
 ## RFCs
 See [Rust RFCs](https://github.com/rust-lang/rfcs)
