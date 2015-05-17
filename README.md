@@ -8,6 +8,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 *Tags meanings*
 * [official] Something made by a mozilla worker in a mozilla context
 * [old] Concepts are still useful but code could not compile.
+* [WIP] Work In Progress
 
 ## Table of Contents
 - [Books](#books)
@@ -36,7 +37,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 * [official] [The Rust Programming Language book](http://doc.rust-lang.org/nightly/book/)
-* [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
+* [WIP] [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 
 ## Videos
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
@@ -45,15 +46,15 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [old] [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
 
 ## Rust in practice
-* [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
-* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
+* [official] [WIP] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
+* [old] [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 
 ## Courses
 * [old] [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
 ## Best Practices/Style Guides
-* [official] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
+* [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 
 ## RFCs
@@ -68,7 +69,7 @@ None
 
 ## Comparison with Other Languages
 * [Rust for Rubyists](http://www.rustforrubyists.com/) - [Steve Klabnik][]
-* [Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
+* [old] [Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]
 * [A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract
 * [A Quick Comparison of Nim vs. Rust](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - arthurtw
 * [Rust's Ownership model for JavaScript developers](http://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html) - [Christoph Burgdorf][]
