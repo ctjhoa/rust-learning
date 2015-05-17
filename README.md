@@ -28,6 +28,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
   - [Macros](#macros)
   - [Monads](#monads)
   - [Ownership / Concurrency](#ownership--concurrency)
+  - [Regex](#regex)
   - [Traits](#traits)
 - [People](#people)
   - [Rust Core Team](#rust-core-team)
@@ -94,12 +95,15 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Monads
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
-* [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden]()
+* [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
 
 ### Ownership / Concurrency
 * [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
 * [Rust ownership, the hard way](http://chrismorgan.info/blog/rust-ownership-the-hard-way.html) - [Chris Morgan][]
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
+
+### Regex
+* [Syntax extensions and regular expressions for Rust](http://blog.burntsushi.net/rust-regex-syntax-extensions/) - [Andrew Gallant][]
 
 ### Traits
 * [official] [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
