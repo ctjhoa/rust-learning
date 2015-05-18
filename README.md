@@ -117,6 +117,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ## People
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
+Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 
 ### Rust Core Team \*
 * [Aaron Turon][]
