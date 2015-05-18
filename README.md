@@ -25,6 +25,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
   - [Closures](#closures)
   - [Enums](#enums)
   - [Iterators](#iterators)
+  - [Lifetime](#lifetime)
   - [Macros](#macros)
   - [Monads](#monads)
   - [Ownership / Concurrency](#ownership--concurrency)
@@ -89,6 +90,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
+
+### Lifetime
+* [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) - [Manish Goregaokar][]
 
 ### Macros
 * [old] [A Quick Intro to Rust Macros](https://danielkeep.github.io/quick-intro-to-macros.html) - [Daniel Keep][]
