@@ -68,7 +68,7 @@ None
 
 ## CI / Testing
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
-* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) | [Andrew Hobden][]
+* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) - [Andrew Hobden][]
 
 ## Comparison with Other Languages
 * [Rust for Rubyists](http://www.rustforrubyists.com/) - [Steve Klabnik][]
