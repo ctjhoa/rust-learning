@@ -74,6 +74,7 @@ None
 * [A Quick Comparison of Nim vs. Rust](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - arthurtw
 * [Rust's Ownership model for JavaScript developers](http://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html) - [Christoph Burgdorf][]
 * [Fizzbuzz: Rust vs Python](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
+* [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html) - [Manish Goregaokar][]
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
