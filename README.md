@@ -32,9 +32,6 @@ The main documentation is always the best beginning, so if you haven't read yet,
   - [Regex](#regex)
   - [Traits](#traits)
 - [People](#people)
-  - [Rust Core Team](#rust-core-team)
-  - [Rust Gurus](#rust-gurus)
-  - [Servo Team](#servo-team)
   - [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
 
 ## Books
