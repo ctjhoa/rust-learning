@@ -116,79 +116,52 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [A series on trait objects part 1](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects) | [part 2](https://huonw.github.io/blog/2015/01/the-sized-trait) | [part 3](https://huonw.github.io/blog/2015/01/object-safety) | [part 4](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/) - [Huon Wilson][]
 
 ## People
+This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
+
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
-
-### Rust Core Team \*
-* [Aaron Turon][]
-* [Alex Crichton][]
+### Famous Rustacean Bloggers
+* [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
+* [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
+* [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
+* [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
+* [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
+* [Manish Goregaokar][] - [blog](https://manishearth.github.io/)
+* [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
 * [Niko Matsakis][] - [blog](http://smallcultfollowing.com/babysteps/)
 * [Patrick Walton][] - [blog](https://pcwalton.github.io/)
 * [Yehuda Katz][] - [blog](http://yehudakatz.com/)
 * [Steve Klabnik][] - [blog](http://words.steveklabnik.com/)
 
-\* *See this [note](https://github.com/rust-lang/rust-wiki-backup/blob/master/Note-core-team.md)*
+Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 
-### Rust Gurus
-* [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
-* [Carl Lerche][]
-* [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
-* [Eduard Burtescu][]
-* [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
-* [Jakub Bukaj][]
-* [Jim Blandy][]
-* [Jorge Aparicio][]
-* [Luqman Aden][]
-* [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
-* [Seo Sanghyeon][]
-* [Steven Fackler][]
-
-### Servo Team
-* [Josh Matthews][]
-* [Manish Goregaokar][]
-* [Simon Sapin][]
-* [Tetsuharu OHZEKI][]
-
-### Famous Rustacean Bloggers
-* [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
-* [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
-
-<!-- Rust Core Team -->
+<!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
 [Alex Crichton]: https://github.com/alexcrichton
-[Brian Anderson]: https://github.com/brson
-[Huon Wilson]: https://github.com/huonw
-[Niko Matsakis]: https://github.com/nikomatsakis
-[Patrick Walton]: https://github.com/pcwalton
-[Yehuda Katz]: https://github.com/wycats
-[Steve Klabnik]: https://github.com/steveklabnik
-
-<!-- Rust Gurus -->
 [Andrew Gallant]: https://github.com/BurntSushi
+[Andrew Hobden]: https://github.com/Hoverbear
+[Brian Anderson]: https://github.com/brson
 [Carl Lerche]: https://github.com/carllerche
 [Chris Morgan]: https://github.com/chris-morgan
+[Christoph Burgdorf]: https://github.com/cburgdorf
+[Daniel Keep]: https://github.com/DanielKeep
 [Eduard Burtescu]: https://github.com/eddyb
 [Felix S Klock II]: https://github.com/pnkfelix
 [Jakub Bukaj]: https://github.com/jakub-
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
-[Luqman Aden]: https://github.com/luqmana
-[Nick Cameron]: https://github.com/nrc
-[Seo Sanghyeon]: https://github.com/sanxiyn
-[Steven Fackler]: https://github.com/sfackler
-
-<!-- Servo Team -->
 [Josh Matthews]: https://github.com/jdm
+[Luqman Aden]: https://github.com/luqmana
+[Huon Wilson]: https://github.com/huonw
 [Manish Goregaokar]: https://github.com/Manishearth
-[Tetsuharu OHZEKI]: https://github.com/saneyuki
+[Nick Cameron]: https://github.com/nrc
+[Niko Matsakis]: https://github.com/nikomatsakis
+[Patrick Walton]: https://github.com/pcwalton
+[Seo Sanghyeon]: https://github.com/sanxiyn
 [Simon Sapin]: https://github.com/SimonSapin
-
-<!-- Famous Rustacean Bloggers -->
-[Andrew Hobden]: https://github.com/Hoverbear
-[Christoph Burgdorf]: https://github.com/cburgdorf
-
-<!-- Others -->
-[Daniel Keep]: https://github.com/DanielKeep
+[Steve Klabnik]: https://github.com/steveklabnik
+[Steven Fackler]: https://github.com/sfackler
+[Tetsuharu OHZEKI]: https://github.com/saneyuki
+[Yehuda Katz]: https://github.com/wycats
