@@ -107,6 +107,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 * [The Problem With Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) - [Manish Goregaokar][]
 
+### String
+* [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) - [Herman J. Radtke III][]
+
 ### Syntax extensions
 * [Syntax extensions and regular expressions for Rust](http://blog.burntsushi.net/rust-regex-syntax-extensions/) - [Andrew Gallant][]
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/) - [Gulshan Singh][]
@@ -150,6 +153,7 @@ Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 [Eduard Burtescu]: https://github.com/eddyb
 [Felix S Klock II]: https://github.com/pnkfelix
 [Gulshan Singh]: https://github.com/gsingh93
+[Herman J. Radtke III]: https://github.com/hjr3
 [Jakub Bukaj]: https://github.com/jakub-
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
