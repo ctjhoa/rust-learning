@@ -118,6 +118,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Traits
 * [official] [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html) - [Aaron Turon][]
 * [A series on trait objects part 1](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects) | [part 2](https://huonw.github.io/blog/2015/01/the-sized-trait) | [part 3](https://huonw.github.io/blog/2015/01/object-safety) | [part 4](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/) - [Huon Wilson][]
+* [Rust traits for developer friendly libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) - [Ben Ashford][]
 
 ## People
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
@@ -146,6 +147,7 @@ Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 [Alex Crichton]: https://github.com/alexcrichton
 [Andrew Gallant]: https://github.com/BurntSushi
 [Andrew Hobden]: https://github.com/Hoverbear
+[Ben Ashford]: https://github.com/benashford
 [Brian Anderson]: https://github.com/brson
 [Carl Lerche]: https://github.com/carllerche
 [Chris Morgan]: https://github.com/chris-morgan
