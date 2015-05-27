@@ -37,8 +37,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 * [official] [The Rust Programming Language book](http://doc.rust-lang.org/nightly/book/)
+* [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * [WIP] [Programming Rust](http://www.amazon.com/Programming-Rust-Jim-Blandy/dp/1491927283/) - [Jim Blandy][]
-* [WIP] [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 
 ## Videos
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
