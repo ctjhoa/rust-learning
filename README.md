@@ -50,7 +50,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Rust in practice
 * [official] [WIP] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
-* [old] [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
+* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 
 ## Courses
