@@ -18,6 +18,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
 - [RFCs](#rfcs)
 - [Code Organization](#code-organization)
+- [Compilation](#compilation)
 - [CI / Testing](#ci--testing)
 - [Comparison with Other Languages](#comparison-with-other-languages)
 - [Applications / Libraries / Tools](#applications--libraries--tools)
@@ -66,6 +67,9 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 
 ## Code Organization
 None
+
+## Compilation
+* [Rust on OpenWRT (cross compiling to mips-linux-gnu)](https://github.com/japaric/rust-on-openwrt) - [Jorge Aparicio][]
 
 ## CI / Testing
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
