@@ -62,6 +62,11 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 
+## Cheat sheets
+
+* [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
+* [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - Daniel Keep
+
 ## RFCs
 See [Rust RFCs](https://github.com/rust-lang/rfcs)
 
