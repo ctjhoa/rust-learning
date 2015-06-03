@@ -16,6 +16,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 - [Rust in practice](#rust-in-practice)
 - [Courses](#courses)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
+- [Cheat sheets](#cheat-sheets)
 - [RFCs](#rfcs)
 - [Code Organization](#code-organization)
 - [Compilation](#compilation)
