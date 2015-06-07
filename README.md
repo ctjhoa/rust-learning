@@ -35,6 +35,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
   - [Syntax extensions](#syntax-extensions)
   - [Traits](#traits)
   - [Unsafe](#unsafe)
+- [Locale links](#locale-links)
 - [People](#people)
   - [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
 
@@ -138,6 +139,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Unsafe
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/) - Alexis Beingessner
 
+## Locale links
+* [Brazilian Portuguese](pt_BR.md)
+* [French](fr_FR.md)
 
 ## People
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
