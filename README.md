@@ -143,6 +143,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ## Locale links
 * [Brazilian Portuguese](pt_BR.md)
 * [French](fr_FR.md)
+* [Russian](ru_RU.md)
 
 ## People
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
