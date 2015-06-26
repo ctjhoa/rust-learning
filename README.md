@@ -64,7 +64,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [old] [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
 ## Best Practices/Style Guides
-* [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust-guidelines)
+* [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 
 ## Cheat sheets
