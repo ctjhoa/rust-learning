@@ -155,6 +155,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
+You want to meet them IRL ? [http://rustcamp.com/](http://rustcamp.com/)
 
 ### Famous Rustacean Bloggers
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
