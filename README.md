@@ -13,8 +13,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 ## Table of Contents
 - [Books](#books)
 - [Videos](#videos)
+- [Postcasts](#podcasts)
 - [Rust in practice](#rust-in-practice)
-- [Courses](#courses)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
 - [Cheat sheets](#cheat-sheets)
 - [RFCs](#rfcs)
@@ -54,14 +54,14 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
 * [old] [official] [Intro to the Rust programming language](https://www.youtube.com/watch?v=agzf6ftEsLU) - [Alex Crichton][]
 
+## Podcasts
+* [Rusty radio](http://rustyrad.io/)
+
 ## Rust in practice
 * [official] [WIP] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
 * [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
-
-## Courses
-* [old] [RustTutorial](https://aml3.github.io/RustTutorial/) - aml3
 
 ## Best Practices/Style Guides
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
