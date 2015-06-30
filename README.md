@@ -73,7 +73,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - [Daniel Keep][]
 
 ## Blogs
-* [24 days of rust](https://siciarz.net/tag/24%20days%20of%20rust/)
+* [24 days of Rust](https://siciarz.net/tag/24%20days%20of%20rust/)
 
 ## RFCs
 See [Rust RFCs](https://github.com/rust-lang/rfcs)
