@@ -17,6 +17,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 - [Rust in practice](#rust-in-practice)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
 - [Cheat sheets](#cheat-sheets)
+- [Blogs](#blogs)
 - [RFCs](#rfcs)
 - [Code Organization](#code-organization)
 - [Compilation](#compilation)
@@ -68,9 +69,11 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 
 ## Cheat sheets
-
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - [Daniel Keep][]
+
+## Blogs
+* [24 days of Rust](https://siciarz.net/tag/24%20days%20of%20rust/)
 
 ## RFCs
 See [Rust RFCs](https://github.com/rust-lang/rfcs)
