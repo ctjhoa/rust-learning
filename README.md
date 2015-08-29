@@ -41,7 +41,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 * [official] [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
-* [official] [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
+* [official] [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * [WIP] [Programming Rust](http://www.amazon.com/Programming-Rust-Jim-Blandy/dp/1491927283/) - [Jim Blandy][]
 * [KickStarter] [Rust Programming Concepts Book](https://www.kickstarter.com/projects/1712125778/rust-programming-concepts-book) - Matt Carkci
