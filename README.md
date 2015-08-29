@@ -42,6 +42,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 ## Books
 * [official] [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * [official] [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * [WIP] [Programming Rust](http://www.amazon.com/Programming-Rust-Jim-Blandy/dp/1491927283/) - [Jim Blandy][]
 * [KickStarter] [Rust Programming Concepts Book](https://www.kickstarter.com/projects/1712125778/rust-programming-concepts-book) - Matt Carkci
@@ -111,7 +112,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [How to pass a closure into a trait object](http://camjackson.net/post/rust-lang-how-to-pass-a-closure-into-a-trait-object) - Cam Jackson
 
 ### Enums
-* [Virtual Structs part 1](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/) | [part 2](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/) - [Niko Matsakis][]
+* [Virtual Structs part 1](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/) | [part 2](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/) | [part 3](http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/) - [Niko Matsakis][]
 
 ### Iterators
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
