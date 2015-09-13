@@ -3,7 +3,7 @@
 A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know.
 
 ## Introduction
-The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](http://www.rust-lang.org/). You also have an [ebook version](https://github.com/mkaito/rustdocs_ebook) of the doc.
+The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](http://www.rust-lang.org/). You also have an [ebook version](http://killercup.github.io/trpl-ebook/) of the doc.
 
 *Tags meanings*
 * [official] Something made by a mozilla worker in a mozilla context
