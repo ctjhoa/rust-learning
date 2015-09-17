@@ -68,7 +68,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
-* [ArcadeRS](http://jadpole.github.io/2015/185/arcaders-1-0/) - Jessy Pelletier
+* [ArcadeRS](http://jadpole.github.io/arcaders/arcaders-1-0/) - Jessy Pelletier
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) - Nikita Baksalyar
 * [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - Carol Nichols
 
