@@ -167,7 +167,10 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to meet them IRL ? [http://rustcamp.com/](http://rustcamp.com/)
+You want to meet them IRL ? [Meetup groups][m], [community calendar][c], [RustCamp](http://rustcamp.com/).
+
+[m]: http://www.meetup.com/?allMeetups=false&keywords=Rust&radius=Infinity&userFreeform=San+Francisco%2C+CA&mcId=c94101&mcName=San+Francisco%2C+CA&sort=default
+[c]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com
 
 ### Famous Rustacean Bloggers
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
