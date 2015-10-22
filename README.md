@@ -61,6 +61,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Podcasts
 * [Rusty radio](http://rustyrad.io/)
+* [New rustacean](http://www.newrustacean.com)
 
 ## Rust in practice
 * [official] [WIP] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
