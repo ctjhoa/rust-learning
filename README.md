@@ -72,6 +72,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [ArcadeRS](http://jadpole.github.io/arcaders/arcaders-1-0/) - Jessy Pelletier
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html) - Nikita Baksalyar
 * [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - Carol Nichols
+* [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - Alexis Beingessner
 
 ## Best Practices/Style Guides
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
