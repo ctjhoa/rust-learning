@@ -13,7 +13,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 ## Table of Contents
 - [Books](#books)
 - [Videos](#videos)
-- [Postcasts](#podcasts)
+- [Podcasts](#podcasts)
 - [Rust in practice](#rust-in-practice)
 - [Best Practices/Style Guides](#best-practicesstyle-guides)
 - [Cheat sheets](#cheat-sheets)
