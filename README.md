@@ -171,6 +171,10 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Brazilian Portuguese](pt_BR.md)
 * [French](fr_FR.md)
 * [Russian](ru_RU.md)
+* [Korean](ko_KR.md)
+* [Chinese](zh_CN.md)
+* [Spanish](es_ES.md)
+* [German](de_DE.md)
 
 ## People
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
