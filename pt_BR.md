@@ -2,4 +2,4 @@
 
 ## Brazilian Portuguese
 
-* [http://rustontherocks.org/](http://rustontherocks.org/)
+* [Rust on the Rocks](http://rustontherocks.org/)
