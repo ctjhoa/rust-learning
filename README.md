@@ -76,6 +76,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/?updated=2015-11-08) - Jake Goulding
 * [Let's build a browser engine!](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Andrew Hobden][]
+* [Writing an OS in Rust](http://os.phil-opp.com/) - Philipp Oppermann
 
 ## Best Practices/Style Guides
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
