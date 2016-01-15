@@ -60,8 +60,8 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [LambdaConf 2015 - In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdMhttp://confreaks.tv/events/rustcamp2015) - Alex Burkhart
 
 ## Podcasts
-* [Rusty radio](http://rustyrad.io/)
-* [New rustacean](http://www.newrustacean.com)
+* [Rusty radio](http://rustyrad.io/) - Alex Newman
+* [New rustacean](http://www.newrustacean.com) - Christopher Krycho
 
 ## Rust in practice
 * [official] [WIP] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
