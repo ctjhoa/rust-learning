@@ -167,7 +167,8 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [A series on trait objects part 1](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects) | [part 2](https://huonw.github.io/blog/2015/01/the-sized-trait) | [part 3](https://huonw.github.io/blog/2015/01/object-safety) | [part 4](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/) - [Huon Wilson][]
 * [Rust traits for developer friendly libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) - [Ben Ashford][]
 * [Traits and trait objects](http://xania.org/201506/traits-and-trait-objects) - Matt Godbolt
-* [Rust's Built-in Traits, the When, How & Why ](https://llogiq.github.io/2015/07/30/traits.html) - Llogiq
+* [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html) - [Llogiq][]
+* [Where are you From::from](http://llogiq.github.io/2015/11/27/from-into.html) - [Llogiq][]
 
 ### Unsafe
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/) - Alexis Beingessner
@@ -202,6 +203,7 @@ You looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
 * [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
 * [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
+* [Llogiq][] - [blog](http://llogiq.github.io/)
 * [Manish Goregaokar][] - [blog](https://manishearth.github.io/)
 * [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
 * [Niko Matsakis][] - [blog](http://smallcultfollowing.com/babysteps/)
@@ -231,6 +233,7 @@ Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
 [Josh Matthews]: https://github.com/jdm
+[Llogiq]: https://github.com/llogiq
 [Luqman Aden]: https://github.com/luqmana
 [Huon Wilson]: https://github.com/huonw
 [Manish Goregaokar]: https://github.com/Manishearth
