@@ -99,7 +99,6 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 None
 
 ## Compilation
-* [Rust on OpenWRT (cross compiling to mips-linux-gnu)](https://github.com/japaric/rust-on-openwrt) - [Jorge Aparicio][]
 * [rust-cross, Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross) - [Jorge Aparicio][]
 
 ## CI / Testing
