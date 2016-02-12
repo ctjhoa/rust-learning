@@ -78,6 +78,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Andrew Hobden][]
 * [Writing an OS in Rust](http://os.phil-opp.com/) - Philipp Oppermann
 * [Creating Nintendo 64 emulator from scratch in Rust!](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2) - Jake Taylor
+* [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - Alexis Beingessner
 
 ## Best Practices/Style Guides
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
@@ -85,6 +86,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - Pascal Hertleif
+* [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
 
 ## Cheat sheets
 * [official] [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
