@@ -232,7 +232,7 @@ of interest if you're running a workshop on Rust.
 * Jim Blandy's [exercises](https://github.com/jimblandy/exercises)
 * Dan Callahan's [Python Rust FFI](https://github.com/callahad/python-rust-ffi) examples
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
-
+* Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
 
 
 <!-- Rustaceans -->
