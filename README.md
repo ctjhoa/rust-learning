@@ -222,6 +222,10 @@ Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 
 ## Tutorials & Workshop Materials
 
+These are slides and materials from brick-and-mortar workshops about Rust.
+While they're unlikely to help a student learning independently, they may be
+of interest if you're running a workshop on Rust. 
+
 * Niko Matsakis's [rust tutorializer](https://github.com/nikomatsakis/rust-tutorializer) framework
 * Niko Matsakis's [concurrency tutorial](https://github.com/nikomatsakis/concurrency-tutorial) from December 2015
 * Jim Blandy's [exercises](https://github.com/jimblandy/exercises)
