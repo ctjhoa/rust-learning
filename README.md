@@ -38,6 +38,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 - [Locale links](#locale-links)
 - [People](#people)
   - [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
+- [Tutorials & Workshop Materials](#tutorials-workshop-materials)
 
 ## Books
 * [official] [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
@@ -217,6 +218,17 @@ You looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
 * [Steve Klabnik][] - [blog](http://words.steveklabnik.com/)
 
 Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
+
+
+## Tutorials & Workshop Materials
+
+* Niko Matsakis's [rust tutorializer](https://github.com/nikomatsakis/rust-tutorializer) framework
+* Niko Matsakis's [concurrency tutorial](https://github.com/nikomatsakis/concurrency-tutorial) from December 2015
+* Jim Blandy's [exercises](https://github.com/jimblandy/exercises)
+* Dan Callahan's [Python Rust FFI](https://github.com/callahad/python-rust-ffi) examples
+* Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
+
+
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
