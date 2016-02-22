@@ -185,6 +185,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Danish](da_DK.md)
 * [French](fr_FR.md)
 * [German](de_DE.md)
+* [Japanese] (ja_JP.md)
 * [Korean](ko_KR.md)
 * [Russian](ru_RU.md)
 * [Spanish](es_ES.md)
