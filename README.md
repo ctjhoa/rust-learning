@@ -120,6 +120,7 @@ lifthrasiir
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/) - Armin Ronacher
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) - Zach Oakes
 * [On rust's memory management. Mainly for C/C++ programmers](http://blog.zgtm.de/1) - Robert
+* [Comparing Rust and Java](https://llogiq.github.io/2016/02/28/java-rust.html) - [Llogiq][]
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
