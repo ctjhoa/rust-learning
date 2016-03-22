@@ -212,6 +212,7 @@ You looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
 * [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
 * [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
+* [Jonathan Turner][] - [blog](http://www.jonathanturner.org/)
 * [Llogiq][] - [blog](http://llogiq.github.io/)
 * [Manish Goregaokar][] - [blog](https://manishearth.github.io/)
 * [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
@@ -258,6 +259,7 @@ of interest if you're running a workshop on Rust.
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
 [Josh Matthews]: https://github.com/jdm
+[Jonathan Turner]: https://github.com/jonathandturner
 [Llogiq]: https://github.com/llogiq
 [Luqman Aden]: https://github.com/luqmana
 [Huon Wilson]: https://github.com/huonw
