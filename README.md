@@ -107,6 +107,7 @@ None
 * [rust-cross, Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross) - [Jorge Aparicio][]
 * [How to cross compile Rust from OS X to FreeBSD](https://github.com/yohanesu75/crossrust) - yohanesu75
 * [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon
+* [aking Rust everywhere with rustup](http://blog.rust-lang.org/2016/05/13/rustup.html) - [Brian Anderson]
 
 ## CI / Testing
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
@@ -210,6 +211,8 @@ You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.
 You want to meet them IRL ? [Meetup groups][m], [community calendar][c], [RustCamp](http://rustcamp.com/).
 
 You looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
+
+You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/)
 
 [m]: http://www.meetup.com/?allMeetups=false&keywords=Rust&radius=Infinity&userFreeform=San+Francisco%2C+CA&mcId=c94101&mcName=San+Francisco%2C+CA&sort=default
 [c]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com
