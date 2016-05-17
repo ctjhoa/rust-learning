@@ -208,13 +208,14 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to meet them IRL ? [Meetup groups][m], [community calendar][c], [RustCamp](http://rustcamp.com/), [RustFest](http://www.rustfest.eu/).
+You want to meet them IRL ? [Meetup groups][m], [community calendar][c]
+Go to rusty event ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rustfest.eu/), [RustConf](http://rustconf.com/), [Rust Belt Rust](http://www.rust-belt-rust.com/)
 
 You looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
 
 You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/)
 
-[m]: http://www.meetup.com/?allMeetups=false&keywords=Rust&radius=Infinity&userFreeform=San+Francisco%2C+CA&mcId=c94101&mcName=San+Francisco%2C+CA&sort=default
+[m]: http://www.meetup.com/topics/rust/
 [c]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com
 
 ### Famous Rustacean Bloggers
