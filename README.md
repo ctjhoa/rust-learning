@@ -214,7 +214,7 @@ Go to rusty events ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rus
 
 You are looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
 
-You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/)
+You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/)
 
 [m]: http://www.meetup.com/topics/rust/
 [c]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com
