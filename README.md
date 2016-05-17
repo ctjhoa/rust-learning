@@ -209,6 +209,7 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
 You want to meet them IRL ? [Meetup groups][m], [community calendar][c]
+
 Go to rusty event ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rustfest.eu/), [RustConf](http://rustconf.com/), [Rust Belt Rust](http://www.rust-belt-rust.com/)
 
 You looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
