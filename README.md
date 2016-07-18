@@ -47,7 +47,6 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * [WIP] [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
-* [KickStarter] [Rust Programming Concepts Book](https://www.kickstarter.com/projects/1712125778/rust-programming-concepts-book) - Matt Carkci
 
 ## Videos
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
