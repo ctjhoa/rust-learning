@@ -65,12 +65,12 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [New rustacean](http://www.newrustacean.com) - Christopher Krycho
 
 ## Rust in practice
-* [official] [WIP] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
+* [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
 * [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
-* [WIP] [Advent of Code](https://github.com/LD250/adventofcode_rust) - Denys Levchenko
+* [Advent of Code](https://github.com/LD250/adventofcode_rust) - Denys Levchenko
 * [ArcadeRS](http://jadpole.github.io/arcaders/arcaders-1-0) - Jessy Pelletier
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/) - Nikita Baksalyar
 * [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - Carol Nichols
