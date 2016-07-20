@@ -196,6 +196,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Unsafe
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/) - Alexis Beingessner
 
+## Playground
+ * [Rust Playground](https://play.rust-lang.org)
+
 ## Locale links
 * [Brazilian Portuguese](pt_BR.md)
 * [Chinese](zh_CN.md)
