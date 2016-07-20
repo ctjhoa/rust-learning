@@ -61,7 +61,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Podcasts
 * [Rusty radio](http://rustyrad.io/) - Alex Newman
-* [New rustacean](http://www.newrustacean.com) - Christopher Krycho
+* [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
 
 ## Rust in practice
 * [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
@@ -128,7 +128,7 @@ lifthrasiir
 | Nim | <ul><li>[A Quick Comparison of Nim vs. Rust](https://arthurtw.github.io/2015/01/12/quick-comparison-nim-vs-rust.html) - Arthur Liao</li></ul> |
 | Python | <ul><li>[Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/) - Armin Ronacher</li></ul> |
 | Ruby | <ul><li>[Rust for Rubyists](http://www.rustforrubyists.com/) - [Steve Klabnik][]</li></ul> |
-| Swift | <ul><li>[A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract</li></ul> |
+| Swift | <ul><li>[A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract</li><li>[Rust and Swift](http://www.chriskrycho.com/rust-and-swift.html) - [Chris Krycho][]</li></ul> |
 
 ## Applications / Libraries / Tools
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
@@ -269,6 +269,7 @@ of interest if you're running a workshop on Rust.
 [Ben Ashford]: https://github.com/benashford
 [Brian Anderson]: https://github.com/brson
 [Carl Lerche]: https://github.com/carllerche
+[Chris Krycho]: https://github.com/chriskrycho
 [Chris Morgan]: https://github.com/chris-morgan
 [Christoph Burgdorf]: https://github.com/cburgdorf
 [Daniel Keep]: https://github.com/DanielKeep
