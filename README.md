@@ -198,6 +198,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ## Playground
  * [Rust Playground](https://play.rust-lang.org)
+ * [Rust Playground Alternative](http://play.integer32.com/)
 
 ## Locale links
 * [Brazilian Portuguese](pt_BR.md)
