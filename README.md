@@ -3,45 +3,49 @@
 A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know.
 
 ## Introduction
+
 The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](http://www.rust-lang.org/). You also have an [ebook version](http://killercup.github.io/trpl-ebook/) of the doc.
 
-*Tags meanings*
+### Tags meanings
+
 * [official] Something made by a mozilla worker in a mozilla context
 * [old] Concepts are still useful but code could not compile.
 * [WIP] Work In Progress
 
 ## Table of Contents
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Rust in practice](#rust-in-practice)
-- [Best Practices/Style Guides](#best-practicesstyle-guides)
-- [Cheat sheets](#cheat-sheets)
-- [RFCs](#rfcs)
-- [Code Organization](#code-organization)
-- [Compilation](#compilation)
-- [CI / Testing](#ci--testing)
-- [Comparison with Other Languages](#comparison-with-other-languages)
-- [Applications / Libraries / Tools](#applications--libraries--tools)
-- [Language stuff](#language-stuff)
-  - [Closures](#closures)
-  - [Enums](#enums)
-  - [Iterators](#iterators)
-  - [Lifetime](#lifetime)
-  - [Macros](#macros)
-  - [MIR](#mir)
-  - [Monads](#monads)
-  - [Ownership / Concurrency](#ownership--concurrency)
-  - [Strings](#strings)
-  - [Syntax extensions](#syntax-extensions)
-  - [Traits](#traits)
-  - [Unsafe](#unsafe)
-- [Locale links](#locale-links)
-- [People](#people)
-  - [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
-- [Tutorials & Workshop Materials](#tutorials-workshop-materials)
+
+* [Books](#books)
+* [Videos](#videos)
+* [Podcasts](#podcasts)
+* [Rust in practice](#rust-in-practice)
+* [Best Practices/Style Guides](#best-practicesstyle-guides)
+* [Cheat sheets](#cheat-sheets)
+* [RFCs](#rfcs)
+* [Code Organization](#code-organization)
+* [Compilation](#compilation)
+* [CI / Testing](#ci--testing)
+* [Comparison with Other Languages](#comparison-with-other-languages)
+* [Applications / Libraries / Tools](#applications--libraries--tools)
+* [Language stuff](#language-stuff)
+  * [Closures](#closures)
+  * [Enums](#enums)
+  * [Iterators](#iterators)
+  * [Lifetime](#lifetime)
+  * [Macros](#macros)
+  * [MIR](#mir)
+  * [Monads](#monads)
+  * [Ownership / Concurrency](#ownership--concurrency)
+  * [Strings](#strings)
+  * [Syntax extensions](#syntax-extensions)
+  * [Traits](#traits)
+  * [Unsafe](#unsafe)
+* [Locale links](#locale-links)
+* [People](#people)
+  * [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
+* [Tutorials & Workshop Materials](#tutorials-workshop-materials)
 
 ## Books
+
 * [official] [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * [official] [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
 * [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - Jim Blandy
@@ -50,7 +54,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [WIP] [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 
 ## Videos
+
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
+
 * [official] [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
 * [official] [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg) - [Alex Crichton][]
 * [official] [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
@@ -61,10 +67,12 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [LambdaConf 2015 - In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdMhttp://confreaks.tv/events/rustcamp2015) - Alex Burkhart
 
 ## Podcasts
+
 * [Rusty radio](http://rustyrad.io/) - Alex Newman
 * [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
 
 ## Rust in practice
+
 * [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
 * [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
@@ -85,6 +93,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/)
 
 ## Best Practices/Style Guides
+
 * [official] [WIP] [Rust Guidelines](https://github.com/rust-lang/rust/tree/master/src/doc/style)
 * [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
@@ -93,18 +102,22 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
 
 ## Cheat sheets
+
 * [official] [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - [Daniel Keep][]
 * [Rust String Conversions Cheat Sheet](https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true) - GavinB
 
 ## RFCs
+
 See [Rust RFCs](https://github.com/rust-lang/rfcs)
 
 ## Code Organization
+
 None
 
 ## Compilation
+
 * [rust-cross, Everything you need to know about cross compiling Rust programs!](https://github.com/japaric/rust-cross) - [Jorge Aparicio][]
 * [How to cross compile Rust from OS X to FreeBSD](https://github.com/yohanesu75/crossrust) - yohanesu75
 * [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon
@@ -112,12 +125,14 @@ None
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - Kang Seonghoon
 
 ## CI / Testing
+
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
 * [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) - [Andrew Hobden][]
 * [Shave Some Time From Your Travis Builds](https://llogiq.github.io/2016/07/05/travis.html) - [Llogiq][]
 * [How to collect test coverages for a rust project](https://users.rust-lang.org/t/tutorial-how-to-collect-test-coverages-for-rust-project/650) - lifthrasiir
 
 ## Comparison with Other Languages
+
 | Languages        | Links     |
 | ---------------- | --------------- |
 | C# | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
@@ -132,11 +147,13 @@ None
 | Swift | <ul><li>[A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract</li><li>[Rust and Swift](http://www.chriskrycho.com/rust-and-swift.html) - [Chris Krycho][]</li></ul> |
 
 ## Applications / Libraries / Tools
+
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
 
 ## Language stuff
 
 ### Closures
+
 * [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
 * [Defaulting to Thread-Safety: Closures and Concurrency](https://huonw.github.io/blog/2015/05/defaulting-to-thread-safety/) - [Huon Wilson][]
 * [How to pass a closure into a trait object](http://camjackson.net/post/rust-lang-how-to-pass-a-closure-into-a-trait-object) - Cam Jackson
@@ -144,30 +161,37 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [How Rust Achieves Thread Safety](https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/) - [Manish Goregaokar][]
 
 ### Enums
+
 * [Virtual Structs part 1](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/) | [part 2](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/) | [part 3](http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/) - [Niko Matsakis][]
 
 ### Iterators
+
 * [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
 * [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) - [Herman J. Radtke III][]
 
 ### Lifetime
+
 * [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) - [Manish Goregaokar][]
 * [Understanding Lifetime in Rust part 1](https://mobiarch.wordpress.com/2015/06/29/understanding-lifetime-in-rust-part-i/) | [part 2](https://mobiarch.wordpress.com/2015/07/08/understanding-lifetime-in-rust-part-ii-3/) - Bibhas Bhattacharya
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/) - Charles
 
 ### Macros
+
 * [A Practical Intro to Macros in Rust 1.0](https://danielkeep.github.io/practical-intro-to-macros.html) - [Daniel Keep][]
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/) - [Daniel Keep][]
 * [Macros in Rust part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/) | [part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/) | [part 3](http://ncameron.org/blog/macros-in-rust-pt3/) | [part 4](http://ncameron.org/blog/macros-in-rust-pt4/) - [Nick Cameron][]
 
 ### MIR
+
 * [Introducing MIR](http://blog.rust-lang.org/2016/04/19/MIR.html) - [Niko Matsakis][]
 
 ### Monads
+
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
 * [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
 
 ### Ownership / Concurrency
+
 * [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
 * [Rust ownership, the hard way](http://chrismorgan.info/blog/rust-ownership-the-hard-way.html) - [Chris Morgan][]
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
@@ -182,14 +206,17 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Some Notes on `Send` and `Sync`](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/) - [Huon Wilson][]
 
 ### Strings
+
 * [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) | [part 3](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) - [Herman J. Radtke III][]
 * [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
 
 ### Syntax extensions
+
 * [Syntax extensions and regular expressions for Rust](http://blog.burntsushi.net/rust-regex-syntax-extensions/) - [Andrew Gallant][]
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/) - [Gulshan Singh][]
 
 ### Traits
+
 * [official] [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html) - [Aaron Turon][]
 * [A series on trait objects part 1](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects) | [part 2](https://huonw.github.io/blog/2015/01/the-sized-trait) | [part 3](https://huonw.github.io/blog/2015/01/object-safety) | [part 4](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/) - [Huon Wilson][]
 * [Rust traits for developer friendly libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) - [Ben Ashford][]
@@ -199,6 +226,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Going down the rabbit hole with Rust traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html) - [Jonathan Turner][]
 
 ### Unsafe
+
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/) - [Alexis Beingessner][]
 * [Memory Leaks are Memory Safe](https://huonw.github.io/blog/2016/04/memory-leaks-are-memory-safe/) - [Huon Wilson][]
 * [On Reference Counting and Leaks](http://smallcultfollowing.com/babysteps/blog/2015/04/29/on-reference-counting-and-leaks/) - [Niko Matsakis][]
@@ -208,10 +236,12 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [The "Tootsie Pop" Model for Unsafe Code](http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-for-unsafe-code/) - [Niko Matsakis][]
 
 ## Playground
- * [Rust Playground](https://play.rust-lang.org)
- * [alternative](http://play.integer32.com/)
+
+* [Rust Playground](https://play.rust-lang.org)
+* [alternative](http://play.integer32.com/)
 
 ## Locale links
+
 * [Brazilian Portuguese](pt_BR.md)
 * [Chinese](zh_CN.md)
 * [Danish](da_DK.md)
@@ -223,6 +253,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Spanish](es_ES.md)
 
 ## People
+
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
@@ -239,6 +270,7 @@ You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/
 [c]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com
 
 ### Famous Rustacean Bloggers
+
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
 * [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
@@ -257,12 +289,11 @@ You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/
 
 Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 
-
 ## Tutorials & Workshop Materials
 
 These are slides and materials from brick-and-mortar workshops about Rust.
 While they're unlikely to help a student learning independently, they may be
-of interest if you're running a workshop on Rust. 
+of interest if you're running a workshop on Rust.
 
 * Niko Matsakis's [rust tutorializer](https://github.com/nikomatsakis/rust-tutorializer) framework
 * Niko Matsakis's [concurrency tutorial](https://github.com/nikomatsakis/concurrency-tutorial) from December 2015
@@ -271,7 +302,6 @@ of interest if you're running a workshop on Rust.
 * Dan Callahan's [Python Rust FFI](https://github.com/callahad/python-rust-ffi) examples
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
-
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon

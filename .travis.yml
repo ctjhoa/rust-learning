@@ -1,0 +1,4 @@
+before_install:
+- gem install mdl
+script:
+- mdl -c ./.mdlrc *.md
