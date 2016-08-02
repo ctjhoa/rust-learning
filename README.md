@@ -305,6 +305,7 @@ of interest if you're running a workshop on Rust.
 * Dan Callahan's [Python Rust FFI](https://github.com/callahad/python-rust-ffi) examples
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
+* Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
