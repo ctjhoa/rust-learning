@@ -91,7 +91,8 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Creating Nintendo 64 emulator from scratch in Rust!](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2) - Jake Taylor
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
 * [Make a Lisp](https://github.com/kanaka/mal/tree/master/rust) - Joel Martin
-* [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/)
+* [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/) - [Niko Matsakis][]
+* [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7#.atrb20z9w) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f#.al8ptqjax) - Dumindu
 
 ## Best Practices/Style Guides
 
