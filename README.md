@@ -208,6 +208,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Rust Means Never Having to Close a Socket](http://blog.skylight.io/rust-means-never-having-to-close-a-socket/) - [Yehuda Katz][]
 * [Understanding Lifetimes in Rust, part 1](https://mobiarch.wordpress.com/2015/06/29/understanding-lifetime-in-rust-part-i/) | [part 2](https://mobiarch.wordpress.com/2015/07/08/understanding-lifetime-in-rust-part-ii-3/) - Bibhas Bhattacharya
 * [Some Notes on `Send` and `Sync`](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/) - [Huon Wilson][]
+* [Moving, Cloning, and Copying Coloring Books in Rust](http://jeenalee.com/2016/08/29/move-clone-copy.html) - [Jeena Lee][]
 
 ### Privacy
 
@@ -332,6 +333,7 @@ of interest if you're running a workshop on Rust.
 [Gulshan Singh]: https://github.com/gsingh93
 [Herman J. Radtke III]: https://github.com/hjr3
 [Jakub Bukaj]: https://github.com/jakub-
+[Jeena Lee]: https://github.com/jeenalee
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
 [Josh Matthews]: https://github.com/jdm
