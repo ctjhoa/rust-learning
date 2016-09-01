@@ -184,6 +184,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [A Practical Intro to Macros in Rust 1.0](https://danielkeep.github.io/practical-intro-to-macros.html) - [Daniel Keep][]
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/) - [Daniel Keep][]
 * [Macros in Rust part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/) | [part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/) | [part 3](http://ncameron.org/blog/macros-in-rust-pt3/) | [part 4](http://ncameron.org/blog/macros-in-rust-pt4/) - [Nick Cameron][]
+* [How do I use the Standard Library Macros in Rust?](http://mgattozzi.github.io/2016/06/01/how-do-i-std-macros.html) - [Michael Gattozzi][]
 
 ### MIR
 
@@ -218,6 +219,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 * [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) | [part 3](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) - [Herman J. Radtke III][]
 * [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
+* [How do I convert a &str to a String in Rust?](http://mgattozzi.github.io/2016/05/26/how-do-i-str-string.html) - [Michael Gattozzi][]
 
 ### Syntax extensions
 
@@ -343,6 +345,7 @@ of interest if you're running a workshop on Rust.
 [Luqman Aden]: https://github.com/luqmana
 [Huon Wilson]: https://github.com/huonw
 [Manish Goregaokar]: https://github.com/Manishearth
+[Michael Gattozzi]: https://github.com/mgattozzi
 [Nick Cameron]: https://github.com/nrc
 [Niko Matsakis]: https://github.com/nikomatsakis
 [Patrick Walton]: https://github.com/pcwalton
