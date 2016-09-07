@@ -309,6 +309,7 @@ While they're unlikely to help a student learning independently, they may be
 of interest if you're running a workshop on Rust.
 
 * Niko Matsakis's [rust tutorializer](https://github.com/nikomatsakis/rust-tutorializer) framework
+* Niko Matsakis's [ownership, borrowing, traits, structs, and threading tutorials](https://github.com/nikomatsakis/rust-tutorials-keynote), keynote files
 * Niko Matsakis's [concurrency tutorial](https://github.com/nikomatsakis/concurrency-tutorial) from December 2015
 * Niko Matsakis's [Mozlando Tutorial](http://smallcultfollowing.com/20151209/) includes slides and play.rust-lang.org demos
 * Jim Blandy's [exercises](https://github.com/jimblandy/exercises)
