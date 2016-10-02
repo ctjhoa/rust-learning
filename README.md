@@ -66,6 +66,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz][]
 * [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
 * [LambdaConf 2015 - In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdMhttp://confreaks.tv/events/rustcamp2015) - Alex Burkhart
+* [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis][]
 
 ## Podcasts
 
