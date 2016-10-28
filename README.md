@@ -255,17 +255,17 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ## Locale links
 
-* [Brazilian Portuguese](pt_BR.md)
-* [Chinese](zh_CN.md)
-* [Danish](da_DK.md)
-* [French](fr_FR.md)
-* [German](de_DE.md)
-* [Italian](it_IT.md)
-* [Japanese] (ja_JP.md)
-* [Korean](ko_KR.md)
-* [Russian](ru_RU.md)
-* [Spanish](es_ES.md)
-* [Turkish](tr-TR.md)
+* [Chinese-中文](zh_CN.md)  
+* [Danish-dansk](da_DK.md)  
+* [French-Français](fr_FR.md)  
+* [German-Deutsch](de_DE.md)  
+* [Italian-italiano](it_IT.md)  
+* [Japanese-日本語] (ja_JP.md)  
+* [Korean-한국어](ko_KR.md)  
+* [Portuguese-português](pt_BR.md)  
+* [Russian-русский](ru_RU.md)  
+* [Spanish-Español](es_ES.md)  
+* [Turkish-Türk](tr-TR.md)  
 
 ## People
 
