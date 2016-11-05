@@ -236,7 +236,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Traits and trait objects](http://xania.org/201506/traits-and-trait-objects) - Matt Godbolt
 * [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html) - [Llogiq][]
 * [Where are you From::from](http://llogiq.github.io/2015/11/27/from-into.html) - [Llogiq][]
-* [Going down the rabbit hole with Rust traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html) - [Jonathan Turner][]
+* :star: [Going down the rabbit hole with Rust traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html) - [Jonathan Turner][]
 
 ### Unsafe
 
