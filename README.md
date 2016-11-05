@@ -46,9 +46,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 
-* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - Jim Blandy
 * :star: [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
+* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * [WIP] [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
