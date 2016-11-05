@@ -8,9 +8,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ### Tags meanings
 
-* [official] Something made by a mozilla worker in a mozilla context
-* [old] Concepts are still useful but code could not compile.
-* [WIP] Work In Progress
+* :star: Something made by a mozilla worker in a mozilla context
+* :end: Concepts are still useful but code could not compile.
+* :soon: Work In Progress
 
 ## Table of Contents
 
@@ -46,9 +46,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 
-* [official] [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
-* [official] [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
 * [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - Jim Blandy
+* :star: [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
+* :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * [WIP] [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
@@ -57,10 +57,10 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
 
-* [official] [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
-* [official] [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg) - [Alex Crichton][]
-* [official] [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
-* [official] [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik][]
+* :star: [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
+* :star: [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg) - [Alex Crichton][]
+* :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
+* :star: [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik][]
 * [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
 * [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan][]
 * [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz][]
@@ -75,7 +75,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Rust in practice
 
-* [official] [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
+* :star: [rustbyexample](http://rustbyexample.com/) - [Jorge Aparicio][] and [Steve Klabnik][]
 * [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
@@ -106,7 +106,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Cheat sheets
 
-* [official] [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
+* :star: [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - [Daniel Keep][]
 * [Rust String Conversions Cheat Sheet](https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true) - GavinB
@@ -194,11 +194,11 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### Monads
 
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
-* [old] [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
+* :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
 
 ### Ownership / Concurrency
 
-* [official] [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
+* :star: [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) - [Aaron Turon][]
 * [Rust ownership, the hard way](http://chrismorgan.info/blog/rust-ownership-the-hard-way.html) - [Chris Morgan][]
 * [An alternative introduction to Rust](http://words.steveklabnik.com/a-new-introduction-to-rust) - [Steve Klabnik][]
 * [The Problem With Single-threaded Shared Mutability](https://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/) - [Manish Goregaokar][]
@@ -230,7 +230,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Traits
 
-* [official] [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html) - [Aaron Turon][]
+* :star: [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html) - [Aaron Turon][]
 * [A series on trait objects part 1](https://huonw.github.io/blog/2015/01/peeking-inside-trait-objects) | [part 2](https://huonw.github.io/blog/2015/01/the-sized-trait) | [part 3](https://huonw.github.io/blog/2015/01/object-safety) | [part 4](https://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/) - [Huon Wilson][]
 * [Rust traits for developer friendly libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) - [Ben Ashford][]
 * [Traits and trait objects](http://xania.org/201506/traits-and-trait-objects) - Matt Godbolt
