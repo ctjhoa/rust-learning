@@ -98,7 +98,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 ## Best Practices/Style Guides
 
 * [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
-* [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
+* :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - Pascal Hertleif
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
@@ -225,7 +225,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 ### Syntax extensions
 
-* [Syntax extensions and regular expressions for Rust](http://blog.burntsushi.net/rust-regex-syntax-extensions/) - [Andrew Gallant][]
+* :star: [Syntax extensions and regular expressions for Rust](http://blog.burntsushi.net/rust-regex-syntax-extensions/) - [Andrew Gallant][]
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/) - [Gulshan Singh][]
 
 ### Traits
