@@ -83,7 +83,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Advent of Code](https://github.com/LD250/adventofcode_rust) - Denys Levchenko
 * [ArcadeRS](http://jadpole.github.io/arcaders/arcaders-1-0) - Jessy Pelletier
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/) - Nikita Baksalyar
-* [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - Carol Nichols
+* :star: [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - [Carol Nichols][]
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - [Alexis Beingessner][]
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/?updated=2015-11-08) - Jake Goulding
 * :star: [Let's build a browser engine!](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
@@ -332,6 +332,7 @@ of interest if you're running a workshop on Rust.
 [Ben Ashford]: https://github.com/benashford
 [Brian Anderson]: https://github.com/brson
 [Carl Lerche]: https://github.com/carllerche
+[Carol Nichols]: https://github.com/carols10cents
 [Chris Krycho]: https://github.com/chriskrycho
 [Chris Morgan]: https://github.com/chris-morgan
 [Christoph Burgdorf]: https://github.com/cburgdorf
