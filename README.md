@@ -164,6 +164,9 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Practical differences between Rust closures and functions](https://ricardomartins.cc/2015/10/12/practical_differences_between_rust_closures_and_functions) - Ricardo Martins
 * :star: [How Rust Achieves Thread Safety](https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/) - [Manish Goregaokar][]
 
+### Documentation
+* :star: [Writing Documentation in Rust](https://facility9.com/2016/05/writing-documentation-in-rust/) - [Jeremiah Peschka][]
+
 ### Enums
 
 * :star: [Virtual Structs part 1](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/) | [part 2](http://smallcultfollowing.com/babysteps/blog/2015/05/29/classes-strike-back/) | [part 3](http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/) - [Niko Matsakis][]
@@ -340,6 +343,7 @@ of interest if you're running a workshop on Rust.
 [Herman J. Radtke III]: https://github.com/hjr3
 [Jakub Bukaj]: https://github.com/jakub-
 [Jeena Lee]: https://github.com/jeenalee
+[Jeremiah Peschka]: https://github.com/peschkaj
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
 [Josh Matthews]: https://github.com/jdm
