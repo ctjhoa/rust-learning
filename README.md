@@ -8,9 +8,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ### Tags meanings
 
-* :star: Something made by a rust team member
+* :star: Something made by a rust team member.
 * :end: Concepts are still useful but code could not compile.
-* :soon: Work In Progress
+* :soon: Work In Progress.
 
 ## Table of Contents
 
