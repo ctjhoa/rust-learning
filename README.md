@@ -48,10 +48,10 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 * :star: [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
-* [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
+* :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
-* [WIP] [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
+* :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 
 ## Videos
 
@@ -61,7 +61,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg) - [Alex Crichton][]
 * :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
 * :star: [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik][]
-* [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
+* :star: [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
 * [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan][]
 * [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz][]
 * [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
