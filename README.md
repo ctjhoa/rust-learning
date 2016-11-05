@@ -8,7 +8,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ### Tags meanings
 
-* :star: Something made by a mozilla worker in a mozilla context
+* :star: Something made by a rust team member
 * :end: Concepts are still useful but code could not compile.
 * :soon: Work In Progress
 
