@@ -166,6 +166,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * :star: [How Rust Achieves Thread Safety](https://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/) - [Manish Goregaokar][]
 
 ### Documentation
+
 * :star: [Writing Documentation in Rust](https://facility9.com/2016/05/writing-documentation-in-rust/) - [Jeremiah Peschka][]
 
 ### Enums
