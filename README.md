@@ -52,6 +52,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
+* :soon: [The Rust Programming Language v2 (rewritten)](http://rust-lang.github.io/book/)
 
 ## Videos
 
