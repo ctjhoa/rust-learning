@@ -145,7 +145,7 @@ None
 | Languages        | Links     |
 | ---------------- | --------------- |
 | C# | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
-| C/C++ | <ul><li>[Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]</li><li>[On rust's memory management. Mainly for C/C++ programmers](http://blog.zgtm.de/1) - Robert</li></ul> |
+| C/C++ | <ul><li>[Rust for C++ Programmers](http://aminb.gitbooks.io/rust-for-c/content/) - [Nick Cameron][]</li><li>[On rust's memory management. Mainly for C/C++ programmers](http://blog.zgtm.de/1) - Robert</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li></ul> |
 | Clojure | <ul><li>[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) - Zach Oakes</li></ul> |
 | Go | <ul><li>[A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html) - [Manish Goregaokar][]</li></ul> |
 | Java | <ul><li>[Comparing Rust and Java](https://llogiq.github.io/2016/02/28/java-rust.html) - [Llogiq][]</li><li>[A light comparison between Rust and Java generics and type system features.](https://gist.github.com/Kimundi/8391398) - Marvin Löbel</li></ul>  |
