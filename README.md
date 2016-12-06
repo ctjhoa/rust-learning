@@ -278,6 +278,20 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Spanish](es_ES.md)
 * [Turkish](tr-TR.md)
 
+### Trait object safety
+* [Peeking inside Trait Objects](http://huonw.github.io/blog/2015/01/peeking-inside-trait-objects/) - [Huon Wilson]()
+* [The Sized Trait](http://huonw.github.io/blog/2015/01/the-sized-trait/) - [Huon Wilson]()
+* [Object Safety](http://huonw.github.io/blog/2015/01/object-safety/) - [Huon Wilson]()
+* [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/) - [Huon Wilson]()
+* [RFC 255](https://github.com/rust-lang/rfcs/blob/master/text/0255-object-safety.md)
+* [RFC 546](https://github.com/rust-lang/rfcs/blob/master/text/0546-Self-not-sized-by-default.md)
+
+### UFCS
+* [RFC 132](https://github.com/rust-lang/rfcs/blob/master/text/0132-ufcs.md)
+
+### Associated items
+* [RFC 195](https://github.com/rust-lang/rfcs/blob/master/text/0195-associated-items.md)
+
 ## People
 
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
