@@ -298,7 +298,7 @@ You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/
 ### Famous Rustacean Bloggers
 
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
-* [Andrew Hobden][] - [blog](http://hoverbear.org/tag/rust/)
+* [Andrew Hobden][] - [blog](https://hoverbear.org/tags/#rust)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
 * [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
 * [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
