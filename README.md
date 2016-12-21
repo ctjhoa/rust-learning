@@ -97,6 +97,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Make a Lisp](https://github.com/kanaka/mal/tree/master/rust) - Joel Martin
 * :star: [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/) - [Niko Matsakis][]
 * [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7#.atrb20z9w) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f#.al8ptqjax) - Dumindu
+* [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
 
 ## Best Practices/Style Guides
 
