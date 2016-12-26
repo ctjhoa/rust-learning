@@ -365,6 +365,7 @@ of interest if you're running a workshop on Rust.
 [Michael Gattozzi]: https://github.com/mgattozzi
 [Nick Cameron]: https://github.com/nrc
 [Niko Matsakis]: https://github.com/nikomatsakis
+[Pascal Hertleif]: https://github.com/killercup
 [Patrick Walton]: https://github.com/pcwalton
 [Seo Sanghyeon]: https://github.com/sanxiyn
 [Simon Sapin]: https://github.com/SimonSapin
