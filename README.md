@@ -197,7 +197,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [A Practical Intro to Macros in Rust 1.0](https://danielkeep.github.io/practical-intro-to-macros.html) - [Daniel Keep][]
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/) - [Daniel Keep][]
 * :star: [Macros in Rust part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/) | [part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/) | [part 3](http://ncameron.org/blog/macros-in-rust-pt3/) | [part 4](http://ncameron.org/blog/macros-in-rust-pt4/) - [Nick Cameron][]
-* [How do I use the Standard Library Macros in Rust?](http://mgattozzi.github.io/2016/06/01/how-do-i-std-macros.html) - [Michael Gattozzi][]
+* [How do I use the Standard Library Macros in Rust?](https://mgattozzi.com/how-do-i-std-macros) - [Michael Gattozzi][]
 
 ### MIR
 
@@ -207,7 +207,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 * [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
 * :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
-* [Russian Dolls and clean Rust code](https://mgattozzi.com/posts/russian-dolls.html) - Michael Gattozzi
+* [Russian Dolls and clean Rust code](https://mgattozzi.com/russian-dolls) - [Michael Gattozzi][]
 
 ### Ownership / Concurrency
 
@@ -234,7 +234,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 
 * [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) | [part 3](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) - [Herman J. Radtke III][]
 * [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
-* [How do I convert a &str to a String in Rust?](http://mgattozzi.github.io/2016/05/26/how-do-i-str-string.html) - [Michael Gattozzi][]
+* [How do I convert a &str to a String in Rust?](https://mgattozzi.com/how-do-i-str-string) - [Michael Gattozzi][]
 
 ### Syntax extensions
 
