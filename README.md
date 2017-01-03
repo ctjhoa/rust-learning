@@ -96,7 +96,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
 * [Make a Lisp](https://github.com/kanaka/mal/tree/master/rust) - Joel Martin
 * :star: [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/) - [Niko Matsakis][]
-* [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7#.atrb20z9w) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f#.al8ptqjax) - Dumindu
+* [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) | [part 3](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) - Dumindu Madunuwan
 * [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
 
 ## Best Practices/Style Guides
