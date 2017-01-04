@@ -12,6 +12,10 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :end: Concepts are still useful but code could not compile.
 * :soon: Work In Progress.
 
+### Do you need to be convinced that Rust worth learning?
+
+Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
+
 ## Table of Contents
 
 * [Books](#books)
