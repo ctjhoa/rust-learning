@@ -146,6 +146,9 @@ None
 
 ## Comparison with Other Languages
 
+* [Rust::from(lang)](https://github.com/mgattozzi/rust-from-lang) - [Michael Gattozzi][]
+* Others:
+
 | Languages        | Links     |
 | ---------------- | --------------- |
 | C# | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
