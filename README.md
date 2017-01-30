@@ -61,7 +61,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
 
 * :star: [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
-* :star: [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg) - [Alex Crichton][]
+* :star: [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) - [Alex Crichton][]
 * :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
 * :star: [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik][]
 * :star: [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
