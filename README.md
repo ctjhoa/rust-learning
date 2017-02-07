@@ -322,6 +322,8 @@ You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/
 
 Don't forget [Ferris](http://www.rustacean.net/) the unofficial mascot.
 
+There is also a [Planet Rust](http://www.planet-rust.com/) unofficial blog aggregator.
+
 ## Tutorials & Workshop Materials
 
 These are slides and materials from brick-and-mortar workshops about Rust.
