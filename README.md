@@ -230,6 +230,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Some Notes on `Send` and `Sync`](https://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/) - [Huon Wilson][]
 * [Sharing Coloring Books With Friends in Rust](http://jeenalee.com/2016/08/15/sharing-coloring-books-in-rust.html) - [Jeena Lee][]
 * [Moving, Cloning, and Copying Coloring Books in Rust](http://jeenalee.com/2016/08/29/move-clone-copy.html) - [Jeena Lee][]
+* [Rust's ownership and borrowing in 150 words](https://scribbles.pascalhertleif.de/rust-ownership-and-borrowing-in-150-words.html) - [Pascal Hertleif][]
 
 ### Privacy
 
@@ -255,6 +256,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html) - [Llogiq][]
 * [Where are you From::from](http://llogiq.github.io/2015/11/27/from-into.html) - [Llogiq][]
 * :star: [Going down the rabbit hole with Rust traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html) - [Jonathan Turner][]
+* [Trait Driven Development in Rust](https://scribbles.pascalhertleif.de/trait-driven-development-in-rust.html) - [Pascal Hertleif][]
 
 ### Unsafe
 
