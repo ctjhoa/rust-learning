@@ -337,6 +337,7 @@ of interest if you're running a workshop on Rust.
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
 * Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
+* Skade's [Rust In An Hour](https://github.com/skade/rust-in-an-hour), last overhauled in 2015, provides slides and talking points for presenting a first Rust introduction
 
 A few universities have had classes about Rust. Here are links to their public resources.
 
