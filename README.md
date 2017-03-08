@@ -72,6 +72,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis][]
 * [Rust Programming Tutorial](https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9) - ABitWiseGuy
 * :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
+* :star: [Mozilla's Rust and why we love it](http://blog.cambridgeconsultants.com/wireless-product-development/presentation-mozillas-rust-and-why-we-love-it/) - Cambridge Consultants
 
 ## Podcasts
 
@@ -337,6 +338,7 @@ of interest if you're running a workshop on Rust.
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
 * Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
+* Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using a the Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
 
 A few universities have had classes about Rust. Here are links to their public resources.
 
