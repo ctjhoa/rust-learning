@@ -295,7 +295,7 @@ You want to meet them IRL ? [Meetup groups][m], [community calendar][c]
 
 Go to rusty events ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rustfest.eu/), [RustConf](http://rustconf.com/), [Rust Belt Rust](http://www.rust-belt-rust.com/)
 
-You are looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/), [Jobs in Rust](https://www.jobsinnew.tech/langs/rust/)
+You are looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
 
 You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/) and [The official reddit](https://www.reddit.com/r/rust/)
 
