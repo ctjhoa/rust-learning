@@ -168,7 +168,7 @@ None
 See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
 
 ## Language stuff
-z
+
 ### Closures
 
 * [Finding Closure in Rust](https://huonw.github.io/blog/2015/05/finding-closure-in-rust/) - [Huon Wilson][]
@@ -286,7 +286,6 @@ z
 * [Turkish](tr-TR.md)
 
 ## People
-1;3Q
 
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
 
