@@ -6,7 +6,7 @@ A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel fr
 
 *Do you need to be convinced that Rust worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
 
-The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](http://www.rust-lang.org/). You also have an [ebook version](http://killercup.github.io/trpl-ebook/) of the doc.
+The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](http://www.rust-lang.org/). You also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [there](https://github.com/lise-henry/books/).
 
 ### Tags meanings
 
