@@ -23,7 +23,6 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Best Practices/Style Guides](#best-practicesstyle-guides)
 * [Cheat sheets](#cheat-sheets)
 * [RFCs](#rfcs)
-* [Code Organization](#code-organization)
 * [Compilation](#compilation)
 * [CI / Testing](#ci--testing)
 * [Comparison with Other Languages](#comparison-with-other-languages)
@@ -122,10 +121,6 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 ## RFCs
 
 See [Rust RFCs](https://github.com/rust-lang/rfcs)
-
-## Code Organization
-
-None
 
 ## Compilation
 
