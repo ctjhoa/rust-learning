@@ -134,6 +134,7 @@ None
 * [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon
 * :star: [Taking Rust everywhere with rustup](http://blog.rust-lang.org/2016/05/13/rustup.html) - [Brian Anderson][]
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - Kang Seonghoon
+* [Using Rust in Windows](http://www.jonathanturner.org/2017/03/rust-in-windows.html) - [Jonathan Turner][]
 
 ## CI / Testing
 
