@@ -290,16 +290,15 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to meet them IRL ? [Meetup groups][m], [community calendar][c]
+You want to meet them IRL ? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks)
 
 Go to rusty events ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rustfest.eu/), [RustConf](http://rustconf.com/), [Rust Belt Rust](http://www.rust-belt-rust.com/)
 
-You are looking for a job ? [Rust Community Job Board](https://rust.jobboard.io/)
+You are looking for a job ? [Awesome Rust Jobs](https://rust.libhunt.com/jobs)
 
-You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/) and [The official reddit](https://www.reddit.com/r/rust/)
+You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/) and [Planet Rust](http://www.planet-rust.com/)
 
-[m]: http://www.meetup.com/topics/rust/
-[c]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com
+There is also [The Rust Community Blog](http://blog.community.rs/)
 
 ### Famous Rustacean Bloggers
 
