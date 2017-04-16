@@ -279,7 +279,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [French](fr_FR.md)
 * [German](de_DE.md)
 * [Italian](it_IT.md)
-* [Japanese] (ja_JP.md)
+* [Japanese](ja_JP.md)
 * [Korean](ko_KR.md)
 * [Russian](ru_RU.md)
 * [Spanish](es_ES.md)
