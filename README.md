@@ -87,7 +87,6 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
 * [Advent of Code](https://github.com/LD250/adventofcode_rust) - Denys Levchenko
-* [ArcadeRS](http://jadpole.github.io/arcaders/arcaders-1-0) - Jessy Pelletier
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/) - Nikita Baksalyar
 * :star: [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - [Carol Nichols][]
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - [Alexis Beingessner][]
