@@ -60,7 +60,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
 
 * still in progress - [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
-* April 2017 - :star: <a name="Aaron2"></a>[Rust: Confident, Productive Systems Programming](https://www.youtube.com/watch?v=C6dNx9pY7p8) - [Aaron Turon]
+* April 2017 - :star: [Rust: Confident, Productive Systems Programming](https://www.youtube.com/watch?v=C6dNx9pY7p8) - [Aaron Turon]
 * January 2017 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * ​November 2016 - :star:​ [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
 * October 2016 - [Mozilla's Rust and why we love it](http://blog.cambridgeconsultants.com/wireless-product-development/presentation-mozillas-rust-and-why-we-love-it/) - Cambridge Consultants
@@ -74,8 +74,6 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * April 2015 - [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan]
 * March 2015 - [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) [1] - [Aaron Turon]
 * January 2015 - ​:star: [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy]
-
-[1] Updated version in [Rust: Confident Productive System Programming](#Aaron2)
 
 ## Podcasts
 
