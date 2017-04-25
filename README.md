@@ -59,20 +59,23 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
 
-* :star: [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
-* :star: [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) - [Alex Crichton][]
-* :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
-* :star: [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik][]
-* :star: [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy][]
-* [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan][]
-* :star: [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz][]
-* [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
-* [LambdaConf 2015 - In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) - Alex Burkhart
-* :star: [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis][]
-* [Rust Programming Tutorial](https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9) - ABitWiseGuy
-* :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
-* [Mozilla's Rust and why we love it](http://blog.cambridgeconsultants.com/wireless-product-development/presentation-mozillas-rust-and-why-we-love-it/) - Cambridge Consultants
-* ​[Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
+* still in progress - [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
+* April 2017 - :star: <a name="Aaron2"></a>[Rust: Confident, Productive Systems Programming](https://www.youtube.com/watch?v=C6dNx9pY7p8) - [Aaron Turon]
+* January 2017 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
+* ​November 2016 - :star:​ [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
+* October 2016 - [Mozilla's Rust and why we love it](http://blog.cambridgeconsultants.com/wireless-product-development/presentation-mozillas-rust-and-why-we-love-it/) - Cambridge Consultants
+* ​September 2016 - :star: [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis]
+* ​August 2016 - :star: [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) - [Alex Crichton]
+* ​June 2016 - :star: [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik]
+* January 2016 - [LambdaConf 2015 - In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) - Alex Burkhart
+* October 2015 - [Rust Programming Tutorial](https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9) - ABitWiseGuy
+* ​August 2015 - :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
+* June 2015 - ​:star:​ [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz]
+* April 2015 - [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan]
+* March 2015 - [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) [1] - [Aaron Turon]
+* January 2015 - ​:star: [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy]
+
+[1] Updated version in [Rust: Confident Productive System Programming](#Aaron2)
 
 ## Podcasts
 
