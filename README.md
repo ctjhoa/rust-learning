@@ -48,6 +48,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 ## Books
 
 * :star: [The Rust Programming Language](http://doc.rust-lang.org/stable/book/) ([Paper edition](https://www.nostarch.com/Rust))
+* :star: [The Rust Reference](https://doc.rust-lang.org/stable/reference/)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/)
 * :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
