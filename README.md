@@ -47,8 +47,11 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 
-* :star: [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/) ([Paper edition](https://www.nostarch.com/Rust))
-* :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/nightly/nomicon/)
+* :star: [The Rust Programming Language 1st edition](http://doc.rust-lang.org/stable/book/) - [repo](https://github.com/rust-lang/book/tree/master/first-edition)
+* :soon: :star: [The Rust Programming Language 2nd edition](http://rust-lang.github.io/book/second-edition/index.html) - [repo](https://github.com/rust-lang/book/tree/master/second-edition) ([Paper edition](https://www.nostarch.com/Rust))
+* :star: [The Rust Reference](https://doc.rust-lang.org/stable/reference/) - [repo](https://github.com/rust-lang-nursery/reference)
+* :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/) - [repo](https://github.com/rust-lang-nursery/nomicon)
+* :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
 * :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
