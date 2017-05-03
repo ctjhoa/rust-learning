@@ -75,7 +75,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * ​2015-10-01 - :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
 * 2015-06-13 - ​:star:​ [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz]
 * 2015-04-11 - [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan]
-* 2015-03-12 - [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) [1] - [Aaron Turon]
+* 2015-03-12 - [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon]
 * 2015-01-20 - ​:star: [OReilly's Programming in Rust](https://www.reddit.com/r/rust/comments/2trruh/recording_of_jim_blandys_programming_in_rust/) - [Jim Blandy]
 
 ## Podcasts
