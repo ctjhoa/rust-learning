@@ -103,6 +103,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/) - [Niko Matsakis][]
 * [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) | [part 3](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) - Dumindu Madunuwan
 * [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
+* :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
 
 ## Best Practices/Style Guides
 
@@ -113,7 +114,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Andrew Hobden][]
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
-* [Rust API guidelines](https://github.com/brson/rust-api-guidelines) - [Brian Anderson][]
+* :star: [Rust API guidelines](https://github.com/brson/rust-api-guidelines) - [Brian Anderson][]
 
 ## Cheat sheets
 
