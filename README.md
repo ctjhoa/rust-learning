@@ -301,7 +301,7 @@ You want to meet them IRL ? [Meetup groups](http://www.meetup.com/topics/rust/),
 
 Go to rusty events ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rustfest.eu/), [RustConf](http://rustconf.com/), [Rust Belt Rust](http://www.rust-belt-rust.com/)
 
-You are looking for a job ? [Awesome Rust Jobs](https://rust.libhunt.com/jobs)
+You are looking for a job ? [Rust Jobs](http://rustjobs.rs/), [Awesome Rust Jobs](https://rust.libhunt.com/jobs)
 
 You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/) and [Planet Rust](http://www.planet-rust.com/)
 
