@@ -104,6 +104,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) | [part 3](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) - Dumindu Madunuwan
 * [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
 * :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
+* :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
 
 ## Best Practices/Style Guides
 
