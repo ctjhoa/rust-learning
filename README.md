@@ -335,6 +335,7 @@ These are slides and materials from brick-and-mortar workshops about Rust.
 While they're unlikely to help a student learning independently, they may be
 of interest if you're running a workshop on Rust.
 
+* Workshop [slides and exercises](https://www.rust-tutorials.com/RustConf16/) from RustConf 2016.
 * Niko Matsakis's [rust tutorializer](https://github.com/nikomatsakis/rust-tutorializer) framework
 * Niko Matsakis's [ownership, borrowing, traits, structs, and threading tutorials](https://github.com/nikomatsakis/rust-tutorials-keynote), keynote files
 * Niko Matsakis's [concurrency tutorial](https://github.com/nikomatsakis/concurrency-tutorial) from December 2015
