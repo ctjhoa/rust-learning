@@ -75,7 +75,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Rust Programming Tutorial](https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9) - ABitWiseGuy
 * :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
 * [Mozilla's Rust and why we love it](http://blog.cambridgeconsultants.com/wireless-product-development/presentation-mozillas-rust-and-why-we-love-it/) - Cambridge Consultants
-* ​[Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
+* [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 
 ## Podcasts
 
@@ -116,6 +116,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Andrew Hobden][]
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
 * :star: [Rust API guidelines](https://github.com/brson/rust-api-guidelines) - [Brian Anderson][]
+* [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 
 ## Cheat sheets
 
