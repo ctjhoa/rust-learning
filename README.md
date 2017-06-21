@@ -106,6 +106,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
 * :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
+* [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
 
 ## Best Practices/Style Guides
 
