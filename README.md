@@ -57,7 +57,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 * :soon: [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/) - Carlo Milanesi
-* [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) by Vesa Kaihlavirta, Packt. (May 2017)
+* [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) - Vesa Kaihlavirta
 
 ## Videos
 
