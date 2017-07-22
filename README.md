@@ -80,7 +80,6 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 ## Podcasts
 
-* [Rusty radio](http://rustyrad.io/) - Alex Newman
 * [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
 
 ## Rust in practice
