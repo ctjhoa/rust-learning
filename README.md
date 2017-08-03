@@ -309,7 +309,7 @@ Go to rusty events ? [RustCamp](http://rustcamp.com/), [RustFest](http://www.rus
 
 You are looking for a job ? [Rust Jobs](http://rustjobs.rs/), [Awesome Rust Jobs](https://rust.libhunt.com/jobs)
 
-You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/) and [Planet Rust](http://www.planet-rust.com/)
+You want to stay up to date ? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/), [Rust Herald](https://herald.community.rs/) and [Planet Rust](http://www.planet-rust.com/)
 
 There is also [The Rust Community Blog](http://blog.community.rs/)
 
