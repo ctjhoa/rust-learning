@@ -58,6 +58,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 * :soon: [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/) - Carlo Milanesi
 * [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) - Vesa Kaihlavirta
+* :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
 
 ## Videos
 
