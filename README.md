@@ -107,6 +107,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 * :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
 * [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
+* :star: [stdx - The missing batteries of Rust](https://github.com/brson/stdx) - [Brian Anderson][]
 
 ## Best Practices/Style Guides
 
