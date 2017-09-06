@@ -83,6 +83,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 ## Podcasts
 
 * [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
+* [The Request for Explanation Podcast: A weekly discussion of Rust RFCs](https://request-for-explanation.github.io/podcast/) - [Manish Goregaokar][]
 
 ## Rust in practice
 
