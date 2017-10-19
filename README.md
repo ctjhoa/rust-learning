@@ -52,14 +52,15 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [The Rust Reference](https://doc.rust-lang.org/stable/reference/) - [repo](https://github.com/rust-lang-nursery/reference)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/) - [repo](https://github.com/rust-lang-nursery/nomicon)
 * :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
-* :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
-* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
+* :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy](https://github.com/jimblandy)
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - [Ralf Jung](https://www.ralfj.de)
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 * :soon: [Rust Programming Step-by-Step](https://www.gitbook.com/book/carlomilanesi/rust-programming-step-by-step/) - Carlo Milanesi
 * [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) - Vesa Kaihlavirta
-* :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
-* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - TS McNamara
+* :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson](https://github.com/brson)
+* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - [Tim McNamara](https://twitter.com/timclicks)
+* :soon: [The Rust Programming Language](https://www.nostarch.com/Rust) - [Steve Klabnik](http://www.steveklabnik.com/) and [Carol Nichols](http://carol-nichols.com/)
 
 ## Videos
 
