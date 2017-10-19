@@ -60,7 +60,6 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) - Vesa Kaihlavirta
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson](https://github.com/brson)
 * :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - [Tim McNamara](https://twitter.com/timclicks)
-* :soon: [The Rust Programming Language](https://www.nostarch.com/Rust) - [Steve Klabnik](http://www.steveklabnik.com/) and [Carol Nichols](http://carol-nichols.com/)
 
 ## Videos
 
