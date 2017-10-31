@@ -310,7 +310,7 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 You search for a rustacean ? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to meet them IRL ? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks)
+You want to meet them IRL ? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/)
 
 Go to rusty events ? [RustFest](http://www.rustfest.eu/), [RustConf](http://rustconf.com/), [Rust Belt Rust](http://www.rust-belt-rust.com/)
 
