@@ -84,7 +84,7 @@ You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/r
 
 * [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
 * [The Request for Explanation Podcast: A weekly discussion of Rust RFCs](https://request-for-explanation.github.io/podcast/) - [Manish Goregaokar][]
-* [Rusty Spike Podcast – A podcast for Rust and Servo](http://castbox.fm/channel/Rusty-Spike-Podcast-%E2%80%93-A-podcast-for-Rust-and-Servo-a51389d5e1c41955f6475dcc37ae7cbbdb2dd736?country=fr) - [Jonathan Turner][]
+* [Rusty Spike Podcast – A podcast for Rust and Servo](https://rusty-spike.blubrry.net/) - [Jonathan Turner][]
 
 ## Rust in practice
 
