@@ -159,6 +159,11 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 * [Rust Performance Testing on Travis CI](https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/) - Lloyd
 * [Ensuring Beautiful Commits with rustfmt and Travis-CI](http://kneit.in/2016/11/26/rustfmt-in-travisci.html) - Kyle Kneitinger
 
+## Profiling
+
+* [Compiler Explorer - See Rust code as assembly](https://rust.godbolt.org/)
+* [Profiling Rust applications on Linux](http://llogiq.github.io/2015/07/15/profiling.html) - [Llogiq][]
+
 ## Comparison with Other Languages
 
 * [Rust::from(lang)](https://github.com/mgattozzi/rust-from-lang) - [Michael Gattozzi][]
