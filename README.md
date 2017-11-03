@@ -64,6 +64,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 ## Videos
 
 ### Playlists
+
 * :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
 * [air.mozilla Rust's meetups](https://air.mozilla.org/channels/rust/)
 * [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
