@@ -3,4 +3,4 @@ before_install:
 - npm install -g markdown-link-check
 script:
 - mdl -c ./.mdlrc *.md
-- cat *.md | markdown-link-check
+- markdown-link-check README.md
