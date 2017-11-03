@@ -310,7 +310,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * [Korean](ko_KR.md)
 * [Russian](ru_RU.md)
 * [Spanish](es_ES.md)
-* [Turkish](tr-TR.md)
+* [Turkish](tr_TR.md)
 
 ## People
 
