@@ -148,6 +148,7 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - Kang Seonghoon
 * [Using Rust in Windows](http://www.jonathanturner.org/2017/03/rust-in-windows.html) - [Jonathan Turner][]
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) - [Jorge Aparicio][]
+* [Compiler Explorer](https://rust.godbolt.org/) - See Rust code as assembly
 
 ## CI / Testing
 
@@ -158,6 +159,10 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs)
 * [Rust Code Coverage Guide: kcov + Travis CI + Codecov / Coveralls](http://sunjay.ca/2016/07/25/rust-code-coverage) - Sunjay Varma
 * [Rust Performance Testing on Travis CI](https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/) - Lloyd
 * [Ensuring Beautiful Commits with rustfmt and Travis-CI](http://kneit.in/2016/11/26/rustfmt-in-travisci.html) - Kyle Kneitinger
+
+## Performance
+
+* [Profiling Rust applications on Linux](http://llogiq.github.io/2015/07/15/profiling.html)
 
 ## Comparison with Other Languages
 
@@ -213,6 +218,7 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 * :star: [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) - [Manish Goregaokar][]
 * [Understanding Lifetime in Rust part 1](https://mobiarch.wordpress.com/2015/06/29/understanding-lifetime-in-rust-part-i/) | [part 2](https://mobiarch.wordpress.com/2015/07/08/understanding-lifetime-in-rust-part-ii-3/) - Bibhas Bhattacharya
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/) - Charles
+* [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 
 ### Macros
 
