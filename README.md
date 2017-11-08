@@ -142,7 +142,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## RFCs
 
-See [Rust RFCs](https://github.com/rust-lang/rfcs)
+See [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://rust-lang.github.io/rfcs/)
 
 ## Compilation
 
