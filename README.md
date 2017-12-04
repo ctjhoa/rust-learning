@@ -119,7 +119,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
 * [Make a Lisp](https://github.com/kanaka/mal/tree/master/rust) - Joel Martin
 * :star: [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/) - [Niko Matsakis][]
-* [Rust basics and beyond](https://medium.com/learning-rust/rust-basics-e73304ab35c7) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) | [part 3](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) - Dumindu Madunuwan
+* [Learning Rust](https://medium.com/learning-rust/rust-basics-e73304ab35c7) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) | [part 3](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) | [part 4](https://medium.com/learning-rust/rust-lets-get-it-started-bdd8de58178d) - [Dumindu Madunuwan][]
 * [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
 * :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
@@ -431,3 +431,4 @@ A few universities have had classes about Rust. Here are links to their public r
 [Steven Fackler]: https://github.com/sfackler
 [Tetsuharu OHZEKI]: https://github.com/saneyuki
 [Yehuda Katz]: https://github.com/wycats
+[Dumindu Madunuwan]: https://github.com/dumindu
