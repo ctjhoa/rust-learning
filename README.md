@@ -28,7 +28,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Compilation](#compilation)
 * [FFI](#ffi)
 * [CI / Testing](#ci--testing)
-* [Profiling](#profiling)
+* [Debug / Profiling](#debug--profiling)
 * [Comparison with Other Languages](#comparison-with-other-languages)
 * [Applications / Libraries / Tools](#applications--libraries--tools)
 * [Language stuff](#language-stuff)
@@ -181,8 +181,9 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://r
 * [Rust Performance Testing on Travis CI](https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/) - Lloyd
 * [Ensuring Beautiful Commits with rustfmt and Travis-CI](http://kneit.in/2016/11/26/rustfmt-in-travisci.html) - Kyle Kneitinger
 
-## Profiling
+## Debug / Profiling
 
+* [Debugging a segfault in my Rust program](https://jvns.ca/blog/2017/12/23/segfault-debugging/) - Julia Evans
 * [Compiler Explorer - See Rust code as assembly](https://rust.godbolt.org/)
 * [Profiling Rust applications on Linux](http://llogiq.github.io/2015/07/15/profiling.html) - [Llogiq][]
 
