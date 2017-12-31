@@ -125,6 +125,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
 * :star: [stdx - The missing batteries of Rust](https://github.com/brson/stdx) - [Brian Anderson][]
 * [Writing a Command Line Tool in Rust](http://mattgathu.github.io/writing-cli-app-rust/) - Matt Gathu
+* [Rust - exercism.io](http://exercism.io/languages/rust/about)
 
 ## Best Practices/Style Guides
 
