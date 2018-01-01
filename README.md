@@ -39,6 +39,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
   * [Lifetime](#lifetime)
   * [Macros](#macros)
   * [MIR](#mir)
+  * [Modules](#modules)
   * [Monads](#monads)
   * [Ownership / Concurrency](#ownership--concurrency)
   * [Privacy](#privacy)
@@ -208,7 +209,8 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://r
 
 ## Applications / Libraries / Tools
 
-See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust)
+See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awesomo
+/rust](https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md)
 
 ## Language stuff
 
@@ -252,6 +254,10 @@ See the awesome repo [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-r
 ### MIR
 
 * :star: [Introducing MIR](http://blog.rust-lang.org/2016/04/19/MIR.html) - [Niko Matsakis][]
+
+### Modules
+
+* [Rust Module Essentials ](https://dev.to/hertz4/rust-module-essentials-12oi) - Sam Pagenkopf
 
 ### Monads
 
