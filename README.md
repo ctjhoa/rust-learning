@@ -68,6 +68,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
 * :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - TS McNamara
 * :soon: [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
+* [Learning Rust](https://learning-rust.github.io/) - [Dumindu Madunuwan][]
+* [A Gentle Introduction To Rust](http://stevedonovan.github.io/rust-gentle-intro/readme.html) - [Steve Donovan][]
 
 ## Videos
 
@@ -119,7 +121,6 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
 * [Make a Lisp](https://github.com/kanaka/mal/tree/master/rust) - Joel Martin
 * :star: [Modeling Graphs in Rust Using Vector Indices](http://smallcultfollowing.com/babysteps/blog/2015/04/06/modeling-graphs-in-rust-using-vector-indices/) - [Niko Matsakis][]
-* [Learning Rust](https://medium.com/learning-rust/rust-basics-e73304ab35c7) | [part 2](https://medium.com/learning-rust/rust-beyond-the-basics-4fc697e3bf4f) | [part 3](https://medium.com/learning-rust/rust-the-tough-part-2ea11ed3693e) | [part 4](https://medium.com/learning-rust/rust-lets-get-it-started-bdd8de58178d) - [Dumindu Madunuwan][]
 * [24 days of Rust series](https://siciarz.net/tag/24%20days%20of%20rust/) - Zbigniew Siciarz
 * :star: [Rust Cookbook](https://github.com/brson/rust-cookbook)
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
@@ -436,6 +437,7 @@ A few universities have had classes about Rust. Here are links to their public r
 [Patrick Walton]: https://github.com/pcwalton
 [Seo Sanghyeon]: https://github.com/sanxiyn
 [Simon Sapin]: https://github.com/SimonSapin
+[Steve Donovan]: https://github.com/stevedonovan
 [Steve Klabnik]: https://github.com/steveklabnik
 [Steven Fackler]: https://github.com/sfackler
 [Tetsuharu OHZEKI]: https://github.com/saneyuki
