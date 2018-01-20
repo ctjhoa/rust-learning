@@ -183,6 +183,7 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://r
 * [Rust Code Coverage Guide: kcov + Travis CI + Codecov / Coveralls](http://sunjay.ca/2016/07/25/rust-code-coverage) - Sunjay Varma
 * [Rust Performance Testing on Travis CI](https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/) - Lloyd
 * [Ensuring Beautiful Commits with rustfmt and Travis-CI](http://kneit.in/2016/11/26/rustfmt-in-travisci.html) - Kyle Kneitinger
+* [Great Rust CI ](https://dev.to/cad97/great-rust-ci-1fk6) - Christopher Durham
 
 ## Debug / Profiling
 
