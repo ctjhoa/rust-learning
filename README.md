@@ -70,6 +70,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :soon: [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
 * [Learning Rust](https://learning-rust.github.io/) - [Dumindu Madunuwan][]
 * [A Gentle Introduction To Rust](http://stevedonovan.github.io/rust-gentle-intro/readme.html) - [Steve Donovan][]
+* [Step Ahead with Rust](https://www.amazon.com/Step-Ahead-Rust-Jonathan-Creekmore/dp/0999361805/) - Jonathan Creekmore
 
 ## Videos
 
