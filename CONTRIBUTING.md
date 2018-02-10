@@ -4,8 +4,7 @@ This resource was made by the Rust community and wouldn't be possible without yo
 
 In order to contribute to this repository you need to **fork** it, then you can create a pull request.
 
-
-# Contribution Guidelines
+## Pull requests
 
 - **To add, remove, or change things on the list:** Submit a pull request
 
@@ -20,14 +19,12 @@ Please contribute links to resources you have used or are familiar with. This wi
 
 If you removed our PR template you can find it [here](https://github.com/ctjhoa/rust-learning/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
 
-
 ## Maintainers
 
 To make sure every PR is checked, we have [team maintainers](MAINTAINERS). Every PR should be reviewed by at least two maintainers before it can get merged if the team is not outnumbered.
 
 The maintainers will review your PR and notify you and tag it in case any information is still missing.
 You can also apply to become a maintainer by submitting an issue.
-
 
 ## Reporting issues
 
