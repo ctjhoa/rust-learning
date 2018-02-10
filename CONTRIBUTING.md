@@ -25,7 +25,7 @@ If you removed our PR template you can find it [here](https://github.com/ctjhoa/
 To make sure every PR is checked, we have [team maintainers](MAINTAINERS). Every PR should be reviewed by at least two maintainers before it can get merged if the team is not outnumbered.
 
 The maintainers will review your PR and notify you and tag it in case any information is still missing.
-You can also apply to become a maintainer by submitting an issue.
+You can also apply to become a maintainer by submitting a PR.
 
 ## Reporting issues
 
