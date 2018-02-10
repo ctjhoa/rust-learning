@@ -29,6 +29,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [FFI](#ffi)
 * [CI / Testing](#ci--testing)
 * [Debug / Profiling](#debug--profiling)
+* [Are we ... yet?](are-we--yet)
 * [Comparison with Other Languages](#comparison-with-other-languages)
 * [Applications / Libraries / Tools](#applications--libraries--tools)
 * [Language stuff](#language-stuff)
@@ -192,6 +193,14 @@ See [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://r
 * [Debugging a segfault in my Rust program](https://jvns.ca/blog/2017/12/23/segfault-debugging/) - Julia Evans
 * [Compiler Explorer - See Rust code as assembly](https://rust.godbolt.org/)
 * [Profiling Rust applications on Linux](http://llogiq.github.io/2015/07/15/profiling.html) - [Llogiq][]
+
+## Are we ... yet?
+
+* [Are we web yet?](http://www.arewewebyet.org/)
+* [Are we (I)DE yet?](https://areweideyet.com/)
+* [Are we game yet?](http://arewegameyet.com/)
+* [Are we learning yet?](http://www.arewelearningyet.com/)
+* [Not-Yet-Awesome Rust](https://github.com/ErichDonGubler/not-yet-awesome-rust)
 
 ## Comparison with Other Languages
 
