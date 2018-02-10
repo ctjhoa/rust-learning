@@ -29,7 +29,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [FFI](#ffi)
 * [CI / Testing](#ci--testing)
 * [Debug / Profiling](#debug--profiling)
-* [Are we ... yet?](are-we--yet)
+* [Are we ... yet?](#are-we--yet)
 * [Comparison with Other Languages](#comparison-with-other-languages)
 * [Applications / Libraries / Tools](#applications--libraries--tools)
 * [Language stuff](#language-stuff)
