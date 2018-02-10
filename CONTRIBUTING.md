@@ -14,6 +14,7 @@ To set this list apart from and complement the excellent [Rust docs](https://www
 - Each item should be limited to one link.
 - The link should have an author if known
 - At least 3 items are needed to create a new category.
+- Linters checks should be successful
 
 Please contribute links to resources you have used or are familiar with. This will help ensure high-quality entries.
 
