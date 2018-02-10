@@ -372,6 +372,7 @@ There is also [The Rust Community Blog](http://blog.community.rs/)
 
 ### Famous Rustacean Bloggers
 
+* [Aaron Turon][] - [blog](http://aturon.github.io/)
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
 * [Andrew Hobden][] - [blog](https://hoverbear.org/tags/#rust)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
