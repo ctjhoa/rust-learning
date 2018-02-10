@@ -461,5 +461,6 @@ A few universities have had classes about Rust. Here are links to their public r
 [Dumindu Madunuwan]: https://github.com/dumindu
 
 ## Similar projects
+
 * [Curated Resources to Learn Rust](https://hackr.io/tutorials/learn-rust) - Hackr.io
 
