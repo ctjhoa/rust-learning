@@ -368,9 +368,7 @@ You are looking for a job? [Rust Jobs](http://rustjobs.rs/)
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
 
-You want to stay up to date? [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/), [Rust Herald](https://herald.community.rs/)
-
-There is also [The Rust Community Blog](http://blog.community.rs/)
+You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/), [Rust Herald](https://herald.community.rs/)
 
 ### Famous Rustacean Bloggers
 
@@ -464,4 +462,6 @@ A few universities have had classes about Rust. Here are links to their public r
 ## Similar projects
 
 * [Curated Resources to Learn Rust](https://hackr.io/tutorials/learn-rust) - Hackr.io
+* [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md) - [Brian Anderson][]
+* [The Rust Community Blog](http://blog.community.rs/)
 
