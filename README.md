@@ -160,6 +160,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 * :star: [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://rust-lang.github.io/rfcs/)
 * :star: [Rust Forge](https://forge.rust-lang.org/)
+* :star: [Internals Forum](https://internals.rust-lang.org/)
 
 ## Compilation
 
@@ -360,6 +361,8 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
 
 You search for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
+
+You want to ask a something? [Users Forum](https://users.rust-lang.org/)
 
 You want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/)
 
