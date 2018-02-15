@@ -24,7 +24,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust in practice](#rust-in-practice)
 * [Best Practices/Style Guides](#best-practicesstyle-guides)
 * [Cheat sheets](#cheat-sheets)
-* [RFCs](#rfcs)
+* [Rust internals](#rust-internals)
 * [Compilation](#compilation)
 * [FFI](#ffi)
 * [CI / Testing](#ci--testing)
@@ -156,9 +156,10 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing) - Raph Levien
 * [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/img/rust-move-copy-borrow.png) - Phil Ruffwind
 
-## RFCs
+## Rust internals
 
-See [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://rust-lang.github.io/rfcs/)
+* :star: [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://rust-lang.github.io/rfcs/)
+* :star: [Rust Forge](https://forge.rust-lang.org/)
 
 ## Compilation
 
