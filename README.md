@@ -254,6 +254,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 * [for loops in Rust](http://xion.io/post/code/rust-for-loop.html) - Karol Kuczmarski
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) - Karol Kuczmarski
 * [Little tour of multiple iterators implementation in Rust](https://blog.guillaume-gomez.fr/articles/2017-03-09+Little+tour+of+multiple+iterators+implementation+in+Rust) - Guillaume Gomez
+* [rust-iterators](https://github.com/rustomax/rust-iterators/) - Max Skybin
 
 ### Lifetime
 
