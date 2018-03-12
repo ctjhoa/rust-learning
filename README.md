@@ -57,19 +57,21 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Books
 
-* :star: [The Rust Programming Language 1st edition](http://doc.rust-lang.org/stable/book/) - [repo](https://github.com/rust-lang/book/tree/master/first-edition)
-* :soon: :star: [The Rust Programming Language 2nd edition](http://rust-lang.github.io/book/second-edition/index.html) - [repo](https://github.com/rust-lang/book/tree/master/second-edition) ([Paper edition](https://www.nostarch.com/Rust))
+* :star: [The Rust Programming Language 1st edition](https://doc.rust-lang.org/stable/book/first-edition/) - [repo](https://github.com/rust-lang/book/tree/master/first-edition)
+* :soon: :star: [The Rust Programming Language 2nd edition](https://doc.rust-lang.org/stable/book/second-edition/) - [repo](https://github.com/rust-lang/book/tree/master/second-edition) ([Paper edition](https://www.nostarch.com/Rust))
 * :star: [The Rust Reference](https://doc.rust-lang.org/stable/reference/) - [repo](https://github.com/rust-lang-nursery/reference)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/) - [repo](https://github.com/rust-lang-nursery/nomicon)
 * :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
 * :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
-* [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials) - Ivo Balbaert
+* [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials-second-edition) -  Ivo Balbaert
 * :soon: [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][]
 * [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust) - Vesa Kaihlavirta
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
 * :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - TS McNamara
-* :soon: [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
+* [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
+* [Learning Rust](https://www.packtpub.com/application-development/learning-rust) -  Paul Johnson, Vesa Kaihlavirta
+* [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) -  Vigneshwer Dhinakaran
 * [Learning Rust](https://learning-rust.github.io/) - [Dumindu Madunuwan][]
 * [A Gentle Introduction To Rust](http://stevedonovan.github.io/rust-gentle-intro/readme.html) - [Steve Donovan][]
 * [Step Ahead with Rust](https://www.amazon.com/Step-Ahead-Rust-Jonathan-Creekmore/dp/0999361805/) - Jonathan Creekmore
