@@ -136,6 +136,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Writing a Command Line Tool in Rust](http://mattgathu.github.io/writing-cli-app-rust/) - Matt Gathu
 * [Rust - exercism.io](http://exercism.io/languages/rust/about)
 * [Intro to Rust using Permission-based Authorization](http://daringordon.com/authz_rs_tutorial/) - Darin Gordon
+* [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) - Emil Hernvall
 
 ## Best Practices/Style Guides
 
