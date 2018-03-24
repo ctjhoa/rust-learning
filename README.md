@@ -474,4 +474,4 @@ A few universities have had classes about Rust. Here are links to their public r
 * [Curated Resources to Learn Rust](https://hackr.io/tutorials/learn-rust) - Hackr.io
 * [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md) - [Brian Anderson][]
 * [The Rust Community Blog](http://blog.community.rs/)
-
+* [Read Rust](https://readrust.net/)
