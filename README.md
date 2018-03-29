@@ -380,6 +380,8 @@ Are you fast, friendly, and fearless? [Find something Rusty to work on!](https:/
 
 You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/), [Rust Herald](https://herald.community.rs/)
 
+You want to find out why some historical decisions? [Chronicle.rs](https://chronicle.rs/)
+
 ### Famous Rustacean Bloggers
 
 * [Aaron Turon][] - [blog](http://aturon.github.io/)
