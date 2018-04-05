@@ -160,6 +160,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries) - kmc
 * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing) - Raph Levien
 * [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/img/rust-move-copy-borrow.png) - Phil Ruffwind
+* [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/) - Charles
 
 ## Rust internals
 
