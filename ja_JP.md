@@ -6,5 +6,5 @@
 * 公式ドキュメント [The Rust Programming Language](https://doc.rust-lang.org/book/) の和訳
 * Japanese translation of the official book: The Rust Programming Language
 * [**Rust by Example**](http://rust-lang-ja.org/rust-by-example/)
-* [Rust by Example](http://rustbyexample.com/) の和訳
+* [Rust by Example](https://rustbyexample.com/) の和訳
 * Japanese translation of Rust by Example
