@@ -386,7 +386,7 @@ You want to find out why some historical decisions? [Chronicle.rs](https://chron
 
 ### Fearless Rust Bloggers
 
-A complete list could be found at [here](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
+A complete list could be found [here](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
 
 * [Aaron Turon][] - [blog](http://aturon.github.io/)
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
