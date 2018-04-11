@@ -51,7 +51,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Playground](#playground)
 * [Locale links](#locale-links)
 * [People](#people)
-  * [Famous Rustacean Bloggers](#famous-rustacean-bloggers)
+  * [Fearless Rust Bloggers](#fearless-rust-bloggers)
 * [Tutorials & Workshop Materials](#tutorials--workshop-materials)
 * [Similar projects](#similar-projects)
 
@@ -384,7 +384,9 @@ You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [
 
 You want to find out why some historical decisions? [Chronicle.rs](https://chronicle.rs/)
 
-### Famous Rustacean Bloggers
+### Fearless Rust Bloggers
+
+A complete list could be found at [here](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
 
 * [Aaron Turon][] - [blog](http://aturon.github.io/)
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
