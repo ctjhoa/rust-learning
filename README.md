@@ -62,6 +62,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [The Rust Reference](https://doc.rust-lang.org/stable/reference/) - [repo](https://github.com/rust-lang-nursery/reference)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/) - [repo](https://github.com/rust-lang-nursery/nomicon)
 * :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
+* :star: [The Rust Edition Guide](https://rust-lang-nursery.github.io/edition-guide/introduction.html) - [repo](https://github.com/rust-lang-nursery/edition-guide)
 * :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials-second-edition) -  Ivo Balbaert
