@@ -94,6 +94,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Tensor Programming Tutorials](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Hello Rust!](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw) - Matthias Endler
 * [YouCodeThings](https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/) - Andrew Jakubowicz
+* [Ferris Makes Emulators](https://www.youtube.com/watch?v=Fsi9HPcyrU8&list=PL-sXmdrqqYYcL2Pvx9j7dwmdLqY7Mx8VY) - ake "ferris" taylor
 
 ### Presentations
 
