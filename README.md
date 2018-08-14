@@ -88,7 +88,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [ABitWiseGuy Tutorials](https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9) - ABitWiseGuy
 * [air.mozilla Rust's meetups](https://air.mozilla.org/channels/rust/)
 * [dcode Tutorials](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL) - dcode
-* [Ferris Makes Emulators](https://www.youtube.com/watch?v=Fsi9HPcyrU8&list=PL-sXmdrqqYYcL2Pvx9j7dwmdLqY7Mx8VY) - ake "ferris" taylor
+* [Ferris Makes Emulators](https://www.youtube.com/watch?v=Fsi9HPcyrU8&list=PL-sXmdrqqYYcL2Pvx9j7dwmdLqY7Mx8VY) - Jake "ferris" Taylor
 * [Hello Rust!](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw) - Matthias Endler
 * [J M Archer Tutorials](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
 * :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
