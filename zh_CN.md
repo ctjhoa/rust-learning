@@ -8,5 +8,4 @@
 * [Chinese Rust Community](https://rust-china.org/)
 * [The book in Traditional Chinese](http://askeing.github.io/rust-book/)
 * [Translation of The Little Book of Rust Macros](https://github.com/DaseinPhaos/tlborm-chinese)
-* [Ruster community](http://forum.ruster.xyz/)
-* [Ruster](https://ruster.xyz/)
+* [Ruster](http://ruster.xyz/)
