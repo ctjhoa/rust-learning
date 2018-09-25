@@ -182,6 +182,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Using Rust in Windows](http://www.jonathanturner.org/2017/03/rust-in-windows.html) - [Jonathan Turner][]
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) - [Jorge Aparicio][]
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) - Adrian Kappel
+* [rust-on-mobile](https://github.com/mtak-/rust-on-mobile) - mtak-
 
 ## FFI
 
