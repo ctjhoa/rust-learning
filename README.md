@@ -58,7 +58,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 ## Books
 
 * :star: [The Rust Programming Language 1st edition](https://doc.rust-lang.org/stable/book/first-edition/) - [repo](https://github.com/rust-lang/book/tree/master/first-edition)
-* :soon: :star: [The Rust Programming Language 2nd edition](https://doc.rust-lang.org/stable/book/second-edition/) - [repo](https://github.com/rust-lang/book/tree/master/second-edition) ([Paper edition](https://www.nostarch.com/Rust))
+* :star: [The Rust Programming Language 2nd edition](https://doc.rust-lang.org/stable/book/second-edition/) - [repo](https://github.com/rust-lang/book/tree/master/second-edition) ([Paper edition](https://www.nostarch.com/Rust))
 * :star: [The Rust Reference](https://doc.rust-lang.org/stable/reference/) - [repo](https://github.com/rust-lang-nursery/reference)
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/) - [repo](https://github.com/rust-lang-nursery/nomicon)
 * :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
