@@ -71,9 +71,9 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
 * :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - TS McNamara
 * [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
-* [Learning Rust](https://www.packtpub.com/application-development/learning-rust) -  Paul Johnson, Vesa Kaihlavirta
+* [Learning Rust] (book) (https://www.packtpub.com/application-development/learning-rust) -  Paul Johnson, Vesa Kaihlavirta
 * [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) -  Vigneshwer Dhinakaran
-* [Learning Rust](https://learning-rust.github.io/) - [Dumindu Madunuwan][]
+* [Learning Rust](website) (https://learning-rust.github.io/) - [Dumindu Madunuwan][]
 * [A Gentle Introduction To Rust](http://stevedonovan.github.io/rust-gentle-intro/readme.html) - [Steve Donovan][]
 * [Step Ahead with Rust](https://www.amazon.com/Step-Ahead-Rust-Jonathan-Creekmore/dp/0999361805/) - Jonathan Creekmore
 * :star: [Rust Programming By Example](https://www.amazon.com/Rust-Programming-Example-Guillaume-Gomez/dp/1788390636) - Guillaume Gomez and Antoni Boucher
