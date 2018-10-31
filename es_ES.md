@@ -2,7 +2,7 @@
 
 ## Spanish
 
-* [Translation of the official The Rust Programming Language book](https://goyox86.github.io/elpr)
+* [Traducción del libro oficial The Rust Programming Language](https://goyox86.github.io/elpr)
 * [Aprendiendo Rust por primera vez](https://www.mozilla-hispano.org/aprendiendo-rust-por-primera-vez/)
 * [Rust 101, tutorial de Rust en español](https://blog.adrianistan.eu/rust-101-tutorial-rust-espanol/)
 * [Usando Iron, un web framework para Rust](https://blog.adrianistan.eu/2016/11/20/usando-iron-web-framework-rust/)
