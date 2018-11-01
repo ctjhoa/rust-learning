@@ -112,8 +112,10 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Podcasts
 
+* [Moves and Borrowing In Rust With Jim Blandy](https://corecursive.com/016-moves-and-borrowing-in-rust-with-jim-blandy/) - Adam Bell
 * [New Rustacean](http://www.newrustacean.com) - [Chris Krycho][]
 * [The Request for Explanation Podcast: A weekly discussion of Rust RFCs](https://request-for-explanation.github.io/podcast/) - [Manish Goregaokar][]
+* [Rust And Bitter C++ Developers With Jim Blandy](https://corecursive.com/013-rust-and-bitter-c-developers-with-jim-blandy/) - Adam Bell
 * [Rusty Spike Podcast – A podcast for Rust and Servo](https://rusty-spike.blubrry.net/) - [Jonathan Turner][]
 
 ## Rust in practice
