@@ -331,6 +331,8 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 * [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
 * [How do I convert a &str to a String in Rust?](https://mgattozzi.com/how-do-i-str-string) - [Michael Gattozzi][]
 * [Rust: str vs String](http://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html) - Ameya Lokare
+- [On dealing with owning and borrowing in public interfaces](https://phaazon.net/blog/on-owning-borrowing-pub-interface) - 
+Dimitri Sabadie
 
 ### Syntax extensions
 
