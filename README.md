@@ -188,6 +188,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) - [Jorge Aparicio][]
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) - Adrian Kappel
 * [rust-on-mobile](https://github.com/mtak-/rust-on-mobile) - mtak-
+* [Compile Time Feature Flags in Rust](https://www.worthe-it.co.za/programming/2018/11/18/compile-time-feature-flags-in-rust.html) - Justin Worthe
 
 ## FFI
 
