@@ -170,6 +170,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/img/rust-move-copy-borrow.png) - Phil Ruffwind
 * [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/) - Charles
 * [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
+* [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
 
 ## Rust internals
 
