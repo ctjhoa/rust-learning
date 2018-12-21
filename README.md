@@ -120,7 +120,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ## Rust in practice
 
-* :star: [rustbyexample](https://doc.rust-lang.org/stable/rust-by-example/) - [Jorge Aparicio][] and [Steve Klabnik][]
+* :star: [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/) - [Jorge Aparicio][] and [Steve Klabnik][] - [repo](https://github.com/rust-lang/rust-by-example)
 * [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * :star: [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
