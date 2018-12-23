@@ -391,7 +391,7 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 You search for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to ask a something? [Users Forum](https://users.rust-lang.org/)
+You want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
 
 You want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/)
 
