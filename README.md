@@ -352,6 +352,7 @@ Dimitri Sabadie
 * [Where are you From::from](http://llogiq.github.io/2015/11/27/from-into.html) - [Llogiq][]
 * :star: [Going down the rabbit hole with Rust traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html) - [Jonathan Turner][]
 * [Gentle Intro to Type-level Recursion in Rust](https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting/) - [Lloyd Chan][]
+* [Traits and Trait Objects in Rust](https://joshleeb.com/posts/rust-traits-and-trait-objects/) - Josh Leeb-du Toit
 
 ### Unsafe
 
