@@ -225,6 +225,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Are we (I)DE yet?](https://areweideyet.com/)
 * [Are we game yet?](http://arewegameyet.com/)
 * [Are we learning yet?](http://www.arewelearningyet.com/)
+* [Are we async yet?](https://areweasyncyet.rs/)
 * [Not-Yet-Awesome Rust](https://github.com/ErichDonGubler/not-yet-awesome-rust)
 
 ## Comparison with Other Languages
