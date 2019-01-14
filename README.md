@@ -228,6 +228,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Are we learning yet?](http://www.arewelearningyet.com/)
 * [Are we async yet?](https://areweasyncyet.rs/)
 * [Not-Yet-Awesome Rust](https://github.com/ErichDonGubler/not-yet-awesome-rust)
+* [Are we GUI yet?](http://areweguiyet.com/)
 
 ## Comparison with Other Languages
 
