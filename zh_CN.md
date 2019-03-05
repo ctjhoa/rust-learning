@@ -2,6 +2,7 @@
 
 ## Chinese
 
+* [The Tao of Rust](https://github.com/ZhangHanDong/tao-of-rust-codes/blob/master/tao_of_rust_english.md)
 * [Translation of the official The Rust Programming Language book](https://github.com/KaiserY/rust-book-chinese)
 * [Translation of the Rust By Example](https://github.com/rust-lang-cn/rust-by-example-cn)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
