@@ -75,8 +75,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) -  Vigneshwer Dhinakaran
 * [Learning Rust](https://learning-rust.github.io/) - [Dumindu Madunuwan][]
 * [A Gentle Introduction To Rust](http://stevedonovan.github.io/rust-gentle-intro/readme.html) - [Steve Donovan][]
-* [Step Ahead with Rust](https://www.amazon.com/Step-Ahead-Rust-Jonathan-Creekmore/dp/0999361805/) - Jonathan Creekmore
-* :star: [Rust Programming By Example](https://www.amazon.com/Rust-Programming-Example-Guillaume-Gomez/dp/1788390636) - Guillaume Gomez and Antoni Boucher
+* [Step Ahead with Rust](https://www.amazon.com/dp/0999361805/) - Jonathan Creekmore
+* :star: [Rust Programming By Example](https://www.amazon.com/dp/1788390636) - Guillaume Gomez and Antoni Boucher
 * [Beginning Rust - From Novice to Professional](https://www.apress.com/us/book/9781484234679) - Carlo Milanesi
 * [Hands-On Concurrency with Rust](https://www.amazon.com/dp/1788399978) - Brian Troutwine
 * [Hands-On Functional Programming in Rust](https://www.amazon.com/dp/1788839358) - Andrew Johnson
