@@ -3,7 +3,7 @@ before_install:
 - npm install -g markdown-link-check
 script:
 - mdl -c ./.mdlrc *.md
-- markdown-link-check README.md
+- markdown-link-check -c .markdown-link-check-config.json README.md
 - markdown-link-check da_DK.md
 - markdown-link-check de_DE.md
 - markdown-link-check es_ES.md
