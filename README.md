@@ -268,7 +268,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 ### Documentation
 
 * :star: [Writing Documentation in Rust](https://facility9.com/2016/05/writing-documentation-in-rust/) - [Jeremiah Peschka][]
-* [Keeping Rust projects' README.md code examples up-to-date](https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date) - [Guiillaume Gomez][]
+* [Keeping Rust projects' README.md code examples up-to-date](https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date) - Guillaume Gomez
 
 ### Enums
 
