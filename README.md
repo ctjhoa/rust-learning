@@ -173,6 +173,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
 * [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
 * [Rust cheat sheet (beginner oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
+* [A type-based Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/) - Xidorn Quan
 
 ## Rust internals
 
