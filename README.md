@@ -459,7 +459,6 @@ of interest if you're running a workshop on Rust.
 A few universities have had classes about Rust. Here are links to their public resources.
 
 * University of Pennsylvania [CIS 198: Rust Programming](http://cis198-2016s.github.io/), Spring 2016, Rust 1.6. Slides linked from Schedule page.
-* Northwestern University [EECS 3/495: Concurrent Programming in Rust](http://users.eecs.northwestern.edu/~jesse/course/eecs395rust-wi16/), Winter 2016, Rust 1.6. Slides linked from Schedule page.
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
