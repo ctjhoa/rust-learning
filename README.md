@@ -458,7 +458,7 @@ of interest if you're running a workshop on Rust.
 
 A few universities have had classes about Rust. Here are links to their public resources.
 
-* University of Pennsylvania [CIS 198: Rust Programming](http://cis198-2016s.github.io/), Spring 2016, Rust 1.6. Slides linked from Schedule page.
+* University of Pennsylvania [CIS 198: Rust Programming](http://cis198-2016s.github.io/), Spring 2016, Rust 1.6. Slides linked from Schedule page. [Github](https://github.com/upenn-cis198)
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
