@@ -257,7 +257,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 | Nodejs          | <ul><li>[Rust for Node developers](https://github.com/Mercateo/rust-for-node-developers) - Donald Pipowitch</li></ul>
 | OCaml / Haskell | <ul><li>[Rust for functional programmers](http://science.raphael.poss.name/rust-for-functional-programmers.html)</li></ul> |
 | Python          | <ul><li>[Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/) - Armin Ronacher</li><li>[py2rs](https://github.com/rochacbruno/py2rs) - Bruno Rocha</li></ul> |
-| Ruby            | <ul><li>[Rust for Rubyists](http://www.rustforrubyists.com/) - [Steve Klabnik][]</li></ul> |
+| Ruby            | <ul><li>[Rust for Rubyists](https://github.com/steveklabnik/rust_for_rubyists) - [Steve Klabnik][]</li></ul> |
 | Swift           | <ul><li>[A Swift guide to Rust](http://faq.sealedabstract.com/rust/) - sealedabstract</li><li>[Rust and Swift](http://www.chriskrycho.com/rust-and-swift.html) - [Chris Krycho][]</li></ul> |
 | Erlang           | <ul><li>[A Comparison between erlang and rust starting from language semantics to runtime features, performance etc..](https://www.infoq.com/articles/rust-erlang-comparison) - Krishna Kumar Thokala</li></ul> |
 
