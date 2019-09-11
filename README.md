@@ -81,6 +81,14 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Beginning Rust - From Novice to Professional](https://www.apress.com/us/book/9781484234679) - Carlo Milanesi
 * [Hands-On Concurrency with Rust](https://www.amazon.com/dp/1788399978) - Brian Troutwine
 * [Hands-On Functional Programming in Rust](https://www.amazon.com/dp/1788839358) - Andrew Johnson
+* [Rust Standard Library Cookbook](https://www.amazon.com/Rust-Standard-Library-Cookbook-leverage/dp/1788623924) - Daniel Durante, Jan Nils Ferner
+* [Rust Quick Start Guide](https://www.amazon.com/Rust-Quick-Start-Guide-programming/dp/1789616700) - Daniel Arbuckle
+* [Mastering Rust 2nd Edition](https://www.amazon.com/Mastering-Rust-memory-concurrency-features/dp/1789346576) - Vesa Kaihlavirta, Rahul Sharma
+* [Rust High Performance](https://www.amazon.com/Rust-High-Performance-performance-applications/dp/178839948X) - Iban Eguia Moraza
+* [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - Kevin Hoffman
+* [Hands-On Microservices with Rust 2018: How To Build Scalable and Reliable RESTful Microservices](https://www.amazon.co.uk/Hands-Microservices-Rust-2018-Scalable/dp/1789342759/ref=sr_1_6?s=books&ie=UTF8&qid=1545340800&sr=1-6&keywords=rust) - Denis Kolodin
+* [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust) - Claus Matzinger
+* [The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust](https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109) - - Vesa Kaihlavirta, Rahul Sharma, Claus Matzinger
 
 ## Videos
 
