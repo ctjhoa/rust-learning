@@ -90,8 +90,10 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Hands-On Microservices with Rust 2018: How To Build Scalable and Reliable RESTful Microservices](https://www.amazon.co.uk/Hands-Microservices-Rust-2018-Scalable/dp/1789342759/ref=sr_1_6?s=books&ie=UTF8&qid=1545340800&sr=1-6&keywords=rust) - Denis Kolodin
 * [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust) - Claus Matzinger
 * [The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust](https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109) - - Vesa Kaihlavirta, Rahul Sharma, Claus Matzinger
-
+* :star: [Rust Programming Cookbook](https://www.packtpub.com/programming/rust-programming-cookbook?utm_source=rust-lang.org&utm_medium=referral&utm_campaign=OutreachB11749) - Claus Matzinger.
 ## Videos
+* :star: [Rust Programming Recipes [Video]](https://www.packtpub.com/programming/rust-programming-recipes-video?utm_source=%20rust-lang.org%20&utm_medium=referral&utm_campaign=OutreachV14217) - Matt Stoodley.
+
 
 ### Playlists
 
