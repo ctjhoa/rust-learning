@@ -172,6 +172,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
 * :star: [Rust API guidelines](https://github.com/brson/rust-api-guidelines) - [Brian Anderson][]
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
+* [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
 
 ## Cheat sheets
 
