@@ -33,6 +33,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Comparison with Other Languages](#comparison-with-other-languages)
 * [Applications / Libraries / Tools](#applications--libraries--tools)
 * [Language stuff](#language-stuff)
+  * [Async](#async)
   * [Closures](#closures)
   * [Documentation](#documentation)
   * [Enums](#enums)
@@ -271,6 +272,10 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 /rust](https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md)
 
 ## Language stuff
+
+### Async
+
+* [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) - Carl Fredrik Samson
 
 ### Closures
 
