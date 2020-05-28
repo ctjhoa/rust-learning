@@ -161,6 +161,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) - Emil Hernvall
 * [Rust Crash Course](https://www.snoyman.com/feed/rust-crash-course) - Michael Snoyman
 * [Web browser from scratch in Rust](https://joshondesign.com/tags/browser) - Josh Marinacci
+* [Tour of Rust](https://tourofrust.com/) - Richard Anaya
 
 ## Best Practices/Style Guides
 
