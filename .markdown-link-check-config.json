@@ -2,6 +2,9 @@
     "ignorePatterns": [
         {
             "pattern": "^https://www.amazon.com"
+        },
+        {
+            "pattern": "^https://readrust.net"
         }
     ]
 }
