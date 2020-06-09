@@ -162,6 +162,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Crash Course](https://www.snoyman.com/feed/rust-crash-course) - Michael Snoyman
 * [Web browser from scratch in Rust](https://joshondesign.com/tags/browser) - Josh Marinacci
 * [Tour of Rust](https://tourofrust.com/) - Richard Anaya
+* [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - picklenerd
+* [Create Your Own Programming Language with Rust](https://createlang.rs/) - Ehsan M. Kermani
 
 ## Best Practices/Style Guides
 
