@@ -155,9 +155,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
 * [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
 * :star: [stdx - The missing batteries of Rust](https://github.com/brson/stdx) - [Brian Anderson][]
-* [Writing a Command Line Tool in Rust](http://mattgathu.github.io/writing-cli-app-rust/) - Matt Gathu
 * [Rust - exercism.io](http://exercism.io/languages/rust/about)
-* [Intro to Rust using Permission-based Authorization](http://daringordon.com/authz_rs_tutorial/) - Darin Gordon
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) - Emil Hernvall
 * [Rust Crash Course](https://www.snoyman.com/feed/rust-crash-course) - Michael Snoyman
 * [Web browser from scratch in Rust](https://joshondesign.com/tags/browser) - Josh Marinacci
@@ -206,7 +204,6 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon
 * :star: [Taking Rust everywhere with rustup](http://blog.rust-lang.org/2016/05/13/rustup.html) - [Brian Anderson][]
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - Kang Seonghoon
-* [Using Rust in Windows](http://www.jonathanturner.org/2017/03/rust-in-windows.html) - [Jonathan Turner][]
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) - [Jorge Aparicio][]
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) - Adrian Kappel
 * [rust-on-mobile](https://github.com/mtak-/rust-on-mobile) - mtak-
@@ -257,7 +254,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 | Languages       | Links                                    |
 | --------------- | ---------------------------------------- |
 | C#              | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
-| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details) - [Nick Cameron][]</li><li>[On rust's memory management. Mainly for C/C++ programmers](http://blog.zgtm.de/1) - Robert</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li><li>[Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) - matiaslindgren</li><li>[Zero cost abstractions: Rust vs C++](https://www.rottedfrog.co.uk/?p=24) - rottedfrog</li></ul> |
+| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details) - [Nick Cameron][]</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li><li>[Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) - matiaslindgren</li><li>[Zero cost abstractions: Rust vs C++](https://www.rottedfrog.co.uk/?p=24) - rottedfrog</li></ul> |
 | Clojure         | <ul><li>[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) - Zach Oakes</li></ul> |
 | Go | <ul><li>[Rust vs. Go](http://julio.meroh.net/2018/07/rust-vs-go.html) - Julio Merino</li></ul>
 | Java/Scala            | <ul><li>[Comparing Rust and Java](https://llogiq.github.io/2016/02/28/java-rust.html) - [Llogiq][]</li><li>[A light comparison between Rust and Java generics and type system features.](https://gist.github.com/Kimundi/8391398) - Marvin Löbel</li><li>[Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/) - Lloyd </li><li>[Rust for professionals](https://overexact.com/rust-for-professionals/) - Pascal</li></ul> |
@@ -390,7 +387,6 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 * [Traits and trait objects](http://xania.org/201506/traits-and-trait-objects) - Matt Godbolt
 * [Rust's Built-in Traits, the When, How & Why](https://llogiq.github.io/2015/07/30/traits.html) - [Llogiq][]
 * [Where are you From::from](http://llogiq.github.io/2015/11/27/from-into.html) - [Llogiq][]
-* :star: [Going down the rabbit hole with Rust traits](http://www.jonathanturner.org/2016/02/down-the-rabbit-hole-with-traits.html) - [Jonathan Turner][]
 * [Gentle Intro to Type-level Recursion in Rust](https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting/) - [Lloyd Chan][]
 * [Traits and Trait Objects in Rust](https://joshleeb.com/posts/rust-traits-and-trait-objects/) - Josh Leeb-du Toit
 * [A Quick Look at Trait Objects in Rust](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html) - Laurence Tratt
@@ -440,7 +436,7 @@ You are looking for a job? [RustJobs.rs](https://rustjobs.rs/), [RustJobs.io](ht
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
 
-You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/), [Rust Herald](https://herald.community.rs/)
+You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
 You want to find out why some historical decisions? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
 
@@ -453,7 +449,7 @@ A complete list could be found [here](https://users.rust-lang.org/t/fearless-rus
 * [Andrew Hobden][] - [blog](https://hoverbear.org/tags/#rust)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
 * [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
-* [Chris Morgan][] - [blog](http://chrismorgan.info/blog/tags/rust.html)
+* [Chris Morgan][] - [blog](https://chrismorgan.info/blog/tags/rust/)
 * [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
 * [Jonathan Turner][] - [blog](http://www.jonathanturner.org/)
@@ -538,5 +534,4 @@ A few universities have had classes about Rust. Here are links to their public r
 
 * [Curated Resources to Learn Rust](https://hackr.io/tutorials/learn-rust) - Hackr.io
 * [Rust Anthology Master List](https://github.com/brson/rust-anthology/blob/master/master-list.md) - [Brian Anderson][]
-* [The Rust Community Blog](http://blog.community.rs/)
 * [Read Rust](https://readrust.net/)
