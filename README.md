@@ -162,6 +162,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Tour of Rust](https://tourofrust.com/) - Richard Anaya
 * [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - picklenerd
 * [Create Your Own Programming Language with Rust](https://createlang.rs/) - Ehsan M. Kermani
+* :star: [Command Line Applications in Rust](https://rust-cli.github.io/book/) - Rust CLI working
 
 ## Best Practices/Style Guides
 
