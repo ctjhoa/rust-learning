@@ -109,6 +109,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust](https://www.youtube.com/watch?v=bR4nGWmfzTk&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X) - Crazcalm's Tech Stack
 * [Rust Advent of Code 2019](https://www.youtube.com/playlist?list=PLQXBtq4j4Ozkx3r4eoMstdkkOG98qpBfg) - Brian Myers
 * [The Rust Programming Language | Tutorials](https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC) - danlogs
+* [Rust Programming Language Courses at Classpert](https://classpert.com/rust-programming) - List of Rust Courses (free and paid) from Classpert Online Course Search
 
 ### Presentations
 
