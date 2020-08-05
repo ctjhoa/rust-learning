@@ -340,6 +340,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 
 * [Rust Module Essentials ](https://dev.to/hertz4/rust-module-essentials-12oi) - Sam Pagenkopf
 * [How I Organize Large Rust Programs](https://rodarmor.com/blog/tour-de-just/) - Casey Rodarmor
+* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/) - Sheshbabu Chinnakonda
 
 ### Option & Result
 
