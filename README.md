@@ -317,6 +317,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 * [Rust Lifetimes](https://www.charlesetc.com/rust-lifetimes/) - Charles
 * [The Power of Lifetimes](http://pling.jondgoodwin.com/post/lifetimes/) - Jonathan Goodwin
 * [Understanding Lifetimes](https://rniczh.github.io/blog/lifetimes-intro/) - Hong-Sheng ‘Rnic‘ Zheng
+* [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa) - Maksym Zavershynskyi
 
 ### Macros
 
