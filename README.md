@@ -167,6 +167,8 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Create Your Own Programming Language with Rust](https://createlang.rs/) - Ehsan M. Kermani
 * :star: [Command Line Applications in Rust](https://rust-cli.github.io/book/) - Rust CLI working
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) - Carlos Galdino
+* [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) - Philipp Flenker
+* [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
 
 ## Best Practices/Style Guides
 
@@ -323,6 +325,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 * [The Power of Lifetimes](http://pling.jondgoodwin.com/post/lifetimes/) - Jonathan Goodwin
 * [Understanding Lifetimes](https://rniczh.github.io/blog/lifetimes-intro/) - Hong-Sheng ‘Rnic‘ Zheng
 * [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa) - Maksym Zavershynskyi
+* [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - kirill
 
 ### Macros
 
