@@ -111,6 +111,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Advent of Code 2019](https://www.youtube.com/playlist?list=PLQXBtq4j4Ozkx3r4eoMstdkkOG98qpBfg) - Brian Myers
 * [The Rust Programming Language | Tutorials](https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC) - danlogs
 * [Ryan Levick's Rust Stream](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ/videos) - Ryan Levick
+* [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Jon Gjengset
 
 ### Presentations
 
