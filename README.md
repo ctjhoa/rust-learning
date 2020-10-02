@@ -4,9 +4,9 @@ A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel fr
 
 ## Introduction
 
-*Do you need to be convinced that Rust worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
+*Do you need to be convinced that Rust is worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
 
-The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [there](https://github.com/lise-henry/books/).
+The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
 
 ### Tags meanings
 
@@ -196,7 +196,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/) - Charles
 * [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
 * [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
-* [Rust cheat sheet (beginner oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
+* [Rust cheat sheet (beginner-oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
 * [A type-based Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/) - Xidorn Quan
 
 ## Rust internals
@@ -437,21 +437,21 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
 
-You search for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
+Are you searching for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
+Do you want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
 
-You want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/), [Time till Rust](https://timetill.rs/#/)
+Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/), [Time till Rust](https://timetill.rs/#/)
 
 Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018/01/31/The-2018-Rust-Event-Lineup.html), [The 2019 Rust Event Lineup](https://blog.rust-lang.org/2019/05/20/The-2019-Rust-Event-Lineup.html)
 
-You are looking for a job? [RustJobs.rs](https://rustjobs.rs/), [RustJobs.io](https://rustjobs.io/)
+Are you looking for a job? [RustJobs.rs](https://rustjobs.rs/), [RustJobs.io](https://rustjobs.io/)
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
 
-You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
+Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
-You want to find out why some historical decisions? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
+Do you want to find out why some historical decisions? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
 
 ### Fearless Rust Bloggers
 
@@ -492,7 +492,7 @@ of interest if you're running a workshop on Rust.
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
 * Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
-* Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using a the Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
+* Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using a Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
 
 A few universities have had classes about Rust. Here are links to their public resources.
 
