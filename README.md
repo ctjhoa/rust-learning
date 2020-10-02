@@ -184,7 +184,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
 
-## Cheat sheets
+## Cheatsheets
 
 * :star: [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
 * [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
@@ -196,7 +196,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/) - Charles
 * [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
 * [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
-* [Rust cheat sheet (beginner oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
+* [Rust cheat sheet (beginner-oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
 * [A type-based Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/) - Xidorn Quan
 
 ## Rust internals
@@ -437,9 +437,9 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 
 This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo Team](https://github.com/orgs/servo/people)
 
-You search for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
+Your search for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-You want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
+Do you want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
 
 You want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/), [Time till Rust](https://timetill.rs/#/)
 
@@ -449,7 +449,7 @@ You are looking for a job? [RustJobs.rs](https://rustjobs.rs/), [RustJobs.io](ht
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
 
-You want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
+Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
 You want to find out why some historical decisions? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
 
@@ -491,12 +491,12 @@ of interest if you're running a workshop on Rust.
 * Dan Callahan's [Python Rust FFI](https://github.com/callahad/python-rust-ffi) examples
 * Nick Cameron's [oopsla slides and exercises](http://ncameron.org/oopsla15.html)
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
-* Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
-* Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using a the Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
+* Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership similarly to the book
+* Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using the Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
 
 A few universities have had classes about Rust. Here are links to their public resources.
 
-* University of Pennsylvania [CIS 198: Rust Programming](http://cis198-2016s.github.io/), Spring 2016, Rust 1.6. Slides linked from Schedule page. [Github](https://github.com/upenn-cis198)
+* University of Pennsylvania [CIS 198: Rust Programming](http://cis198-2016s.github.io/), Spring 2016, Rust 1.6. Slides linked from the Schedule page. [Github](https://github.com/upenn-cis198)
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
