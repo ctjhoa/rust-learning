@@ -6,9 +6,9 @@ A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel fr
 
 *Do you need to be convinced that Rust is worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
 
-The main documentation is always the best beginning, so if you haven't read yet, start by reading [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
+The main documentation is always the best beginning, so if you haven't read yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
 
-### Tags meanings
+### Tag meanings
 
 * :star: Something made by a rust team member.
 * :end: Concepts are still useful but code could not compile.
@@ -451,7 +451,7 @@ Are you fast, friendly, and fearless? [Find something Rusty to work on!](https:/
 
 Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
-Do you want to find out why some historical decisions? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
+Do you want to find out why some historical decisions took place? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
 
 ### Fearless Rust Bloggers
 
