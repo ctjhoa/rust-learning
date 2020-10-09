@@ -332,7 +332,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 ### Macros
 
 * [A Practical Intro to Macros in Rust 1.0](https://danielkeep.github.io/practical-intro-to-macros.html) - [Daniel Keep][]
-* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/) - [Daniel Keep][]
+* [The Little Book of Rust Macros](https://veykril.github.io/tlborm/) - Lukas Wirth
 * :star: [Macros in Rust part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/) | [part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/) | [part 3](http://ncameron.org/blog/macros-in-rust-pt3/) | [part 4](http://ncameron.org/blog/macros-in-rust-pt4/) - [Nick Cameron][]
 * [How do I use the Standard Library Macros in Rust?](https://mgattozzi.com/how-do-i-std-macros) - [Michael Gattozzi][]
 * [Writing complex macros in Rust: Reverse Polish Notation](https://rreverser.com/writing-complex-macros-in-rust/) - Ingvar Stepanyan
