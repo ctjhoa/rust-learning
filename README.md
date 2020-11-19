@@ -171,6 +171,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) - Carlos Galdino
 * [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) - Philipp Flenker
 * [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
+* [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
 
 ## Best Practices/Style Guides
 
