@@ -1,0 +1,6 @@
+{
+	"default": true,
+	"line-length": false,
+	"no-space-in-links": false,
+	"no-inline-html": false
+}

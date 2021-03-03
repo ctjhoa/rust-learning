@@ -1,0 +1,47 @@
+on: [push]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+
+      - name: Lint markdown
+        run: npx markdownlint-cli2 "*.md" "#MAINTAINERS.md"
+
+      - name: Check links
+        run: npx markdown-link-check -c .markdown-link-check-config.json README.md
+
+      - name: Check links da_DK
+        run: npx markdown-link-check da_DK.md
+
+      - name: Check links de_DE
+        run: npx markdown-link-check de_DE.md
+
+      - name: Check links es_ES
+        run: npx markdown-link-check es_ES.md
+
+      - name: Check links fr_FR
+        run: npx markdown-link-check fr_FR.md
+
+      - name: Check links it_IT
+        run: npx markdown-link-check it_IT.md
+
+      - name: Check links ja_JP
+        run: npx markdown-link-check ja_JP.md
+
+      - name: Check links ko_KR
+        run: npx markdown-link-check ko_KR.md
+
+      - name: Check links pt_BR
+        run: npx markdown-link-check pt_BR.md
+
+      - name: Check links ru_RU
+        run: npx markdown-link-check ru_RU.md
+
+      - name: Check links tr_TR
+        run: npx markdown-link-check tr_TR.md
+
+      - name: Check links zh_CN
+        run: npx markdown-link-check zh_CN.md
