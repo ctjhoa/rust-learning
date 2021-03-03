@@ -63,7 +63,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
 * :star: [The Rust Edition Guide](https://doc.rust-lang.org/edition-guide/) - [repo](https://github.com/rust-lang/edition-guide)
 * :star: [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - [repo](https://github.com/rust-lang-nursery/rust-cookbook)
-* :star: [Why Rust?](http://www.oreilly.com/programming/free/files/why-rust.pdf) - [Jim Blandy][]
+* :star: [Why Rust?](https://www.oreilly.com/content/why-rust/) - [Jim Blandy][]
 * :star: [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - [repo](https://github.com/rust-embedded/book) - Rust Embedded WG
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials-second-edition) -  Ivo Balbaert
