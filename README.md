@@ -300,7 +300,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 
 ### Documentation
 
-* :star: [Writing Documentation in Rust](https://facility9.com/2016/05/writing-documentation-in-rust/) - [Jeremiah Peschka][]
+* :star: [Writing Documentation in Rust](https://www.facility9.com/2016/05/10/writing-documentation-in-rust/) - [Jeremiah Peschka][]
 * [Keeping Rust projects' README.md code examples up-to-date](https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date) - Guillaume Gomez
 * [Guide on how to write documentation for a Rust crate](https://blog.guillaume-gomez.fr/articles/2020-03-11+Guide+on+how+to+write+documentation+for+a+Rust+crate) - Guillaume Gomez
 
