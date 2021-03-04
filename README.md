@@ -70,7 +70,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][], Jason Orendorff
 * [Mastering Rust - Second Edition](https://www.packtpub.com/application-development/mastering-rust-second-edition) - Rahul Sharma & Vesa Kaihlavirta
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
-* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - TS McNamara
+* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - [repo](https://github.com/rust-in-action/code) - [TS McNamara][Tim McNamara]
 * [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
 * [Learning Rust](https://www.packtpub.com/application-development/learning-rust) -  Paul Johnson, Vesa Kaihlavirta
 * [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) -  Vigneshwer Dhinakaran
@@ -544,6 +544,7 @@ A few universities have had classes about Rust. Here are links to their public r
 [Steve Klabnik]: https://github.com/steveklabnik
 [Steven Fackler]: https://github.com/sfackler
 [Tetsuharu OHZEKI]: https://github.com/saneyuki
+[Tim McNamara]: https://github.com/timClicks
 [Yehuda Katz]: https://github.com/wycats
 [Dumindu Madunuwan]: https://github.com/dumindu
 
