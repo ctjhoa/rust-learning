@@ -4,6 +4,9 @@
             "pattern": "^https://github.com"
         },
         {
+            "pattern": "^https://www.google.com"
+        },
+        {
             "pattern": "^https://www.amazon.com"
         },
         {
