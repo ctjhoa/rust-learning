@@ -6,9 +6,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-
       - name: Lint markdown
         run: npx markdownlint-cli2 "*.md" "#MAINTAINERS.md"
+
+  check_links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
 
       - name: Check links
         run: npx markdown-link-check -c .markdown-link-check-config.json README.md
