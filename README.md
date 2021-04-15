@@ -379,6 +379,7 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 * [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) - Matt Brubeck
 * [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics) - Carl Fredrik Samson
 * [A closer look at Ownership in Rust](https://blog.thoughtram.io/ownership-in-rust/) - Pascal Precht
+* [Understanding ownership in Rust](https://blog.logrocket.com/understanding-ownership-in-rust/) - Ukpai Ugochi
 
 ### Privacy
 
