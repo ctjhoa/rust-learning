@@ -123,7 +123,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * 2016-09-25 - :star: [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis][]
 * 2016-08-28 - :star: [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) - [Alex Crichton][]
 * 2016-06-21 - :star: [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) - [Steve Klabnik][]
-* 2015-08-01 - :star: [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
+* 2015-08-01 - :star: [RustCamp 2015](https://www.youtube.com/watch?v=0qIAk5sTwEo&list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t)
 * 2015-06-22 - [LambdaConf 2015 - In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) - Alex Burkhart
 * 2015-06-13 - :star: [What Is Rust?](http://www.infoq.com/presentations/rust-gc) - [Yehuda Katz][]
 * 2015-04-11 - [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) - [Dan Callahan][]
@@ -451,7 +451,7 @@ Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/
 
 Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018/01/31/The-2018-Rust-Event-Lineup.html), [The 2019 Rust Event Lineup](https://blog.rust-lang.org/2019/05/20/The-2019-Rust-Event-Lineup.html)
 
-Are you looking for a job? [RustJobs.rs](https://rustjobs.rs/), [Rust.Careers](https://rust.careers/)
+Are you looking for a job? [RustJobs.rs](https://rustjobs.rs/)
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
 
