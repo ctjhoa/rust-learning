@@ -117,6 +117,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ### Presentations
 
+* 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
@@ -265,7 +266,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 | Languages       | Links                                    |
 | --------------- | ---------------------------------------- |
 | C#              | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
-| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details) - [Nick Cameron][]</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li><li>[Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) - matiaslindgren</li><li>[Zero cost abstractions: Rust vs C++](https://www.rottedfrog.co.uk/?p=24) - rottedfrog</li></ul> |
+| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details) - [Nick Cameron][]</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li><li>[Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) - matiaslindgren</li><li>[Zero cost abstractions: Rust vs C++](https://www.rottedfrog.co.uk/?p=24) - rottedfrog</li><li>[A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor</li></ul> |
 | Clojure         | <ul><li>[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) - Zach Oakes</li></ul> |
 | Go | <ul><li>[Rust vs Go](https://bitfieldconsulting.com/golang/rust-vs-go) - John Arundel</li><li>[Rust vs. Go](http://julio.meroh.net/2018/07/rust-vs-go.html) - Julio Merino</li></ul>
 | Java/Scala            | <ul><li>[Comparing Rust and Java](https://llogiq.github.io/2016/02/28/java-rust.html) - [Llogiq][]</li><li>[A light comparison between Rust and Java generics and type system features.](https://gist.github.com/Kimundi/8391398) - Marvin Löbel</li><li>[Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/) - Lloyd </li><li>[Rust for professionals](https://overexact.com/rust-for-professionals/) - Pascal</li></ul> |
