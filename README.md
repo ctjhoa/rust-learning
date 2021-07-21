@@ -82,7 +82,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Beginning Rust - From Novice to Professional](https://www.apress.com/us/book/9781484234679) - Carlo Milanesi
 * [Hands-On Concurrency with Rust](https://www.amazon.com/dp/1788399978) - Brian Troutwine
 * [Hands-On Functional Programming in Rust](https://www.amazon.com/dp/1788839358) - Andrew Johnson
-* :soon: [Hands-On Rust Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust) - Herbert Wolverson
+* [Hands-On Rust Effective Learning through 2D Game Development and Play](https://pragprog.com/titles/hwrust/hands-on-rust) - Herbert Wolverson
 * [Hands-On Microservices with Rust](https://www.packtpub.com/web-development/hands-microservices-rust) - Denis Kolodin
 * [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust) - Claus Matzinger
 * [Rust Standard Library Cookbook](https://www.amazon.com/Rust-Standard-Library-Cookbook-leverage/dp/1788623924) - Daniel Durante, Jan Nils Ferner
