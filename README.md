@@ -96,6 +96,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Easy Rust](https://github.com/Dhghomon/easy_rust) - David MacLeod
 * :soon: [Rust Web Development](https://www.manning.com/books/rust-web-development) - [repo](https://github.com/Rust-Web-Development/code) - Bastian Gruber
 * [The Little Book of Rust Books](https://lborb.github.io/book/) - [repo](https://github.com/lborb/book)
+* [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps) - Prabhu Eshwarla
 
 ## Videos
 
