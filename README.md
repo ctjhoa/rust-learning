@@ -165,7 +165,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
 * [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
 * :star: [stdx - The missing batteries of Rust](https://github.com/brson/stdx) - [Brian Anderson][]
-* [Rust - exercism.io](http://exercism.io/languages/rust/about)
+* [Rust - exercism.org](https://exercism.org/tracks/rust)
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) - Emil Hernvall
 * [Rust Crash Course](https://www.snoyman.com/feed/rust-crash-course) - Michael Snoyman
 * [Web browser from scratch in Rust](https://joshondesign.com/tags/browser) - Josh Marinacci
