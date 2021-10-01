@@ -178,6 +178,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) - Philipp Flenker
 * [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
 * [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
+* :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - David Tolnay
 
 ## Best Practices/Style Guides
 
