@@ -1,12 +1,12 @@
 # rust-learning [![Build Status](https://github.com/ctjhoa/rust-learning/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/ctjhoa/rust-learning/actions/workflows/main.yml)
 
-A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know.
+A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. they aren't 2 paragraph long blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know.
 
 ## Introduction
 
-*Do you need to be convinced that Rust is worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
+*Do you want to be convinced that Rust is worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/).
 
-The main documentation is always the best beginning, so if you haven't read yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
+The main documentation is always the best beginning, so if you haven't read it yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have the ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
 
 ### Tag meanings
 
@@ -452,7 +452,7 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 Are you searching for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-Do you want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
+Do you want to ask a question? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
 
 Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/), [Time till Rust](https://timetill.rs/#/)
 
