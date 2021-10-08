@@ -119,11 +119,15 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [The Rust Programming Language | Tutorials](https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC) - danlogs
 * [Ryan Levick's Rust Stream](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ/videos) - Ryan Levick
 * [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Jon Gjengset
+* [ULTIMATE Rust Lang Tutorial!](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) - Let's Get Rusty
+* [Overview of the Rust Programming Language](https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW) - Jonathan Turner
 
 ### Presentations
 
+* 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - Tim McNamara
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
+* 2017-05-10 - [The Illustrated Adventure Survival Guide for New Rustaceans](https://youtu.be/iF-FgJvDl6w) - Lee Baillie
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
 * 2016-09-25 - :star: [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis][]
@@ -207,6 +211,8 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
 * [Rust cheat sheet (beginner-oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
 * [A type-based Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/) - Xidorn Quan
+* [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
+
 
 ## Rust internals
 
