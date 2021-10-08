@@ -212,7 +212,6 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust cheat sheet (beginner-oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
 * [A type-based Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/) - Xidorn Quan
 
-
 ## Rust internals
 
 * :star: [Rust RFCs](https://github.com/rust-lang/rfcs) and [Accepted RFCs](https://rust-lang.github.io/rfcs/)
