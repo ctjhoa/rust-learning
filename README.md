@@ -127,7 +127,6 @@ The main documentation is always the best beginning, so if you haven't read it y
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - Tim McNamara
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
-* 2017-05-10 - [The Illustrated Adventure Survival Guide for New Rustaceans](https://youtu.be/iF-FgJvDl6w) - Lee Baillie
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
 * 2016-09-25 - :star: [into_rust() - Screencasts for learning rust!](http://intorust.com/) - [Niko Matsakis][]
