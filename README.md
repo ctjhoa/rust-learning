@@ -121,7 +121,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Ryan Levick's Rust Stream](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ/videos) - Ryan Levick
 * [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Jon Gjengset
 * [ULTIMATE Rust Lang Tutorial!](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) - Let's Get Rusty
-* [Overview of the Rust Programming Language](https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW) - Jonathan Turner
+* [Overview of the Rust Programming Language](https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW) - [Jonathan Turner][]
 
 ### Presentations
 
