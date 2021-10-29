@@ -479,7 +479,7 @@ A complete list could be found [here](https://users.rust-lang.org/t/fearless-rus
 * [Chris Morgan][] - [blog](https://chrismorgan.info/blog/tags/rust/)
 * [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
-* [Jonathan Turner][] - [blog](http://www.jonathanturner.org/)
+* [Jonathan Turner][] - [blog](http://jntrnr.github.io)
 * [Llogiq][] - [blog](http://llogiq.github.io/)
 * [Manish Goregaokar][] - [blog](https://manishearth.github.io/)
 * [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
