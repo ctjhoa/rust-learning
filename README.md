@@ -1,12 +1,12 @@
 # rust-learning [![Build Status](https://github.com/ctjhoa/rust-learning/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/ctjhoa/rust-learning/actions/workflows/main.yml)
 
-A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. aren't 2 paragraph blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know.
+A bunch of links to blog posts, articles, videos, etc for learning Rust. Feel free to submit a pull request if you have some links/resources to add. Also, I try to verify that the articles below have some real content (i.e. they aren't 2 paragraph long blog posts with little information) to ensure I'm not listing "fluff" pieces. If you have an idea for a better way to organize these links, please let me know.
 
 ## Introduction
 
-*Do you need to be convinced that Rust is worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/)
+*Do you want to be convinced that Rust is worth learning?* Let us show you the [True Nature of the Force](https://brson.github.io/fireflowers/).
 
-The main documentation is always the best beginning, so if you haven't read yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
+The main documentation is always the best beginning, so if you haven't read it yet, start by reading the [Rust docs](https://www.rust-lang.org/en-US/documentation.html). You can also have the ebook versions of the doc [here](http://killercup.github.io/trpl-ebook/) and [here](https://github.com/lise-henry/books/).
 
 ### Tag meanings
 
@@ -98,6 +98,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [The Little Book of Rust Books](https://lborb.github.io/book/) - [repo](https://github.com/lborb/book)
 * [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps) - Prabhu Eshwarla
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
+* [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
 
 ## Videos
 
@@ -119,10 +120,13 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [The Rust Programming Language | Tutorials](https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC) - danlogs
 * [Ryan Levick's Rust Stream](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ/videos) - Ryan Levick
 * [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Jon Gjengset
+* [ULTIMATE Rust Lang Tutorial!](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) - Let's Get Rusty
+* [Overview of the Rust Programming Language](https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW) - [Jonathan Turner][]
 
 ### Presentations
 
 * 2021-11-02 - [Is Rust Borrow Checker Overexplained?](https://www.youtube.com/watch?v=SJjMnw9ZBmM) - [Tim McNamara][]
+* 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - Tim McNamara
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2021-05-20 - [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI) - [Lily Mara][]
 * 2021-04-17 - [Pros and Cons of Python vs. Rust](https://www.youtube.com/watch?v=0y5Cs9UOAKQ) - [Tim McNamara & Naomi Ceder][]
@@ -170,7 +174,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * :star: [Rust and CSV Parsing](http://blog.burntsushi.net/csv/) - [Andrew Gallant][]
 * [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms) - Aram Ebtekar
 * :star: [stdx - The missing batteries of Rust](https://github.com/brson/stdx) - [Brian Anderson][]
-* [Rust - exercism.io](http://exercism.io/languages/rust/about)
+* [Rust - exercism.org](https://exercism.org/tracks/rust)
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) - Emil Hernvall
 * [Rust Crash Course](https://www.snoyman.com/feed/rust-crash-course) - Michael Snoyman
 * [Web browser from scratch in Rust](https://joshondesign.com/tags/browser) - Josh Marinacci
@@ -182,6 +186,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 * [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) - Philipp Flenker
 * [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
 * [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
+* :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - David Tolnay
 
 ## Best Practices/Style Guides
 
@@ -455,7 +460,7 @@ This is the official [Rust Team](http://www.rust-lang.org/team.html) and [Servo 
 
 Are you searching for a rustacean? [http://www.rustaceans.org/](http://www.rustaceans.org/)
 
-Do you want to ask for something? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
+Do you want to ask a question? [Users Forum](https://users.rust-lang.org/), [Stack Overflow](https://stackoverflow.com/questions/tagged/rust)
 
 Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/), [Community calendar](https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc%40group.calendar.google.com), [Community talks list](https://github.com/rust-community/talks), [RustBridge](https://rustbridge.github.io/), [Time till Rust](https://timetill.rs/#/)
 
@@ -481,7 +486,7 @@ A complete list could be found [here](https://users.rust-lang.org/t/fearless-rus
 * [Chris Morgan][] - [blog](https://chrismorgan.info/blog/tags/rust/)
 * [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
-* [Jonathan Turner][] - [blog](http://www.jonathanturner.org/)
+* [Jonathan Turner][] - [blog](http://jntrnr.github.io)
 * [Llogiq][] - [blog](http://llogiq.github.io/)
 * [Manish Goregaokar][] - [blog](https://manishearth.github.io/)
 * [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
