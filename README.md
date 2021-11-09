@@ -122,7 +122,11 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 ### Presentations
 
+* 2021-11-02 - [Is Rust Borrow Checker Overexplained?](https://www.youtube.com/watch?v=SJjMnw9ZBmM) - [Tim McNamara][]
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
+* 2021-05-20 - [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI) - [Lily Mara][]
+* 2021-04-17 - [Pros and Cons of Python vs. Rust](https://www.youtube.com/watch?v=0y5Cs9UOAKQ) - [Tim McNamara & Naomi Ceder][]
+* 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols, Tim McNamara, Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas][]
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
