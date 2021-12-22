@@ -113,7 +113,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Tensor Programming Tutorials](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Hello Rust!](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw) - Matthias Endler
 * [YouCodeThings](https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/) - Andrew Jakubowicz
-* :star: :soon: [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion) - Video course by Carol Nichols and Jake Goulding
+* :star: :soon: [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion) - Video course by [Carol Nichols][] and Jake Goulding
 * [Learn Rust in 7 Days](https://www.packtpub.com/application-development/learn-rust-7-days-video) - Matthew Stoodley
 * [Rust Tutorial](https://www.youtube.com/watch?v=Az3jBd4xdF4&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
 * [Rust](https://www.youtube.com/watch?v=bR4nGWmfzTk&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X) - Crazcalm's Tech Stack
@@ -128,6 +128,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - [Tim McNamara][]
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
+* 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols][], [Tim McNamara][], Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
