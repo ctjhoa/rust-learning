@@ -299,6 +299,8 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 
 ## Language stuff
 
+Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
+
 ### Async
 
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) - Carl Fredrik Samson
@@ -472,6 +474,8 @@ Are you fast, friendly, and fearless? [Find something Rusty to work on!](https:/
 Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
 Do you want to find out why some historical decisions took place? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
+
+
 
 ### Fearless Rust Bloggers
 
