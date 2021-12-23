@@ -476,8 +476,6 @@ Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/)
 
 Do you want to find out why some historical decisions took place? [Chronicle.rs](https://github.com/mgattozzi/chronicle.rs)
 
-
-
 ### Fearless Rust Bloggers
 
 A complete list could be found [here](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
