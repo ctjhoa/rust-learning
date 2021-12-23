@@ -191,14 +191,15 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 * :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
 * :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
+* :star: [Rust API guidelines](https://github.com/rust-lang/rust-api-guidelines) - [Brian Anderson][]
 * [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - [Pascal Hertleif][]
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Andrew Hobden][]
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
-* :star: [Rust API guidelines](https://github.com/brson/rust-api-guidelines) - [Brian Anderson][]
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
+* [The Rust Performance Book](https://github.com/nnethercote/perf-book) - Nicholas Nethercote
 
 ## Cheat sheets
 
