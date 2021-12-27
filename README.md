@@ -125,6 +125,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 ### Presentations
 
+* 2021-12-18 - [The Rust Memory Safety Model explained](https://www.youtube.com/watch?v=54HgkOr6Pkk) - [Prabhu Eshwarla][]
 * 2021-11-02 - [Is Rust Borrow Checker Overexplained?](https://www.youtube.com/watch?v=SJjMnw9ZBmM) - [Tim McNamara][]
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - Tim McNamara
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
