@@ -62,6 +62,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [The Rustonomicon - The Dark Arts of Advanced and Unsafe Rust Programming](https://doc.rust-lang.org/stable/nomicon/) - [repo](https://github.com/rust-lang/nomicon)
 * :star: [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) - [repo](https://github.com/rust-lang/rust/tree/master/src/doc/unstable-book)
 * :star: [The Rust Edition Guide](https://doc.rust-lang.org/edition-guide/) - [repo](https://github.com/rust-lang/edition-guide)
+* :star: [The Rust Async Book](https://rust-lang.github.io/async-book/) - [repo](https://github.com/rust-lang/async-book)
 * :star: [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - [repo](https://github.com/rust-lang-nursery/rust-cookbook)
 * :star: [Why Rust?](https://www.oreilly.com/content/why-rust/) - [Jim Blandy][]
 * :star: [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - [repo](https://github.com/rust-embedded/book) - Rust Embedded WG
@@ -71,8 +72,8 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Mastering Rust - Second Edition](https://www.packtpub.com/application-development/mastering-rust-second-edition) - Rahul Sharma & Vesa Kaihlavirta
 * :soon: [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - [repo](https://github.com/natemara/refactoring-to-rust) - Nate Mara
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
-* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - [repo](https://github.com/rust-in-action/code) - [TS McNamara][Tim McNamara]
-* :soon: [Zero To Production In Rust](https://zero2prod.com) - [repo](https://github.com/LukeMathWalker/zero-to-production) - [Luca Palmieri][Luca Palmieri]
+* :soon: [Rust in Action](https://www.manning.com/books/rust-in-action) - [repo](https://github.com/rust-in-action/code) - [Tim McNamara][]
+* :soon: [Zero To Production In Rust](https://zero2prod.com) - [repo](https://github.com/LukeMathWalker/zero-to-production) - [Luca Palmieri][]
 * [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
 * [Learning Rust](https://www.packtpub.com/application-development/learning-rust) -  Paul Johnson, Vesa Kaihlavirta
 * [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) -  Vigneshwer Dhinakaran
@@ -112,7 +113,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Tensor Programming Tutorials](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Hello Rust!](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw) - Matthias Endler
 * [YouCodeThings](https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/) - Andrew Jakubowicz
-* :star: :soon: [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion) - Video course by Carol Nichols and Jake Goulding
+* :star: :soon: [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion) - Video course by [Carol Nichols][] and Jake Goulding
 * [Learn Rust in 7 Days](https://www.packtpub.com/application-development/learn-rust-7-days-video) - Matthew Stoodley
 * [Rust Tutorial](https://www.youtube.com/watch?v=Az3jBd4xdF4&list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
 * [Rust](https://www.youtube.com/watch?v=bR4nGWmfzTk&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X) - Crazcalm's Tech Stack
@@ -125,6 +126,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 ### Presentations
 
+
 * 2021-12-18 - [The Rust Memory Safety Model explained](https://www.youtube.com/watch?v=54HgkOr6Pkk) - [Prabhu Eshwarla][]
 * 2021-11-02 - [Is Rust Borrow Checker Overexplained?](https://www.youtube.com/watch?v=SJjMnw9ZBmM) - [Tim McNamara][]
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - Tim McNamara
@@ -132,6 +134,9 @@ The main documentation is always the best beginning, so if you haven't read it y
 * 2021-05-20 - [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI) - [Lily Mara][]
 * 2021-04-17 - [Pros and Cons of Python vs. Rust](https://www.youtube.com/watch?v=0y5Cs9UOAKQ) - [Tim McNamara & Naomi Ceder][]
 * 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols, Tim McNamara, Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas][]
+* 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - [Tim McNamara][]
+* 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
+* 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols][], [Tim McNamara][], Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
@@ -151,6 +156,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [The Request for Explanation Podcast: A weekly discussion of Rust RFCs](https://request-for-explanation.github.io/podcast/) - [Manish Goregaokar][]
 * [Rust And Bitter C++ Developers With Jim Blandy](https://corecursive.com/013-rust-and-bitter-c-developers-with-jim-blandy/) - Adam Bell
 * [AreWePodcastYet](https://soundcloud.com/arewepodcastyet)
+* [Rustacean Station](https://rustacean-station.org/)
 
 ## Rust in practice
 
@@ -193,14 +199,15 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 * :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
 * :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
+* :star: [Rust API guidelines](https://github.com/rust-lang/rust-api-guidelines) - [Brian Anderson][]
 * [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - [Pascal Hertleif][]
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Andrew Hobden][]
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
-* :star: [Rust API guidelines](https://github.com/brson/rust-api-guidelines) - [Brian Anderson][]
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
+* [The Rust Performance Book](https://github.com/nnethercote/perf-book) - Nicholas Nethercote
 
 ## Cheat sheets
 
@@ -300,6 +307,8 @@ See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awe
 /rust](https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md)
 
 ## Language stuff
+
+Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Async
 
@@ -467,7 +476,7 @@ Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/
 
 Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018/01/31/The-2018-Rust-Event-Lineup.html), [The 2019 Rust Event Lineup](https://blog.rust-lang.org/2019/05/20/The-2019-Rust-Event-Lineup.html)
 
-Are you looking for a job? [RustJobs.rs](https://rustjobs.rs/)
+Are you looking for a job? [RustJobs.rs](http://rustjobs.rs/)
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
 
