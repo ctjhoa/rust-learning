@@ -125,6 +125,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [ULTIMATE Rust Lang Tutorial!](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) - Let's Get Rusty
 * [Overview of the Rust Programming Language](https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW) - [Jonathan Turner][]
 * [Manning Publications Rust channel](https://www.youtube.com/c/ManningPublications/search?query=rust) - Manning Publications
+* [Introduction to Programming with Rust](https://www.youtube.com/playlist?list=PLbtjxiXev6lpd331MW2dB7UgSIovgv169) - Rhymu's Videos
 
 ### Presentations
 
