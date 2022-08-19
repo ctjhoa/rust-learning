@@ -5,9 +5,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
-      - name: Lint markdown
-        run: npx markdownlint-cli2 "*.md" "#MAINTAINERS.md"
+      - uses: DavidAnson/markdownlint-cli2-action@v4
+        with:
+          globs: |
+            *.md
+            #MAINTAINERS.md
 
   check_links:
     runs-on: ubuntu-latest

@@ -101,6 +101,8 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
 * [Multiplayer Game Development in Rust](https://www.manning.com/books/multiplayer-game-development-in-rust) - Stephan Dilly and Lyon Beckers
+* [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
+
 
 ## Videos
 
@@ -124,6 +126,8 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Jon Gjengset
 * [ULTIMATE Rust Lang Tutorial!](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) - Let's Get Rusty
 * [Overview of the Rust Programming Language](https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW) - [Jonathan Turner][]
+* [Manning Publications Rust channel](https://www.youtube.com/c/ManningPublications/search?query=rust) - Manning Publications
+* [Introduction to Programming with Rust](https://www.youtube.com/playlist?list=PLbtjxiXev6lpd331MW2dB7UgSIovgv169) - Rhymu's Videos
 
 ### Presentations
 
@@ -339,6 +343,9 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 * :star: [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * [Beginner's guide to Error Handling in Rust](http://www.sheshbabu.com/posts/rust-error-handling/) - Sheshbabu Chinnakonda
+* [Rust error handling](https://www.unwoundstack.com/blog/rust-error-handling.html) - sp1ff
+* [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) - Nick Groenen
+* [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust/) - Edgar Luque
 
 ### Iterators
 
