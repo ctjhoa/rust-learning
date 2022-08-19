@@ -100,6 +100,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps) - Prabhu Eshwarla
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
+* [Multiplayer Game Development in Rust](https://www.manning.com/books/multiplayer-game-development-in-rust) - Stephan Dilly and Lyon Beckers
 
 ## Videos
 
