@@ -5,7 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
 
       - name: Lint markdown
         run: npx markdownlint-cli2 "*.md" "#MAINTAINERS.md"
