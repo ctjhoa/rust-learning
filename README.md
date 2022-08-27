@@ -351,7 +351,6 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [Understanding Lifetime in Rust part 1](https://mobiarch.wordpress.com/2015/06/29/understanding-lifetime-in-rust-part-i/) | [part 2](https://mobiarch.wordpress.com/2015/07/08/understanding-lifetime-in-rust-part-ii-3/) - Bibhas Bhattacharya
 * [Rust Lifetimes](https://www.charlesetc.com/rust-lifetimes/) - Charles
 * [The Power of Lifetimes](http://pling.jondgoodwin.com/post/lifetimes/) - Jonathan Goodwin
-* [Understanding Lifetimes](https://rniczh.github.io/blog/lifetimes-intro/) - Hong-Sheng ‘Rnic‘ Zheng
 * [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa) - Maksym Zavershynskyi
 * [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - kirill
 
@@ -521,10 +520,6 @@ of interest if you're running a workshop on Rust.
 * Florian Gilcher's [mailbox tutorial](https://github.com/skade/mailbox) takes Hello World to a whole new concurrent and networked level
 * Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
 * Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using a Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
-
-A few universities have had classes about Rust. Here are links to their public resources.
-
-* University of Pennsylvania [CIS 198: Rust Programming](https://www.cis.upenn.edu/~cis198/), Fall 2019, Rust 1.37.0. Slides linked from Schedule page. [Github](https://github.com/upenn-cis198)
 
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
