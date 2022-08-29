@@ -529,27 +529,21 @@ of interest if you're running a workshop on Rust.
 [Andrew Hobden]: https://github.com/Hoverbear
 [Ben Ashford]: https://github.com/benashford
 [Brian Anderson]: https://github.com/brson
-[Carl Lerche]: https://github.com/carllerche
 [Carol Nichols]: https://github.com/carols10cents
 [Chris Krycho]: https://github.com/chriskrycho
 [Chris Morgan]: https://github.com/chris-morgan
 [Christoph Burgdorf]: https://github.com/cburgdorf
 [Daniel Keep]: https://github.com/DanielKeep
 [Dan Callahan]: https://github.com/callahad
-[Eduard Burtescu]: https://github.com/eddyb
 [Felix S Klock II]: https://github.com/pnkfelix
-[Gulshan Singh]: https://github.com/gsingh93
 [Herman J. Radtke III]: https://github.com/hjr3
-[Jakub Bukaj]: https://github.com/jakub-
 [Jeena Lee]: https://github.com/jeenalee
 [Jeremiah Peschka]: https://github.com/peschkaj
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
-[Josh Matthews]: https://github.com/jdm
 [Jonathan Turner]: https://github.com/jonathandturner
 [Llogiq]: https://github.com/llogiq
 [Luca Palmieri]: https://github.com/LukeMathWalker
-[Luqman Aden]: https://github.com/luqmana
 [Lloyd Chan]: https://github.com/lloydmeta
 [Huon Wilson]: https://github.com/huonw
 [Manish Goregaokar]: https://github.com/Manishearth
@@ -558,12 +552,8 @@ of interest if you're running a workshop on Rust.
 [Niko Matsakis]: https://github.com/nikomatsakis
 [Pascal Hertleif]: https://github.com/killercup
 [Patrick Walton]: https://github.com/pcwalton
-[Seo Sanghyeon]: https://github.com/sanxiyn
-[Simon Sapin]: https://github.com/SimonSapin
 [Steve Donovan]: https://github.com/stevedonovan
 [Steve Klabnik]: https://github.com/steveklabnik
-[Steven Fackler]: https://github.com/sfackler
-[Tetsuharu OHZEKI]: https://github.com/saneyuki
 [Tim McNamara]: https://github.com/timClicks
 [Yehuda Katz]: https://github.com/wycats
 [Dumindu Madunuwan]: https://github.com/dumindu
