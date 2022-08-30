@@ -194,6 +194,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
 * :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * :star: [Rust API guidelines](https://github.com/rust-lang/rust-api-guidelines) - [Brian Anderson][]
+* [Design Patterns in Rust](https://github.com/fadeevab/design-patterns-rust) - [Alexander Fadeev][]
 * [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - [Pascal Hertleif][]
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
@@ -525,6 +526,7 @@ of interest if you're running a workshop on Rust.
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
 [Alex Crichton]: https://github.com/alexcrichton
+[Alexander Fadeev]: https://github.com/fadeevab
 [Alexis Beingessner]: https://github.com/Gankro
 [Andrew Gallant]: https://github.com/BurntSushi
 [Andrew Hobden]: https://github.com/Hoverbear
