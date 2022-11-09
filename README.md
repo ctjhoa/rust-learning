@@ -379,7 +379,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Option & Result
 
-* [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
+* [Option Type part 1](https://8thlight.com/insights/the-option-type) | [part 2](https://8thlight.com/insights/using-the-option-type-effectively) - 8thlight
 * :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
 * [Russian Dolls and clean Rust code](https://blog.mgattozzi.dev/russian-dolls) - [Michael Gattozzi][]
 
