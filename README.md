@@ -361,7 +361,6 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [A Practical Intro to Macros in Rust 1.0](https://danielkeep.github.io/practical-intro-to-macros.html) - [Daniel Keep][]
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/) - Lukas Wirth
 * :star: [Macros in Rust part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/) | [part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/) | [part 3](http://ncameron.org/blog/macros-in-rust-pt3/) | [part 4](http://ncameron.org/blog/macros-in-rust-pt4/) - [Nick Cameron][]
-* [How do I use the Standard Library Macros in Rust?](https://blog.mgattozzi.dev/how-do-i-std-macros) - [Michael Gattozzi][]
 * [Writing complex macros in Rust: Reverse Polish Notation](https://rreverser.com/writing-complex-macros-in-rust/) - Ingvar Stepanyan
 * :star: [Procedural Macros in Rust 2018](https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html) - [Alex Crichton][]
 * [Creating Macros in Rust](https://hub.packtpub.com/creating-macros-in-rust-tutorial/) - Aaron Lazar
@@ -381,7 +380,6 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 * [Option Type part 1](https://8thlight.com/insights/the-option-type) | [part 2](https://8thlight.com/insights/using-the-option-type-effectively) - 8thlight
 * :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
-* [Russian Dolls and clean Rust code](https://blog.mgattozzi.dev/russian-dolls) - [Michael Gattozzi][]
 
 ### Ownership / Concurrency
 
@@ -413,7 +411,6 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 * [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) | [part 3](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) - [Herman J. Radtke III][]
 * [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
-* [How do I convert a &str to a String in Rust?](https://blog.mgattozzi.dev/how-do-i-str-string) - [Michael Gattozzi][]
 * [Rust: str vs String](http://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html) - Ameya Lokare
 * [On dealing with owning and borrowing in public interfaces](https://phaazon.net/blog/on-owning-borrowing-pub-interface) - Dimitri Sabadie
 * [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard) - Brandon Smith
