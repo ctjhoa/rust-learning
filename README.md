@@ -189,6 +189,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
 * [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
 * :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - [David Tolnay][]
+* [Blessed - An unofficial guide to the Rust ecosystem](https://blessed.rs/crates) - Nico Burns
 
 ## Best Practices/Style Guides
 
