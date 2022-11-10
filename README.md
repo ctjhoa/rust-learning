@@ -332,6 +332,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Errors
 
+* :star: [Error Handling in Rust](https://nrc.github.io/error-docs/) - [Nick Cameron][]
 * :star: [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * [Beginner's guide to Error Handling in Rust](http://www.sheshbabu.com/posts/rust-error-handling/) - Sheshbabu Chinnakonda
 * [Rust error handling](https://www.unwoundstack.com/blog/rust-error-handling.html) - sp1ff
