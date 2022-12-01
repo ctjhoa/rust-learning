@@ -37,6 +37,7 @@ The main documentation is always the best beginning, so if you haven't read it y
   * [Closures](#closures)
   * [Documentation](#documentation)
   * [Enums](#enums)
+  * [Errors](#errors)
   * [Iterators](#iterators)
   * [Lifetime](#lifetime)
   * [MIR](#mir)
