@@ -339,6 +339,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [Rust error handling](https://www.unwoundstack.com/blog/rust-error-handling.html) - sp1ff
 * [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) - Nick Groenen
 * [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust/) - Edgar Luque
+* [Designing error types in Rust](https://mmapped.blog/posts/12-rust-error-handling.html) - Roman Kashitsyn
 
 ### Iterators
 
