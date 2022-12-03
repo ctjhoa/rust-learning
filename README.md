@@ -166,7 +166,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - [Carol Nichols][]
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - [Alexis Beingessner][]
 * :star: [Let's build a browser engine!](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
-* [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Andrew Hobden][]
+* [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Ana Hoverbear][]
 * [Writing an OS in Rust 1st edition](http://os.phil-opp.com/) [2nd edition](https://os.phil-opp.com/second-edition/) - Philipp Oppermann
 * [Creating Nintendo 64 emulator from scratch in Rust!](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2) - Jake Taylor
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
@@ -198,10 +198,10 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * :star: [Rust API guidelines](https://github.com/rust-lang/rust-api-guidelines) - [Brian Anderson][]
 * [Design Patterns in Rust](https://github.com/fadeevab/design-patterns-rust) - [Alexander Fadeev][]
-* [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
+* [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Ana Hoverbear][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - [Pascal Hertleif][]
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
-* [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Andrew Hobden][]
+* [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Ana Hoverbear][]
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
@@ -253,7 +253,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 ## CI / Testing
 
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
-* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) - [Andrew Hobden][]
+* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) - [Ana Hoverbear][]
 * [Shave Some Time From Your Travis Builds](https://llogiq.github.io/2016/07/05/travis.html) - [Llogiq][]
 * [How to collect test coverages for a rust project](https://users.rust-lang.org/t/tutorial-how-to-collect-test-coverages-for-rust-project/650) - lifthrasiir
 * [Rust Code Coverage Guide: kcov + Travis CI + Codecov / Coveralls](http://sunjay.ca/2016/07/25/rust-code-coverage) - Sunjay Varma
@@ -344,7 +344,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Iterators
 
-* [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
+* [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Ana Hoverbear][]
 * [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) - [Herman J. Radtke III][]
 * [for loops in Rust](http://xion.io/post/code/rust-for-loop.html) - Karol Kuczmarski
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) - Karol Kuczmarski
@@ -383,7 +383,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 ### Option & Result
 
 * [Option Type part 1](https://8thlight.com/insights/the-option-type) | [part 2](https://8thlight.com/insights/using-the-option-type-effectively) - 8thlight
-* :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
+* :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Ana Hoverbear][]
 
 ### Ownership / Concurrency
 
@@ -490,7 +490,7 @@ A complete list could be found [here](https://users.rust-lang.org/t/fearless-rus
 
 * [Aaron Turon][] - [blog](http://aturon.github.io/)
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
-* [Andrew Hobden][] - [blog](https://hoverbear.org/tags/#rust)
+* [Ana Hoverbear][] - [blog](https://hoverbear.org/tags/#rust)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
 * [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
 * [Chris Morgan][] - [blog](https://chrismorgan.info/blog/tags/rust/)
