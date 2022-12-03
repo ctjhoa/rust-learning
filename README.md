@@ -157,7 +157,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 ## Rust in practice
 
 * :star: [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/) - [Jorge Aparicio][] and [Steve Klabnik][] - [repo](https://github.com/rust-lang/rust-by-example)
-* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
+* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Ana Hoverbear][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * :star: [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
@@ -531,7 +531,7 @@ of interest if you're running a workshop on Rust.
 [Alexander Fadeev]: https://github.com/fadeevab
 [Alexis Beingessner]: https://github.com/Gankro
 [Andrew Gallant]: https://github.com/BurntSushi
-[Andrew Hobden]: https://github.com/Hoverbear
+[Ana Hoverbear]: https://github.com/Hoverbear
 [Ben Ashford]: https://github.com/benashford
 [Brian Anderson]: https://github.com/brson
 [Carol Nichols]: https://github.com/carols10cents
