@@ -96,7 +96,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust) - Claus Matzinger
 * [The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust](https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109) - - Vesa Kaihlavirta, Rahul Sharma, Claus Matzinger
 * [Easy Rust](https://github.com/Dhghomon/easy_rust) - David MacLeod
-* :soon: [Rust Web Development](https://www.manning.com/books/rust-web-development) - [repo](https://github.com/Rust-Web-Development/code) - Bastian Gruber
+* [Rust Web Development](https://www.manning.com/books/rust-web-development) - [repo](https://github.com/Rust-Web-Development/code) - Bastian Gruber
 * [The Little Book of Rust Books](https://lborb.github.io/book/) - [repo](https://github.com/lborb/book)
 * [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps) - Prabhu Eshwarla
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
