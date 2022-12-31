@@ -479,7 +479,7 @@ Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018
 
 Are you looking for a job? [RustJobs.rs](http://rustjobs.rs/)
 
-Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
+Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters), [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 
 Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
