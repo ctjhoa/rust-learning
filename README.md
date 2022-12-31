@@ -369,6 +369,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * :star: [Procedural Macros in Rust 2018](https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html) - [Alex Crichton][]
 * [Creating Macros in Rust](https://hub.packtpub.com/creating-macros-in-rust-tutorial/) - Aaron Lazar
 * [Rust Latam: procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop) - David Tolnay
+* [MacroKata](https://github.com/tfpk/macrokata) - Tom Kunc
 
 ### MIR
 
