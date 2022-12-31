@@ -206,6 +206,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
 * [The Rust Performance Book](https://github.com/nnethercote/perf-book) - Nicholas Nethercote
+* [The Typestate Pattern in Rust](http://cliffle.com/blog/rust-typestate/) - Cliff L. Biffle
 
 ## Cheat sheets
 
