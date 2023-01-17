@@ -416,7 +416,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 ### Strings
 
 * [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) | [part 3](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) - [Herman J. Radtke III][]
-* [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
+* [From &str to Cow](https://jwilm.io/blog/from-str-to-cow/) - Joe Wilm
 * [Rust: str vs String](http://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html) - Ameya Lokare
 * [On dealing with owning and borrowing in public interfaces](https://phaazon.net/blog/on-owning-borrowing-pub-interface) - Dimitri Sabadie
 * [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard) - Brandon Smith
