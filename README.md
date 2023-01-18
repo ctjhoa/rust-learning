@@ -102,6 +102,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
 * [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google
 
 ## Videos
 
