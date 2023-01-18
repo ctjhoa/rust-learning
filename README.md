@@ -186,7 +186,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Create Your Own Programming Language with Rust](https://createlang.rs/) - Ehsan M. Kermani
 * :star: [Command Line Applications in Rust](https://rust-cli.github.io/book/) - Rust CLI working
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) - Carlos Galdino
-* [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) - Philipp Flenker
+* [Hecto: Build your own text editor in Rust](https://www.flenker.blog/hecto/) - Philipp Flenker
 * [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
 * [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
 * :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - [David Tolnay][]
