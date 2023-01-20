@@ -37,6 +37,7 @@ The main documentation is always the best beginning, so if you haven't read it y
   * [Closures](#closures)
   * [Documentation](#documentation)
   * [Enums](#enums)
+  * [Errors](#errors)
   * [Iterators](#iterators)
   * [Lifetime](#lifetime)
   * [MIR](#mir)
@@ -95,7 +96,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust) - Claus Matzinger
 * [The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust](https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109) - - Vesa Kaihlavirta, Rahul Sharma, Claus Matzinger
 * [Easy Rust](https://github.com/Dhghomon/easy_rust) - David MacLeod
-* :soon: [Rust Web Development](https://www.manning.com/books/rust-web-development) - [repo](https://github.com/Rust-Web-Development/code) - Bastian Gruber
+* [Rust Web Development](https://www.manning.com/books/rust-web-development) - [repo](https://github.com/Rust-Web-Development/code) - Bastian Gruber
 * [The Little Book of Rust Books](https://lborb.github.io/book/) - [repo](https://github.com/lborb/book)
 * [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps) - Prabhu Eshwarla
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
@@ -103,6 +104,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Multiplayer Game Development in Rust](https://www.manning.com/books/multiplayer-game-development-in-rust) - Stephan Dilly and Lyon Beckers
 * [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
 * [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches) - David MacLeod
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google
 
 ## Videos
 
@@ -110,9 +112,9 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 * :star: [Rust and the Future of Systems Programming](https://www.youtube.com/playlist?list=PLo3w8EB99pqJ74XIGe72c9hBZWz9Y16cY) - Mozilla
 * [RustFest Zürich 2017](https://www.youtube.com/watch?v=jywiVWKm1TI&list=PL85XCvVPmGQj9mqbJizw-zi-EhcpS5jTP)
-* [J M Archer Tutorials](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc) - J M Archer
 * [ABitWiseGuy Tutorials](https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9) - ABitWiseGuy
 * [dcode Tutorials](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL) - dcode
+* [maxday_coding](https://www.youtube.com/watch?v=Idys2BAmqIU&list=PLCqkr2gc0bmZZOvjXC6BJGTGEuah_1Hbi) - ASMR Live Coding
 * [Tensor Programming Tutorials](https://www.youtube.com/watch?v=EYqceb2AnkU&list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Hello Rust!](https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw) - Matthias Endler
 * [YouCodeThings](https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw/) - Andrew Jakubowicz
@@ -166,7 +168,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 ## Rust in practice
 
 * :star: [Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/) - [Jorge Aparicio][] and [Steve Klabnik][] - [repo](https://github.com/rust-lang/rust-by-example)
-* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Andrew Hobden][]
+* [rosettacode](https://github.com/Hoverbear/rust-rosetta) - [Ana Hoverbear][]
 * [Why your first FizzBuzz implementation may not work](http://chrismorgan.info/blog/rust-fizzbuzz.html) - [Chris Morgan][]
 * :star: [An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs) - [Brian Anderson][]
 * [ProjectEulerRust](https://github.com/gifnksm/ProjectEulerRust) - gifnksm
@@ -175,7 +177,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [rustlings: small rust exercises](https://github.com/carols10cents/rustlings) - [Carol Nichols][]
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - [Alexis Beingessner][]
 * :star: [Let's build a browser engine!](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
-* [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Andrew Hobden][]
+* [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Ana Hoverbear][]
 * [Writing an OS in Rust 1st edition](http://os.phil-opp.com/) [2nd edition](https://os.phil-opp.com/second-edition/) - Philipp Oppermann
 * [Creating Nintendo 64 emulator from scratch in Rust!](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2) - Jake Taylor
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
@@ -195,35 +197,37 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Create Your Own Programming Language with Rust](https://createlang.rs/) - Ehsan M. Kermani
 * :star: [Command Line Applications in Rust](https://rust-cli.github.io/book/) - Rust CLI working
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) - Carlos Galdino
-* [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) - Philipp Flenker
+* [Hecto: Build your own text editor in Rust](https://www.flenker.blog/hecto/) - Philipp Flenker
 * [Rust sokoban](https://sokoban.iolivia.me/) - Olivia Ifrim
 * [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
-* :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - David Tolnay
+* :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - [David Tolnay][]
+* [Blessed - An unofficial guide to the Rust ecosystem](https://blessed.rs/crates) - Nico Burns
 
 ## Best Practices/Style Guides
 
 * :star: [Rust Design Patterns](https://github.com/nrc/patterns) - [Nick Cameron][]
 * :star: [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
-* :star: [Rust API guidelines](https://github.com/rust-lang/rust-api-guidelines) - [Brian Anderson][]
-* [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Andrew Hobden][]
+* :star: [Rust API guidelines](https://github.com/rust-lang/api-guidelines) - [Brian Anderson][]
+* [Design Patterns in Rust](https://github.com/fadeevab/design-patterns-rust) - [Alexander Fadeev][]
+* [Reading Rust Function Signatures](http://hoverbear.org/2015/07/10/reading-rust-function-signatures/) - [Ana Hoverbear][]
 * [Good Practices for Writing Rust Libraries](https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/) - [Pascal Hertleif][]
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) - [Llogiq][]
-* [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Andrew Hobden][]
+* [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) - [Ana Hoverbear][]
 * [Elegant Library APIs in Rust](https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html) - [Pascal Hertleif][]
 * [Rust Performance Pitfalls](https://llogiq.github.io/2017/06/01/perf-pitfalls.html) - [Llogiq][]
 * [How to write CRaP Rust code](https://blog.logrocket.com/how-to-write-crap-rust-code/) - [Llogiq][]
 * [The Rust Performance Book](https://github.com/nnethercote/perf-book) - Nicholas Nethercote
+* [The Typestate Pattern in Rust](http://cliffle.com/blog/rust-typestate/) - Cliff L. Biffle
 
 ## Cheat sheets
 
 * :star: [Syntax Index](https://doc.rust-lang.org/book/syntax-index.html)
-* [The Periodic Table of Rust Types](http://cosmic.mearie.org/2014/01/periodic-table-of-rust-types/) - Kang Seonghoon
 * [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html) - [Daniel Keep][]
 * [Rust String Conversions Cheat Sheet](https://docs.google.com/spreadsheets/d/19vSPL6z2d50JlyzwxariaYD6EU2QQUQqIDOGbiGQC7Y/pubhtml?gid=0&single=true) - GavinB
 * [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries) - kmc
 * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing) - Raph Levien
 * [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/img/rust-move-copy-borrow.png) - Phil Ruffwind
-* [Lifetime Reference](https://www.charlesetc.com/lifetime-reference/) - Charles
+* [Lifetime Reference](https://charlesetc.com/lifetime-reference/) - Charles
 * [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
 * [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
 * [Rust cheat sheet (beginner-oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
@@ -260,7 +264,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 ## CI / Testing
 
 * [Helping Travis catch the rustc train part 1](https://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/) | [part 2](https://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/) - [Huon Wilson][]
-* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) - [Andrew Hobden][]
+* [Rust, Travis, and Github Pages](http://hoverbear.org/2015/03/07/rust-travis-github-pages/) - [Ana Hoverbear][]
 * [Shave Some Time From Your Travis Builds](https://llogiq.github.io/2016/07/05/travis.html) - [Llogiq][]
 * [How to collect test coverages for a rust project](https://users.rust-lang.org/t/tutorial-how-to-collect-test-coverages-for-rust-project/650) - lifthrasiir
 * [Rust Code Coverage Guide: kcov + Travis CI + Codecov / Coveralls](http://sunjay.ca/2016/07/25/rust-code-coverage) - Sunjay Varma
@@ -341,15 +345,17 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Errors
 
+* :star: [Error Handling in Rust](https://nrc.github.io/error-docs/) - [Nick Cameron][]
 * :star: [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) - [Andrew Gallant][]
 * [Beginner's guide to Error Handling in Rust](http://www.sheshbabu.com/posts/rust-error-handling/) - Sheshbabu Chinnakonda
 * [Rust error handling](https://www.unwoundstack.com/blog/rust-error-handling.html) - sp1ff
 * [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) - Nick Groenen
 * [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust/) - Edgar Luque
+* [Designing error types in Rust](https://mmapped.blog/posts/12-rust-error-handling.html) - Roman Kashitsyn
 
 ### Iterators
 
-* [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Andrew Hobden][]
+* [A Journey into Iterators](http://hoverbear.org/2015/05/02/a-journey-into-iterators/) - [Ana Hoverbear][]
 * [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) - [Herman J. Radtke III][]
 * [for loops in Rust](http://xion.io/post/code/rust-for-loop.html) - Karol Kuczmarski
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) - Karol Kuczmarski
@@ -360,9 +366,8 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 * :star: [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) - [Manish Goregaokar][]
 * [Understanding Lifetime in Rust part 1](https://mobiarch.wordpress.com/2015/06/29/understanding-lifetime-in-rust-part-i/) | [part 2](https://mobiarch.wordpress.com/2015/07/08/understanding-lifetime-in-rust-part-ii-3/) - Bibhas Bhattacharya
-* [Rust Lifetimes](https://www.charlesetc.com/rust-lifetimes/) - Charles
+* [Rust Lifetimes](https://charlesetc.com/rust-lifetimes/) - Charles
 * [The Power of Lifetimes](http://pling.jondgoodwin.com/post/lifetimes/) - Jonathan Goodwin
-* [Understanding Lifetimes](https://rniczh.github.io/blog/lifetimes-intro/) - Hong-Sheng ‘Rnic‘ Zheng
 * [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa) - Maksym Zavershynskyi
 * [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - kirill
 
@@ -371,10 +376,11 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [A Practical Intro to Macros in Rust 1.0](https://danielkeep.github.io/practical-intro-to-macros.html) - [Daniel Keep][]
 * [The Little Book of Rust Macros](https://veykril.github.io/tlborm/) - Lukas Wirth
 * :star: [Macros in Rust part 1](http://www.ncameron.org/blog/macros-in-rust-pt1/) | [part 2](http://www.ncameron.org/blog/macros-in-rust-pt2/) | [part 3](http://ncameron.org/blog/macros-in-rust-pt3/) | [part 4](http://ncameron.org/blog/macros-in-rust-pt4/) - [Nick Cameron][]
-* [How do I use the Standard Library Macros in Rust?](https://blog.mgattozzi.dev/how-do-i-std-macros) - [Michael Gattozzi][]
 * [Writing complex macros in Rust: Reverse Polish Notation](https://rreverser.com/writing-complex-macros-in-rust/) - Ingvar Stepanyan
 * :star: [Procedural Macros in Rust 2018](https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html) - [Alex Crichton][]
 * [Creating Macros in Rust](https://hub.packtpub.com/creating-macros-in-rust-tutorial/) - Aaron Lazar
+* [Rust Latam: procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop) - David Tolnay
+* [MacroKata](https://github.com/tfpk/macrokata) - Tom Kunc
 
 ### MIR
 
@@ -388,9 +394,8 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Option & Result
 
-* [Option Type part 1](http://blog.8thlight.com/dave-torre/2015/03/11/the-option-type.html) | [part 2](http://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html) - 8thlight
-* :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Andrew Hobden][]
-* [Russian Dolls and clean Rust code](https://blog.mgattozzi.dev/russian-dolls) - [Michael Gattozzi][]
+* [Option Type part 1](https://8thlight.com/insights/the-option-type) | [part 2](https://8thlight.com/insights/using-the-option-type-effectively) - 8thlight
+* :end: [Option Monads in Rust](http://hoverbear.org/2014/08/12/option-monads-in-rust/) - [Ana Hoverbear][]
 
 ### Ownership / Concurrency
 
@@ -421,8 +426,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 ### Strings
 
 * [String vs &str in Rust functions part 1](http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html) | [part 2](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) | [part 3](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) - [Herman J. Radtke III][]
-* [From &str to Cow](http://blog.jwilm.io/from-str-to-cow/) - Joe Wilm
-* [How do I convert a &str to a String in Rust?](https://blog.mgattozzi.dev/how-do-i-str-string) - [Michael Gattozzi][]
+* [From &str to Cow](https://jwilm.io/blog/from-str-to-cow/) - Joe Wilm
 * [Rust: str vs String](http://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html) - Ameya Lokare
 * [On dealing with owning and borrowing in public interfaces](https://phaazon.net/blog/on-owning-borrowing-pub-interface) - Dimitri Sabadie
 * [Why Rust strings seem hard](https://www.brandons.me/blog/why-rust-strings-seem-hard) - Brandon Smith
@@ -486,7 +490,7 @@ Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018
 
 Are you looking for a job? [RustJobs.rs](http://rustjobs.rs/)
 
-Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters)
+Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters), [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 
 Do you want to stay up to date? [The official blog](https://blog.rust-lang.org/), [This Week in Rust](https://this-week-in-rust.org/), [This Week in Rust Docs](http://guillaumegomez.github.io/this-week-in-rust-docs/), [The official reddit](https://www.reddit.com/r/rust/)
 
@@ -498,7 +502,7 @@ A complete list could be found [here](https://users.rust-lang.org/t/fearless-rus
 
 * [Aaron Turon][] - [blog](http://aturon.github.io/)
 * [Andrew Gallant][] - [blog](http://blog.burntsushi.net/)
-* [Andrew Hobden][] - [blog](https://hoverbear.org/tags/#rust)
+* [Ana Hoverbear][] - [blog](https://hoverbear.org/tags/#rust)
 * [Brian Anderson][] - [blog](https://brson.github.io/blog/index.html)
 * [Christoph Burgdorf][] - [blog](https://cburgdorf.wordpress.com/)
 * [Chris Morgan][] - [blog](https://chrismorgan.info/blog/tags/rust/)
@@ -533,39 +537,31 @@ of interest if you're running a workshop on Rust.
 * Carol Nichols' [Intro to Rust](https://github.com/carols10cents/intro-to-rust) that presents the guessing game and ownership in a similar manner as the book
 * Jonathan Pallant's [Rust on the Raspberry Pi tutorial (using a Sense HAT)](https://github.com/thejpster/pi-workshop-rs)
 
-A few universities have had classes about Rust. Here are links to their public resources.
-
-* University of Pennsylvania [CIS 198: Rust Programming](https://www.cis.upenn.edu/~cis198/), Fall 2019, Rust 1.37.0. Slides linked from Schedule page. [Github](https://github.com/upenn-cis198)
-
 <!-- Rustaceans -->
 [Aaron Turon]: https://github.com/aturon
 [Alex Crichton]: https://github.com/alexcrichton
+[Alexander Fadeev]: https://github.com/fadeevab
 [Alexis Beingessner]: https://github.com/Gankro
 [Andrew Gallant]: https://github.com/BurntSushi
-[Andrew Hobden]: https://github.com/Hoverbear
+[Ana Hoverbear]: https://github.com/Hoverbear
 [Ben Ashford]: https://github.com/benashford
 [Brian Anderson]: https://github.com/brson
-[Carl Lerche]: https://github.com/carllerche
 [Carol Nichols]: https://github.com/carols10cents
 [Chris Krycho]: https://github.com/chriskrycho
 [Chris Morgan]: https://github.com/chris-morgan
 [Christoph Burgdorf]: https://github.com/cburgdorf
 [Daniel Keep]: https://github.com/DanielKeep
 [Dan Callahan]: https://github.com/callahad
-[Eduard Burtescu]: https://github.com/eddyb
+[David Tolnay]: https://github.com/dtolnay
 [Felix S Klock II]: https://github.com/pnkfelix
-[Gulshan Singh]: https://github.com/gsingh93
 [Herman J. Radtke III]: https://github.com/hjr3
-[Jakub Bukaj]: https://github.com/jakub-
 [Jeena Lee]: https://github.com/jeenalee
 [Jeremiah Peschka]: https://github.com/peschkaj
 [Jim Blandy]: https://github.com/jimblandy
 [Jorge Aparicio]: https://github.com/japaric
-[Josh Matthews]: https://github.com/jdm
 [Jonathan Turner]: https://github.com/jonathandturner
 [Llogiq]: https://github.com/llogiq
 [Luca Palmieri]: https://github.com/LukeMathWalker
-[Luqman Aden]: https://github.com/luqmana
 [Lloyd Chan]: https://github.com/lloydmeta
 [Huon Wilson]: https://github.com/huonw
 [Manish Goregaokar]: https://github.com/Manishearth
@@ -574,12 +570,8 @@ A few universities have had classes about Rust. Here are links to their public r
 [Niko Matsakis]: https://github.com/nikomatsakis
 [Pascal Hertleif]: https://github.com/killercup
 [Patrick Walton]: https://github.com/pcwalton
-[Seo Sanghyeon]: https://github.com/sanxiyn
-[Simon Sapin]: https://github.com/SimonSapin
 [Steve Donovan]: https://github.com/stevedonovan
 [Steve Klabnik]: https://github.com/steveklabnik
-[Steven Fackler]: https://github.com/sfackler
-[Tetsuharu OHZEKI]: https://github.com/saneyuki
 [Tim McNamara]: https://github.com/timClicks
 [Yehuda Katz]: https://github.com/wycats
 [Dumindu Madunuwan]: https://github.com/dumindu
