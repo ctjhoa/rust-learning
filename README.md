@@ -102,7 +102,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
 * [Multiplayer Game Development in Rust](https://www.manning.com/books/multiplayer-game-development-in-rust) - Stephan Dilly and Lyon Beckers
 * [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
-
+* [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches) - David MacLeod
 
 ## Videos
 
