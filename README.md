@@ -360,6 +360,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [The Power of Lifetimes](http://pling.jondgoodwin.com/post/lifetimes/) - Jonathan Goodwin
 * [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa) - Maksym Zavershynskyi
 * [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - kirill
+* [LifetimeKata](https://github.com/tfpk/lifetimekata) - Tom Kunc
 
 ### Macros
 
