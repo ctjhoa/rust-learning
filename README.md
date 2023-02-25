@@ -104,6 +104,8 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
 * [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google
+* [Rust Atomics and Locks](https://learning.oreilly.com/library/view/-/9781098119430/) - Mara Bos
+* [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/) - Ken Youens-Clark
 
 ## Videos
 
