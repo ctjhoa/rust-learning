@@ -102,7 +102,9 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust Servers, Services, and Apps](https://www.manning.com/books/rust-servers-services-and-apps) - Prabhu Eshwarla
 * [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) - Brenden Matthews
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) - Jon Gjengset
+* [Multiplayer Game Development in Rust](https://www.manning.com/books/multiplayer-game-development-in-rust) - Stephan Dilly and Lyon Beckers
 * [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
+* [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches) - David MacLeod
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google
 * [Rust Atomics and Locks](https://learning.oreilly.com/library/view/-/9781098119430/) - Mara Bos
 * [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/) - Ken Youens-Clark
@@ -135,6 +137,14 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 ### Presentations
 
+
+* 2021-12-18 - [The Rust Memory Safety Model explained](https://www.youtube.com/watch?v=54HgkOr6Pkk) - [Prabhu Eshwarla][]
+* 2021-11-02 - [Is Rust Borrow Checker Overexplained?](https://www.youtube.com/watch?v=SJjMnw9ZBmM) - [Tim McNamara][]
+* 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - Tim McNamara
+* 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
+* 2021-05-20 - [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI) - [Lily Mara][]
+* 2021-04-17 - [Pros and Cons of Python vs. Rust](https://www.youtube.com/watch?v=0y5Cs9UOAKQ) - [Tim McNamara & Naomi Ceder][]
+* 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols, Tim McNamara, Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas][]
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - [Tim McNamara][]
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols][], [Tim McNamara][], Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas
