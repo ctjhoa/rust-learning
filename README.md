@@ -105,6 +105,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust From the Ground Up](https://rftgu.rs/) - Matthew Provost
 * [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches) - David MacLeod
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google
+* [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns)) - Brenden Matthews
 
 ## Videos
 
