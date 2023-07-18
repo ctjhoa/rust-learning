@@ -196,6 +196,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust Gym](https://github.com/warycat/rustgym) - Yinchu Xia
 * :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - [David Tolnay][]
 * [Blessed - An unofficial guide to the Rust ecosystem](https://blessed.rs/crates) - Nico Burns
+* [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/) - Wu Bingzheng
 
 ## Best Practices/Style Guides
 
