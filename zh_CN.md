@@ -10,3 +10,4 @@
 * [The book in Traditional Chinese](http://askeing.github.io/rust-book/)
 * [Translation of The Little Book of Rust Macros](https://github.com/DaseinPhaos/tlborm-chinese)
 * [The Rust Course](https://github.com/sunface/rust-course)
+* [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/zh/)
