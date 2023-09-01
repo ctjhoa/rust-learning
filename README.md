@@ -317,6 +317,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 ### Async
 
 * [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) - Carl Fredrik Samson
+* [Introduction to Async Rust and a High-level Overview of Tokio’s Architecture](https://moslehian.com/posts/2023/1-intro-async-rust-tokio/) - Arash Sal Moslehian
 
 ### Closures
 
