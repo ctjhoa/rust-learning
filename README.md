@@ -188,7 +188,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust Crash Course](https://www.snoyman.com/feed/rust-crash-course) - Michael Snoyman
 * [Web browser from scratch in Rust](https://joshondesign.com/tags/browser) - Josh Marinacci
 * [Tour of Rust](https://tourofrust.com/) - Richard Anaya
-* [PNGme: An Intermediate Rust Project](https://picklenerd.github.io/pngme_book/) - picklenerd
+* [PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/) - Jordan Grace
 * [Create Your Own Programming Language with Rust](https://createlang.rs/) - Ehsan M. Kermani
 * :star: [Command Line Applications in Rust](https://rust-cli.github.io/book/) - Rust CLI working
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) - Carlos Galdino
