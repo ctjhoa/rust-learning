@@ -486,7 +486,7 @@ Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/
 
 Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018/01/31/The-2018-Rust-Event-Lineup.html), [The 2019 Rust Event Lineup](https://blog.rust-lang.org/2019/05/20/The-2019-Rust-Event-Lineup.html)
 
-Are you looking for a job? [RustJobs.rs](http://rustjobs.rs/)
+Are you looking for a job? [RustJobs.dev](https://rustjobs.dev/)
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters), [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 
