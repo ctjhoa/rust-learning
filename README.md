@@ -223,7 +223,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rustic Symmetries](https://github.com/kmcallister/rustic-symmetries/blob/master/README.md#rustic-symmetries) - kmc
 * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit?usp=sharing) - Raph Levien
 * [Graphical depiction of ownership and borrowing in Rust](https://rufflewind.com/img/rust-move-copy-borrow.png) - Phil Ruffwind
-* [Lifetime Reference](https://charlesetc.com/lifetime-reference/) - Charles
+* [Lifetime Reference](https://charlesetc.inclouds.space/lifetime-reference/) - Charles
 * [Phaiax's Rust Cheatsheet](http://phaiax.github.io/rust-cheatsheet/) - Phaiax
 * [Rust Language Cheat Sheet](https://cheats.rs/) - Ralf Biedert
 * [Rust cheat sheet (beginner-oriented)](https://www.breakdown-notes.com/make/load/rust_cs_canvas/true)
@@ -363,7 +363,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 * :star: [Where Rust Really Shines](https://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/) - [Manish Goregaokar][]
 * [Understanding Lifetime in Rust part 1](https://mobiarch.wordpress.com/2015/06/29/understanding-lifetime-in-rust-part-i/) | [part 2](https://mobiarch.wordpress.com/2015/07/08/understanding-lifetime-in-rust-part-ii-3/) - Bibhas Bhattacharya
-* [Rust Lifetimes](https://charlesetc.com/rust-lifetimes/) - Charles
+* [Rust Lifetimes](https://charlesetc.inclouds.space/rust-lifetimes/) - Charles
 * [The Power of Lifetimes](http://pling.jondgoodwin.com/post/lifetimes/) - Jonathan Goodwin
 * [Understanding Rust Lifetimes](https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa) - Maksym Zavershynskyi
 * [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) - kirill
