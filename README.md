@@ -139,6 +139,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - [Tim McNamara][]
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols][], [Tim McNamara][], Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas
+* 2018-08-17 - [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) - Catherine West
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
@@ -198,6 +199,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - [David Tolnay][]
 * [Blessed - An unofficial guide to the Rust ecosystem](https://blessed.rs/crates) - Nico Burns
 * [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/) - Wu Bingzheng
+* [Object Soup is Made of Indexes](https://jacko.io/object_soup.html) - Jack O'Connor
 
 ## Best Practices/Style Guides
 
