@@ -17,6 +17,9 @@
         },
         {
             "pattern": "^https://cheats.rs/"
+        },
+        {
+            "pattern": "^https://web.archive.org"
         }
     ]
 }
