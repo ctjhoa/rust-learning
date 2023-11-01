@@ -317,7 +317,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 
 ### Async
 
-* [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) - Carl Fredrik Samson
+* [Futures Explained in 200 Lines of Rust](https://web.archive.org/web/20230324130904/https://cfsamson.github.io/books-futures-explained/) - Carl Fredrik Samson
 * [Introduction to Async Rust and a High-level Overview of Tokio’s Architecture](https://moslehian.com/posts/2023/1-intro-async-rust-tokio/) - Arash Sal Moslehian
 
 ### Closures
@@ -413,7 +413,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [Moving, Cloning, and Copying Coloring Books in Rust](http://jeenalee.com/2016/08/29/move-clone-copy.html) - [Jeena Lee][]
 * [Ref patterns, destructuring, and invisible borrows](https://medium.com/@robertgrosse/ref-patterns-destructuring-and-invisible-borrows-2f8ae6902656) - Robert Grosse
 * [Rust: A unique perspective](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html) - Matt Brubeck
-* [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics) - Carl Fredrik Samson
+* [The Node Experiment - Exploring Async Basics with Rust](https://web.archive.org/web/20230125023131/https://cfsamson.github.io/book-exploring-async-basics/) - Carl Fredrik Samson
 * [A closer look at Ownership in Rust](https://blog.thoughtram.io/ownership-in-rust/) - Pascal Precht
 * [Understanding ownership in Rust](https://blog.logrocket.com/understanding-ownership-in-rust/) - Ukpai Ugochi
 
