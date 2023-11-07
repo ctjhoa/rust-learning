@@ -198,6 +198,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [Rust Quiz](https://dtolnay.github.io/rust-quiz) - [David Tolnay][]
 * [Blessed - An unofficial guide to the Rust ecosystem](https://blessed.rs/crates) - Nico Burns
 * [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/) - Wu Bingzheng
+* [Implementing a BitTorrent client in Rust](https://www.youtube.com/watch?v=jf_ddGnum_4&t=135s&ab_channel=JonGjengset) - Jon Gjengset
 
 ## Best Practices/Style Guides
 
