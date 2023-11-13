@@ -267,6 +267,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Ensuring Beautiful Commits with rustfmt and Travis-CI](http://kneit.in/2016/11/26/rustfmt-in-travisci.html) - Kyle Kneitinger
 * [Great Rust CI](https://dev.to/cad97/great-rust-ci-1fk6) - Christopher Durham
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
+* [Rust for JavaScript Developers: An Overview of Testing](https://www.shuttle.rs/blog/2023/11/08/testing-in-rust] - Joshua Mo
 
 ## Debug / Profiling
 
