@@ -133,7 +133,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Introduction to Programming with Rust](https://www.youtube.com/playlist?list=PLbtjxiXev6lpd331MW2dB7UgSIovgv169) - Rhymu's Videos
 * [Rust Linz](https://www.youtube.com/playlist?list=PL85XCvVPmGQgL3lqQD5ivLNLfdAdxbE_u) - A Rust Meetup aimed at beginners
 * [Rust Programming Tutorial 🦀](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL) - Rust fundamentals YouTube playlist by [Trevor Sullivan](https://docs.opensrc.dev)
-* [Rust on AWS Serverless 🦀](https://www.youtube.com/watch?v=i6FKvK5JQ8o&list=PLCOG9xkUD90KQ1IPQT_m1NbPRXXRFb63s) - YouTube playlist exploring the use of Rust to build serverless applications by [James Eastham](https://jameseastham.co.uk)
+* [Rust on Serverless](https://www.youtube.com/watch?v=i6FKvK5JQ8o&list=PLCOG9xkUD90KQ1IPQT_m1NbPRXXRFb63s) - YouTube playlist exploring the use of Rust to build serverless applications by [James Eastham](https://jameseastham.co.uk)
 
 ### Presentations
 
