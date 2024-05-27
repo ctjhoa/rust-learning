@@ -201,6 +201,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/) - Wu Bingzheng
 * [Object Soup is Made of Indexes](https://jacko.io/object_soup.html) - Jack O'Connor
 * [Implementing a BitTorrent client in Rust](https://www.youtube.com/watch?v=jf_ddGnum_4&t=135s&ab_channel=JonGjengset) - Jon Gjengset
+* [Rust on Serverless](https://www.youtube.com/watch?v=i6FKvK5JQ8o&list=PLCOG9xkUD90KQ1IPQT_m1NbPRXXRFb63s) - YouTube playlist exploring the use of Rust to build serverless applications by [James Eastham](https://jameseastham.co.uk)
 
 ## Best Practices/Style Guides
 
