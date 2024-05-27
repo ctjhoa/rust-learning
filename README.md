@@ -75,7 +75,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :soon: [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust) - [repo](https://github.com/natemara/refactoring-to-rust) - Nate Mara
 * :star: [Rust Anthology](https://github.com/brson/rust-anthology) - [Brian Anderson][]
 * [Rust in Action](https://www.manning.com/books/rust-in-action) - [repo](https://github.com/rust-in-action/code) - [Tim McNamara][]
-* :soon: [Zero To Production In Rust](https://zero2prod.com) - [repo](https://github.com/LukeMathWalker/zero-to-production) - [Luca Palmieri][]
+* [Zero To Production In Rust](https://zero2prod.com) - [repo](https://github.com/LukeMathWalker/zero-to-production) - [Luca Palmieri][]
 * [Network Programming in Rust](https://www.packtpub.com/application-development/network-programming-rust) - Abhishek Chanda
 * [Learning Rust](https://www.packtpub.com/application-development/learning-rust) -  Paul Johnson, Vesa Kaihlavirta
 * [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) -  Vigneshwer Dhinakaran
@@ -139,6 +139,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * 2021-06-25 - [How to learn Rust](https://youtu.be/sDtQaO5_SOw) - [Tim McNamara][]
 * 2021-06-01 - [A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor
 * 2020-09-21 - [live@Manning Rust Conference](https://www.youtube.com/watch?v=9nINNurVqz8) - [Carol Nichols][], [Tim McNamara][], Maciej Hirsz, Olivia Ifrim, Nell Shamrell-Harrington, Pierre Krieger, Richard Walters, Chris Griffing, Lachezar Lechev, Michael Hausenblas
+* 2018-08-17 - [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) - Catherine West
 * 2017-06-20 - :star: [Rust: Putting Ownership to Use](https://www.youtube.com/watch?v=wXoY91w4Agk) - [Niko Matsakis][]
 * 2017-01-20 - [Rust 101](https://www.youtube.com/watch?v=FMqydRampuo) - E. Dunham
 * 2016-09-28 - [Mozilla's Rust and why we love it](https://www.youtube.com/watch?v=LuNhkRxP2E4) - Cambridge Consultants
@@ -199,6 +200,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Blessed - An unofficial guide to the Rust ecosystem](https://blessed.rs/crates) - Nico Burns
 * [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/) - Wu Bingzheng
 * [Implementing a BitTorrent client in Rust](https://www.youtube.com/watch?v=jf_ddGnum_4&t=135s&ab_channel=JonGjengset) - Jon Gjengset
+* [Object Soup is Made of Indexes](https://jacko.io/object_soup.html) - Jack O'Connor
 
 ## Best Practices/Style Guides
 
@@ -268,6 +270,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Ensuring Beautiful Commits with rustfmt and Travis-CI](http://kneit.in/2016/11/26/rustfmt-in-travisci.html) - Kyle Kneitinger
 * [Great Rust CI](https://dev.to/cad97/great-rust-ci-1fk6) - Christopher Durham
 * [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
+* [Rust for JavaScript Developers: An Overview of Testing](https://www.shuttle.rs/blog/2023/11/08/testing-in-rust) - Joshua Mo
 
 ## Debug / Profiling
 
@@ -293,7 +296,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 | Languages       | Links                                    |
 | --------------- | ---------------------------------------- |
 | C#              | <ul><li>[Exploring Rust (from C#)](http://nblumhardt.com/2016/03/exploring-rust/) - Nicholas Blumhardt</li></ul> |
-| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details) - [Nick Cameron][]</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li><li>[Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) - matiaslindgren</li><li>[Zero cost abstractions: Rust vs C++](https://www.rottedfrog.co.uk/?p=24) - rottedfrog</li><li>[A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor</li></ul> |
+| C/C++           | <ul><li>[Rust For Systems Programmers](https://github.com/nrc/r4cppp) & [Rust for C++ Programmers](https://www.gitbook.com/book/aminb/rust-for-c/details) - [Nick Cameron][]</li><li>[I used to use pointers - now what?](https://github.com/diwic/reffers-rs/blob/master/docs/Pointers.md) - diwic</li><li>[Comparing parallel Rust and C++](https://parallel-rust-cpp.github.io/) - matiaslindgren</li><li>[Zero cost abstractions: Rust vs C++](https://www.rottedfrog.co.uk/?p=24) - rottedfrog</li><li>[A Firehose of Rust, for busy people who know some C++](https://www.youtube.com/watch?v=IPmRDS0OSxM) - Jack O'Connor</li><li>[Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ) - Jack O'Connor</li></ul> |
 | Clojure         | <ul><li>[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) - Zach Oakes</li></ul> |
 | Go | <ul><li>[Rust vs Go](https://bitfieldconsulting.com/golang/rust-vs-go) - John Arundel</li><li>[Rust vs. Go](http://julio.meroh.net/2018/07/rust-vs-go.html) - Julio Merino</li></ul>
 | Java/Scala            | <ul><li>[Comparing Rust and Java](https://llogiq.github.io/2016/02/28/java-rust.html) - [Llogiq][]</li><li>[A light comparison between Rust and Java generics and type system features.](https://gist.github.com/Kimundi/8391398) - Marvin Löbel</li><li>[Rust: A Scala Engineer's Perspective](https://beachape.com/blog/2017/05/24/rust-from-scala/) - Lloyd </li><li>[Rust for professionals](https://overexact.com/rust-for-professionals/) - Pascal</li></ul> |
@@ -454,6 +457,7 @@ Can I use feature X? [caniuse.rs - Rust feature search](https://caniuse.rs/)
 * [Pre-pooping Your Pants With Rust](http://cglab.ca/~abeinges/blah/everyone-poops/) - [Alexis Beingessner][]
 * :star: [Unsafe Abstractions](http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/) - [Niko Matsakis][]
 * :star: [The "Tootsie Pop" Model for Unsafe Code](http://smallcultfollowing.com/babysteps/blog/2016/05/27/the-tootsie-pop-model-for-unsafe-code/) - [Niko Matsakis][]
+* [Unsafe Rust is not C](https://www.youtube.com/watch?v=DG-VLezRkYQ) - Jack O'Connor
 
 ## Playground
 
@@ -486,7 +490,7 @@ Do you want to meet them IRL? [Meetup groups](http://www.meetup.com/topics/rust/
 
 Go to rusty events? [The 2018 Rust Event Lineup](https://blog.rust-lang.org/2018/01/31/The-2018-Rust-Event-Lineup.html), [The 2019 Rust Event Lineup](https://blog.rust-lang.org/2019/05/20/The-2019-Rust-Event-Lineup.html)
 
-Are you looking for a job? [RustJobs.dev](https://rustjobs.dev/)
+Are you looking for a job? [RustJobs.dev](https://rustjobs.dev/), [RustJobs.com](https://www.rustjobs.com/)
 
 Are you fast, friendly, and fearless? [Find something Rusty to work on!](https://www.rustaceans.org/findwork/starters), [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/)
 
@@ -506,7 +510,7 @@ A complete list could be found [here](https://users.rust-lang.org/t/fearless-rus
 * [Chris Morgan][] - [blog](https://chrismorgan.info/blog/tags/rust/)
 * [Felix S Klock II][] - [blog](http://blog.pnkfx.org/)
 * [Huon Wilson][] - [blog](https://huonw.github.io/blog/)
-* [Jonathan Turner][] - [blog](http://jntrnr.github.io)
+* [Jonathan Turner][] - [blog](https://www.jntrnr.com/)
 * [Llogiq][] - [blog](http://llogiq.github.io/)
 * [Manish Goregaokar][] - [blog](https://manishearth.github.io/)
 * [Nick Cameron][] - [blog](http://featherweightmusings.blogspot.fr/)
