@@ -94,8 +94,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Rust High Performance](https://www.amazon.com/Rust-High-Performance-performance-applications/dp/178839948X) - Iban Eguia Moraza
 * [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/) - Kevin Hoffman
 * [Hands-On Microservices with Rust 2018: How To Build Scalable and Reliable RESTful Microservices](https://www.amazon.co.uk/Hands-Microservices-Rust-2018-Scalable/dp/1789342759/ref=sr_1_6?s=books&ie=UTF8&qid=1545340800&sr=1-6&keywords=rust) - Denis Kolodin
-* [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust) - Claus Matzinger
-* [The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust](https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109) - - Vesa Kaihlavirta, Rahul Sharma, Claus Matzinger
+* [The Complete Rust Programming Reference Guide: Design, develop, and deploy effective software systems using the advanced constructs of Rust](https://www.amazon.com/Complete-Rust-Programming-Reference-Guide/dp/1838828109) - Vesa Kaihlavirta, Rahul Sharma, Claus Matzinger
 * [Easy Rust](https://github.com/Dhghomon/easy_rust) - David MacLeod
 * [Rust Web Development](https://www.manning.com/books/rust-web-development) - [repo](https://github.com/Rust-Web-Development/code) - Bastian Gruber
 * [The Little Book of Rust Books](https://lborb.github.io/book/) - [repo](https://github.com/lborb/book)
@@ -261,7 +260,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * 2017-09-06 - [Building and Deploying a Rust library on iOS](https://mozilla.github.io/firefox-browser-architecture/experiments/2017-09-06-rust-on-ios.html) - Emily Toop
 * 2020-09-08 - [I C and .so does Rust](https://prateeknischal.github.io/posts/i-c-and-so-does-rust/) - prateeknischal
 * [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/?updated=2015-11-08) - Jake Goulding
-* [The Rust FFI Guide - using unsafe for fun and profit](https://michael-f-bryan.github.io/rust-ffi-guide/) - Michael-F-Brya
+* [The Rust FFI Guide - using unsafe for fun and profit](https://michael-f-bryan.github.io/rust-ffi-guide/) - Michael-F-Bryan
 
 ## CI / Testing
 
@@ -314,8 +313,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 
 ## Applications / Libraries / Tools
 
-See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awesomo
-/rust](https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md)
+See repos [kud1ing/awesome-rust](https://github.com/kud1ing/awesome-rust) & [awesomo/rust](https://github.com/lk-geimfari/awesomo/blob/master/languages/RUST.md)
 
 ## Language stuff
 
