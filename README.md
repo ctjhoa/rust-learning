@@ -248,6 +248,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Cross Compiling for Raspberry Pi](https://github.com/Ogeon/rust-on-raspberry-pi) - Ogeon
 * :star: [Taking Rust everywhere with rustup](http://blog.rust-lang.org/2016/05/13/rustup.html) - [Brian Anderson][]
 * [Why is a Rust executable large?](https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html) - Kang Seonghoon
+* [Why Agent Edits Need Semantic Identity: Building SEMAPRAX in Rust](https://wavect.io/blog/semantic-identity-rust-agent-edits/) - Kevin Riedl (Wavect)
 * [Rust your ARM microcontroller!](http://blog.japaric.io/quickstart/) - [Jorge Aparicio][]
 * [Cross-compiling Rust for the Raspberry Pi on macOS](https://akappel.github.io/2017/11/07/rpi-crosstool.html) - Adrian Kappel
 * [rust-on-mobile](https://github.com/mtak-/rust-on-mobile) - mtak-
