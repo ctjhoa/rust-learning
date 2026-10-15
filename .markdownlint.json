@@ -2,5 +2,7 @@
 	"default": true,
 	"line-length": false,
 	"no-space-in-links": false,
-	"no-inline-html": false
+	"no-inline-html": false,
+	"descriptive-link-text": false,
+	"table-column-style": false
 }
