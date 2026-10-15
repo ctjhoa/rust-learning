@@ -67,7 +67,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * :star: [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - [repo](https://github.com/rust-lang-nursery/rust-cookbook)
 * :star: [Why Rust?](https://www.oreilly.com/content/why-rust/) - [Jim Blandy][]
 * :star: [The Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - [repo](https://github.com/rust-embedded/book) - Rust Embedded WG
-* :star: [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) - [repo](https://github.com/rust-lang/cargo/tree/master/src/doc)
+* :star: [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) - [repo](https://github.com/rust-lang/cargo/tree/master/doc/book)
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Ralf Jung
 * [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials-second-edition) -  Ivo Balbaert
 * [Programming Rust](http://shop.oreilly.com/product/0636920040385.do) - [Jim Blandy][], Jason Orendorff
@@ -176,7 +176,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) - [Alexis Beingessner][]
 * :star: [Let's build a browser engine!](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Matt Brubeck
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/) - [Ana Hoverbear][]
-* [Writing an OS in Rust 1st edition](http://os.phil-opp.com/) [2nd edition](https://os.phil-opp.com/second-edition/) - Philipp Oppermann
+* [Writing an OS in Rust 1st edition](https://os.phil-opp.com/edition-1/) [2nd edition](https://os.phil-opp.com/second-edition/) - Philipp Oppermann
 * [Creating Nintendo 64 emulator from scratch in Rust!](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2) - Jake Taylor
 * [The Many Kinds of Code Reuse in Rust](http://cglab.ca/~abeinges/blah/rust-reuse-and-recycle/) - [Alexis Beingessner][]
 * [Make a Lisp](https://github.com/kanaka/mal) - Joel Martin
