@@ -203,6 +203,7 @@ The main documentation is always the best beginning, so if you haven't read it y
 * [Object Soup is Made of Indexes](https://jacko.io/object_soup.html) - Jack O'Connor
 * [Implementing a BitTorrent client in Rust](https://www.youtube.com/watch?v=jf_ddGnum_4&t=135s&ab_channel=JonGjengset) - Jon Gjengset
 * [Rust on Serverless](https://www.youtube.com/watch?v=i6FKvK5JQ8o&list=PLCOG9xkUD90KQ1IPQT_m1NbPRXXRFb63s) - YouTube playlist exploring the use of Rust to build serverless applications by [James Eastham](https://jameseastham.co.uk)
+* [Rust - A Language You'll Love](https://cratecode.com/lesson/rust-a-language-youll-love/75m1jc9k0p/xa3l5ahj5w) - Cratecode
 
 ## Best Practices/Style Guides
 
